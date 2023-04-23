@@ -1,0 +1,13 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    image: fer-api
+  client:
+    build:
+      context: .
+      dockerfile: Dockerfile.client
+    image: fer-client
+    ports:
+      - "3000:3000"
