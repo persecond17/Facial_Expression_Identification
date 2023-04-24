@@ -4,6 +4,8 @@ services:
       context: .
       dockerfile: Dockerfile.api
     image: fer-api
+    ports:
+      - "5000:5000"
   client:
     build:
       context: .
