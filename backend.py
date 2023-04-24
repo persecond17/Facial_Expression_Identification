@@ -7,7 +7,7 @@ import random
 from models_src.load_model import *
 
 app = Flask(__name__)
-CORS(app, origins='http://localhost:3000')
+CORS(app, origins='*')
 
 model_path = 'models/fer_cnn_v01.pth'
 df = pd.read_csv('song_list.csv')
@@ -40,4 +40,4 @@ def get_recommendations():
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5000, debug=True)
