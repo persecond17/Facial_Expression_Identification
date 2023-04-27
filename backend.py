@@ -31,9 +31,13 @@ def get_recommendations():
         target = df[df['category'] == predicted_emotion]
         song_pool = target['name'].tolist()
         song_url_dict = target[['name', 'urls']].set_index('name').to_dict()['urls']
+        song_artist_dict = target[['name', 'artist']].set_index('name').to_dict()['artist']
+        song_img_dict = target[['name', 'imgs']].set_index('name').to_dict()['imgs']
         song_list = random.sample(song_pool, 10)
         url_list = [song_url_dict[song] for song in song_list]
-        response = jsonify({'songs': song_list, 'urls': url_list})
+        artist_list = [song_artist_dict[song] for song in song_list]
+        img_list = [song_img_dict[song] for song in song_list]
+        response = jsonify({'songs': song_list, 'artists': artist_list, 'urls': url_list, 'imgs': img_list})
         return response, 200
 
     except Exception as e:

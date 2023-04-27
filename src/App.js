@@ -1,11 +1,19 @@
 import React, { useState } from 'react';
+import Paper from '@mui/material/Paper';
+import { useTheme, createTheme } from '@mui/material/styles';
+import styled from '@mui/material/styles/styled';
+import './App.css';
+import logo from './logo.jpg';
+import { Button, Stack, Grid, Box, List, ListItem, ListItemText, Link } from '@mui/material';
+
 
 const App = () => {
   // State to store the uploaded image file
   const [image, setImage] = useState(null);
-  const [data, setData] = useState({ songs: [], urls: [] });
+  const [data, setData] = useState({ songs: [], artists: [], urls: [], imgs:[] });
   const [isLoading, setIsLoading] = useState(false);
   const [err, setErr] = useState('');
+  const theme = useTheme();
 
   // Function to handle image upload
   const handleImageUpload = (event) => {
@@ -50,42 +58,101 @@ const App = () => {
     }
   };
 
+  const Item = styled(Paper)(({ theme }) => ({
+    ...theme.typography.body2,
+    textAlign: 'center',
+    color: theme.palette.text.secondary,
+    height: 60,
+    lineHeight: '60px',
+  }));
 
   return (
-      <div>
-        <h1>Emotion-Based Playlist Creator</h1>
-        <h2>Please upload a facial image, we would provide a customized playlist to make your day!<br />
-          (We would not save your image and you can remove it at any time.)</h2>
-        <label htmlFor="imageUpload">Upload Image:</label>
-        <input id="imageUpload" type="file" onChange={handleImageUpload} />
+      <div style={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        height: '100vh',
+        background: '#f7f7f7',
+        position: 'relative',
+      }}>
+        <div style={{
+          background: '#fff',
+          padding: '40px',
+          borderRadius: '10px',
+          boxShadow: '0px 0px 10px rgba(0, 0, 0, 0.1)',
+          position: 'relative',
+        }}>
+          <div style={{
+            position: 'absolute',
+            top: '16px',
+            left: '10%',
+            transform: 'translateX(-50%)',
+            zIndex: 1,
+
+          }}>
+            <img src={logo} alt="logo" style={{ width: '190px' }} />
+          </div>
+          <h1 style={{ fontSize: '48px', fontWeight: 'bold', marginBottom: '20px' }}>InMood Emotion-Based Recommendation Engine</h1>
+          <h4 style={{ fontSize: '18px', lineHeight: '1.5', marginBottom: '20px' }}>
+            Please upload a facial image (JPG or PNG), we would provide a customized playlist to make your day!
+            <br/>
+            We would not save your image and you can remove it at any time.
+          </h4>
+        <Stack direction="row" spacing={5}>
+          <label htmlFor="imageUpload">
+            <Button variant="contained" size="medium" component="label" onClick={() => document.getElementById('imageUpload').click()}>Upload Image</Button>
+            <input id="imageUpload" type="file" onChange={handleImageUpload} style={{ display: 'none' }} />
+          </label>
+          <Button variant="contained" size="medium" onClick={handleClick} disabled={!image}>
+            Create Playlist
+          </Button>
+        </Stack>
+
         <br />
         <div>
           {image && (
               <div>
                 <img alt="not found" width="500px" src={image} />
                 <br />
-                <button onClick={() => setImage(null)}>Remove</button>
+                <Button size="small" onClick={() => setImage(null) & setData({ songs: [], artists: [], urls: [], imgs:[] })} style={{ opacity: 0.5 }}>
+                  Remove
+                </Button>
               </div>
           )}
           <br />
-          <button onClick={handleClick}>Create Playlist</button>
-        </div>
-        <div>
           {isLoading ? (
               <p>Loading...</p>
           ) : (
-              <ul>
-                {data.songs.map((song, index) => (
-                    <li key={song}>
-                      <a href={data.urls[index]}>{song}</a>
-                    </li>
-                ))}
-              </ul>
+              <Grid container>
+                <Grid item xs={10}>
+                  <List>
+                    {data.songs.map((song, index) => (
+                        <ListItem key={song}>
+                          <ListItemText
+                              primary={
+                                <Link href={data.urls[index]} target="_blank">
+                                  {song}
+                                </Link>
+                              }
+                              secondary={data.artists[index]}
+                          />
+                        </ListItem>
+                    ))}
+                  </List>
+                </Grid>
+                <Grid item xs={10}>
+                  {data.songs && data.songs.length>0 && (
+                  <Button variant="contained" size="medium" onClick={handleClick} disabled={!image}>
+                    Try Some New
+                  </Button>)}
+                </Grid>
+              </Grid>
           )}
         </div>
-        {err && <p>Error: {err}</p>}
+          {err && <p>Error: {err}</p>}
+        </div>
       </div>
   );
-};
+}
 
 export default App;
