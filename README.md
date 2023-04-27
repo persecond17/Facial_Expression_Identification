@@ -22,10 +22,8 @@ Using the InMood facial expression identification engine is remarkably simple an
 - Users can embark on their emotional music journey, carefully curated to evoke specific emotions and enhance their overall music listening experience.
 
 ### Examples
-Example 1:
 ![Alt text](./img/step_2.jpg)
 
-Example 2:
 ![Alt text](./img/step_3.jpg)
 
 ### Superiority
@@ -41,7 +39,7 @@ We are open to collaboration with other content platforms. The InMood facial exp
 
 
 ## Team
-- Yichen Zhao is responsible for CNN model development, training, and deployment.
-- Xinyi (Jessica) Wang oversees questionnaires, app deployment, and presentation.
-- Xin Ai is in charge of end-to-end development and implementing cloud-based launch (AWS).
-- Chuyi (Joy) Huang handles marketing research and strategy for the final product.
+- [Yichen Zhao](alexyczhao@gmail.com) is responsible for CNN model development, training, and deployment.
+- [Xinyi (Jessica)](wangxinyi1986@gmail.com) Wang oversees questionnaires, app deployment, and presentation.
+- [Xin Ai](xinnnnn.ai@gmail.com) is in charge of end-to-end development and implementing cloud-based launch (AWS).
+- [Chuyi (Joy) Huang](chuang86@usfca.edu) handles marketing research and strategy for the final product.
