@@ -39,7 +39,7 @@ We are open to collaboration with other content platforms. The InMood facial exp
 
 
 ## Team
-- [Yichen Zhao](alexyczhao@gmail.com) is responsible for CNN model development, training, and deployment.
-- [Xinyi (Jessica)](wangxinyi1986@gmail.com) Wang oversees questionnaires, app deployment, and presentation.
-- [Xin Ai](xinnnnn.ai@gmail.com) is in charge of end-to-end development and implementing cloud-based launch (AWS).
-- [Chuyi (Joy) Huang](chuang86@usfca.edu) handles marketing research and strategy for the final product.
+- [Yichen Zhao](mailto:alexyczhao@gmail.com) is responsible for CNN model development, training, and deployment.
+- [Xinyi (Jessica)](mailto:wangxinyi1986@gmail.com) Wang oversees questionnaires, app deployment, and presentation.
+- [Xin Ai](mailto:xinnnnn.ai@gmail.com) is in charge of end-to-end development and implementing cloud-based launch (AWS).
+- [Chuyi (Joy) Huang](mailto:chuang86@usfca.edu) handles marketing research and strategy for the final product.
