@@ -37,7 +37,7 @@ const App = () => {
       formData.append('image', image); // Append the image file to FormData
       console.log('image', image)
 
-      const response = await fetch('http://18.119.0.164:5000/get_recommendations/', {
+      const response = await fetch('http://3.145.159.88:5000/get_recommendations/', {
         method: 'POST',
         body: formData, // Set the FormData as the request body
       });

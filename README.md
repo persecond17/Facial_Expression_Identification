@@ -9,12 +9,12 @@ The aim of InMood is to provide users with a truly personalized and unique exper
 To showcase the power of InMood, we created a demo that generates customized music playlists based on users' uploaded images, accurately analyzing their facial expressions to determine their emotions.
 InMood's unparalleled level of personalization, emotional resonance, and adaptability makes it a superior choice over traditional music recommendation strategies. Our technology delivers an exceptional music listening experience that truly connects with users on a deep emotional level.
 
-### **Demo Link: [InMood](http://18.119.0.164:3000/)**
+### **Demo Link: [InMood](http://3.145.159.88:3000/)**
 
 ![Alt text](./img/step_1.jpg)
 
 ### Steps
-Using the InMood facial expression identification engine is remarkably simple and user-friendly.
+Using the InMood Emotion-Based Music Playlist Generator is remarkably simple and user-friendly.
 
 - Users can effortlessly upload their facial images with a click of a button.
 - The InMood engine then performs real-time analysis of their facial expressions when the "Create Playlist" button is clicked.
@@ -27,7 +27,7 @@ Using the InMood facial expression identification engine is remarkably simple an
 ![Alt text](./img/step_3.jpg)
 
 ### Superiority
-The InMood facial expression identification engine boasts numerous advantages over traditional music recommendation strategies.
+The InMood Emotion-Based Music Playlist Generator boasts numerous advantages over traditional music recommendation strategies.
 
 - It delivers a highly personalized and emotionally resonant music experience by taking into account the user's current emotional state based on their facial expressions.
 - By analyzing facial expressions in real-time, it captures the user's ever-changing emotional state throughout the day, generating dynamic and adaptive music playlists accordingly, providing frequent and tailored playlists as desired.
@@ -35,7 +35,7 @@ The InMood facial expression identification engine boasts numerous advantages ov
 
 
 ## Cooperation
-We are open to collaboration with other content platforms. The InMood facial expression identification engine can be easily integrated into existing music streaming platforms or apps, augmenting their recommendation capabilities and providing a unique competitive advantage.
+We are open to collaboration with other content platforms. The InMood Emotion-Based Music Playlist Generator can be easily integrated into existing music streaming platforms or apps, augmenting their recommendation capabilities and providing a unique competitive advantage.
 
 
 ## Team
