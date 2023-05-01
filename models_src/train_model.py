@@ -154,7 +154,7 @@ optimizer = torch.optim.SGD(model.parameters(), lr=lr)
 
 idx_to_label = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
 num_batches = len(train_loader)
-num_epochs = 10
+num_epochs = 50
 
 model.train()
 
@@ -182,7 +182,7 @@ for epoch in range(num_epochs):
         if (i + 1) % int(num_batches / 5) == 0:
             print(f'epoch {epoch + 1}/{num_epochs} step {i + 1}/{num_batches}: loss = {loss}')
 
-torch.save(model.state_dict(), MODEL_PATH_v01)
+torch.save(model.state_dict(), MODEL_PATH_v03)
 
 # evaluate training accuracy
 model.eval()

@@ -9,7 +9,7 @@ from models_src.load_model import *
 app = Flask(__name__)
 CORS(app, origins='*')
 
-model_path = 'models/fer_cnn_v01.pth'
+model_path = 'models/fer_cnn_v03.pth'
 df = pd.read_csv('song_list.csv')
 output_path = 'image.jpg'
 
