@@ -3,6 +3,7 @@ import os
 cwd = os.path.basename(os.getcwd())
 ROOT = '..' if cwd == 'models_src' else '.'
 
+# the data directory on your local machine, might be different
 TRAINING_DIR = os.path.join(ROOT, '../data/train')
 VAL_TEST_DIR = os.path.join(ROOT, '../data/test')
 
