@@ -1,701 +1,701 @@
-,name,category,artist,popularity,urls
-0,Woman,happy,Harry Styles,72,https://open.spotify.com/track/33bURv895AN4FkBvgFo2dx
-1,Payphone,happy,"Maroon 5,Wiz Khalifa",85,https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A
-2,The Nights,happy,Avicii,87,https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc
-3,Get To Know You,happy,Samantha Harvey,69,https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H
-4,Paper Rings,happy,Taylor Swift,84,https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR
-5,Best Day Of My Life,happy,American Authors,80,https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP
-6,"Hap, Hap, Hap, Happy Birthday",happy,Parry Gripp,50,https://open.spotify.com/track/5ZG02EkmEPswTNLes6bygO
-7,"Happy Birthday Dear Saturday Club - Live At The BBC For ""Saturday Club"" / 5th October, 1963",happy,The Beatles,50,https://open.spotify.com/track/2UpYmhDZVmzfdsgvLavmfj
-8,Don't Worry Be Happy,happy,Bobby McFerrin,71,https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY
-9,"Happy - From ""Despicable Me 2""",happy,Pharrell Williams,82,https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH
-10,AOK,happy,Tai Verdes,76,https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP
-11,Olivia,happy,One Direction,72,https://open.spotify.com/track/5dONhl6aXFuN86UBdayF6W
-12,Better When I'm Dancin',happy,Meghan Trainor,77,https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L
-13,Sunroof,happy,"Nicky Youre,dazy",88,https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8
-14,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",happy,Justin Timberlake,80,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc
-15,Smile,happy,Benjamin Ingrosso,65,https://open.spotify.com/track/2X97u85uhrMdjPLFZ8Upn8
-16,Just A Cloud Away,happy,Pharrell Williams,68,https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4
-17,Somebody To Love,happy,"MARF,Wulf",64,https://open.spotify.com/track/2KTO4mRnARHCqXhV8f6MBj
-18,Mr. Blue Sky,happy,Electric Light Orchestra,81,https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp
-19,Geronimo,happy,Sheppard,72,https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en
-20,Out of My League,happy,Fitz and The Tantrums,74,https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH
-21,Sunday Best,happy,Surfaces,77,https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo
-22,Walking On Sunshine,happy,Katrina & The Waves,80,https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0
-23,Say Hey (I Love You) (feat. Cherine Tanya Anderson),happy,"Michael Franti & Spearhead,Cherine Tanya Anderson",66,https://open.spotify.com/track/383B8ksM58jbV3HbiRJo0K
-24,Uptown Funk (feat. Bruno Mars),happy,"Mark Ronson,Bruno Mars",84,https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
-25,Golden,happy,Harry Styles,82,https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl
-26,Good Time,happy,"Owl City,Carly Rae Jepsen",79,https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX
-27,Lose Control,happy,"220 KID,S1mba",59,https://open.spotify.com/track/5ugYo7xM632grP29JqjxZa
-28,Suddenly I See,happy,KT Tunstall,74,https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3
-29,Lucky (feat. Noa Kirel),happy,"Jubël,Noa Kirel",59,https://open.spotify.com/track/1JMDsOUPflzsNN62KEBaH9
-30,this is what falling in love feels like,happy,JVKE,82,https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL
-31,Legit,happy,"Erlandsson,The High",60,https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz
-32,Shake It Off,happy,Taylor Swift,84,https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD
-33,Hug Me,happy,"Pharrell Williams,Trey Parker",70,https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu
-34,I Want You Back,happy,The Jackson 5,79,https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S
-35,Best Friend,happy,Rex Orange County,78,https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd
-36,Happy birthday to you,happy,Happy Birthday Song,47,https://open.spotify.com/track/56alWioOL5f1Sx60PjDD0D
-37,At Least I Had Fun,happy,"Martin Jensen,RANI",67,https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o
-38,"Honey, I'm Good.",happy,Andy Grammer,73,https://open.spotify.com/track/4MflGTO2ZTcSQ12bWcyRgI
-39,Happy birthday,happy,옐로우페이퍼,45,https://open.spotify.com/track/5MypYZZCEMplPOpx7vpGpZ
-40,"Hey, Soul Sister",happy,Train,84,https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv
-41,In My Zone,happy,Tungevaag,61,https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0
-42,Relight My Love,happy,"Matisse & Sadko,Mougleta",55,https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS
-43,Brighter Than The Sun,happy,Colbie Caillat,66,https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP
-44,Good Vibes,happy,"HRVY,Matoma",69,https://open.spotify.com/track/53kWAAfx7IopXRa31MQHB8
-45,Higher Love,happy,"Ali Story,Maria Mathea",54,https://open.spotify.com/track/2yCyr5ZJHDm9CzpPRdduJ9
-46,Canyon Moon,happy,Harry Styles,73,https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq
-47,These Are The Days (feat. Liv Dawson),happy,"Anton Powers,ManyFew,Liv Dawson",58,https://open.spotify.com/track/39GX8fhLrxiPcNAMgZhWUa
-48,My Life (feat. Joe Killington),happy,"Wh0,Armand Van Helden,Joe Killington",52,https://open.spotify.com/track/5IhCWukOzeazDOHKCKARki
-49,Shut Up And Dance With Me,happy,Fun Guns,66,https://open.spotify.com/track/4KYAV74fzH1rUipmxXejw1
-50,Don't Worry Be Happy,happy,Bobby McFerrin,71,https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY
-51,You Make My Dreams (Come True),happy,Daryl Hall & John Oates,80,https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk
-52,Dancing in the Moonlight,happy,Toploader,79,https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od
-53,Send Me On My Way,happy,Rusted Root,70,https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr
-54,Tongue Tied,happy,GROUPLOVE,80,https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N
-55,AOK,happy,Tai Verdes,76,https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP
-56,Sunroof,happy,"Nicky Youre,dazy",88,https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8
-57,Sunday Best,happy,Surfaces,77,https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo
-58,Made You Look,happy,Meghan Trainor,91,https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u
-59,It's a Beautiful Day,happy,Michael Bublé,69,https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv
-60,Say Hey (I Love You) (feat. Cherine Tanya Anderson),happy,"Michael Franti & Spearhead,Cherine Tanya Anderson",66,https://open.spotify.com/track/383B8ksM58jbV3HbiRJo0K
-61,Just A Cloud Away,happy,Pharrell Williams,68,https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4
-62,Walking On Sunshine,happy,Katrina & The Waves,80,https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0
-63,On Top Of The World,happy,Imagine Dragons,78,https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w
-64,Fine By Me,happy,Andy Grammer,67,https://open.spotify.com/track/4wTChU0tU44TAMC0xcQizi
-65,Best Day Of My Life,happy,American Authors,80,https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP
-66,Mr. Blue Sky,happy,Electric Light Orchestra,81,https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp
-67,Electric Love,happy,BØRNS,82,https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ
-68,Shotgun,happy,George Ezra,79,https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC
-69,Candy,happy,Robbie Williams,71,https://open.spotify.com/track/5NlFXQ0si6U87gXs6hq81B
-70,Lean On Me,happy,Sandro Cavazza,66,https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc
-71,Good as Hell,happy,Lizzo,77,https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV
-72,"Happy - From ""Despicable Me 2""",happy,Pharrell Williams,82,https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH
-73,Lovely Day,happy,Bill Withers,79,https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh
-74,Wake Me Up Before You Go-Go,happy,Wham!,81,https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c
-75,Joy,happy,Andy Grammer,67,https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf
-76,Hey Ya!,happy,Outkast,83,https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
-77,Shut Up and Dance,happy,WALK THE MOON,85,https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA
-78,What A Man Gotta Do,happy,Jonas Brothers,74,https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd
-79,Green Green Grass,happy,George Ezra,84,https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB
-80,Magic In The Hamptons (feat. Lil Yachty),happy,"Social House,Lil Yachty",75,https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp
-81,Good Vibes,happy,"HRVY,Matoma",69,https://open.spotify.com/track/53kWAAfx7IopXRa31MQHB8
-82,Build Me Up Buttercup,happy,The Foundations,70,https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD
-83,Look For The Good - Single Version,happy,Jason Mraz,60,https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa
-84,Upside Down,happy,Jack Johnson,76,https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ
-85,ABC,happy,The Jackson 5,71,https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5
-86,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",happy,Justin Timberlake,80,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc
-87,Be Kind,happy,Zak Abel,62,https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2
-88,Damn It Feels Good To Be Me,happy,Andy Grammer,64,https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl
-89,I Got You (I Feel Good),happy,James Brown & The Famous Flames,73,https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC
-90,Sugar Sugar,happy,The Archies,71,https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb
-91,I'm A Believer,happy,Smash Mouth,69,https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40
-92,Sheesh!,happy,"Surfaces,Tai Verdes",65,https://open.spotify.com/track/2z7VITS30dBexE91V5QXWv
-93,Sunday Candy,happy,Nico Segal,64,https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX
-94,I Feel Like Dancing,happy,Jason Mraz,70,https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP
-95,I’m Alive (Life Sounds Like),happy,Michael Franti & Spearhead,53,https://open.spotify.com/track/2UH4rbT5WrO2sDCanZI0vX
-96,Weatherman,happy,Eddie Benjamin,64,https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8
-97,The Best Days (feat. Tabitha),happy,"Sam Feldt,Karma Child,Tabitha",61,https://open.spotify.com/track/140XpWSdJ0jZEbLj9iVnPA
-98,Brighter Than The Sun,happy,Colbie Caillat,66,https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP
-99,Lollipop,happy,MIKA,60,https://open.spotify.com/track/2NjhV99ncY4A5lSkTHvTtU
-100,when the party's over,sad,Billie Eilish,85,https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I
-101,Heather,sad,Conan Gray,88,https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA
-102,Get You The Moon (feat. Snøw),sad,"Kina,Snøw",80,https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa
-103,Jocelyn Flores,sad,XXXTENTACION,84,https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96
-104,Before You Go,sad,Lewis Capaldi,86,https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
-105,Romantic Homicide,sad,d4vd,92,https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL
-106,Star Shopping,sad,Lil Peep,87,https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF
-107,IDK You Yet,sad,Alexander 23,77,https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk
-108,All I Want,sad,Kodaline,82,https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs
-109,Train Wreck,sad,James Arthur,81,https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H
-110,Let Me Down Slowly,sad,Alec Benjamin,86,https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d
-111,lovely (with Khalid),sad,"Billie Eilish,Khalid",90,https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4
-112,that way,sad,Tate McRae,79,https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC
-113,Fourth of July,sad,Sufjan Stevens,81,https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz
-114,Revenge,sad,XXXTENTACION,88,https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW
-115,Again,sad,"Shiloh Dynasty,Timmies",74,https://open.spotify.com/track/5e2l2ZAMwHmrkdM4Z6NhAR
-116,Atlantis,sad,Seafret,87,https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE
-117,Someone You Loved,sad,Lewis Capaldi,90,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
-118,Alone,sad,"SadBoyProlific,Ivri",68,https://open.spotify.com/track/50OPOdJbRx9iCJXGultmUf
-119,Love Is a Drug,sad,Papithbk,68,https://open.spotify.com/track/0Q06s7TNQH8irO2sfvuFnn
-120,Vas,sad,jagger finn,78,https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l
-121,If By Chance,sad,Ruth B.,71,https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw
-122,Six Feet Under,sad,Billie Eilish,75,https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc
-123,Lights Are On,sad,Tom Rosenthal,81,https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN
-124,Jealous,sad,Labrinth,77,https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z
-125,Carry On,sad,XXXTENTACION,75,https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2
-126,You Broke My Heart Again,sad,"Teqkoi,Aiko",68,https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE
-127,"I miss you, I’m sorry",sad,Gracie Abrams,79,https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx
-128,Water Fountain,sad,Alec Benjamin,78,https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To
-129,Inside Out,sad,Duster,80,https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os
-130,Why Am I Waiting,sad,Papithbk,71,https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld
-131,Break My Heart Again,sad,FINNEAS,73,https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe
-132,Dance with Me,sad,"CORBAL,Shiloh Dynasty,itssvd",71,https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH
-133,Bored,sad,Billie Eilish,85,https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ
-134,Happiest Year,sad,Jaymes Young,76,https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE
-135,Hold Me While You Wait,sad,Lewis Capaldi,80,https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM
-136,Hope,sad,XXXTENTACION,86,https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah
-137,Depressed,sad,Leanboys,64,https://open.spotify.com/track/5V2zkdP7nOmnSOhTD7TXy8
-138,Already Gone,sad,Sleeping At Last,68,https://open.spotify.com/track/5zCunX8URvLoBHlg1Fnjv6
-139,July,sad,Noah Cyrus,81,https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB
-140,i don't feel part of the world anymore,sad,"itssvd,CORBAL,Shiloh Dynasty",70,https://open.spotify.com/track/11iiMB7TmFTtaXT4YJAltw
-141,Bernafas Tanpamu,sad,Last Child,69,https://open.spotify.com/track/1imyB3ufkQTtOnD2PYUSuu
-142,I'm Not Enough and I'm Sorry,sad,"Teqkoi,Snøw",62,https://open.spotify.com/track/4P1L6AniTDJzANaubzWGYs
-143,I Lost a Friend,sad,FINNEAS,67,https://open.spotify.com/track/5v1sPD1lu2wiPzi07tW8zm
-144,i love you,sad,Billie Eilish,81,https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc
-145,Sorry,sad,Halsey,73,https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK
-146,Forever,sad,Lewis Capaldi,78,https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3
-147,Everybody Dies In Their Nightmares,sad,XXXTENTACION,85,https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7
-148,It's Ok,sad,Tom Rosenthal,71,https://open.spotify.com/track/2Iyfw8YfKruAagJwGc4G07
-149,Teenage Mind,sad,Tate McRae,71,https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP
-150,Hold On,sad,Chord Overstreet,82,https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K
-151,Happiest Year,sad,Jaymes Young,76,https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE
-152,i love you,sad,Billie Eilish,81,https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc
-153,Bruises,sad,Lewis Capaldi,83,https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG
-154,July,sad,Noah Cyrus,81,https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB
-155,traitor,sad,Olivia Rodrigo,87,https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT
-156,Half A Man,sad,Dean Lewis,78,https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv
-157,Falling,sad,Harry Styles,85,https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp
-158,One Day,sad,Tate McRae,71,https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD
-159,Supermarket Flowers,sad,Ed Sheeran,76,https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG
-160,Trying My Best,sad,Anson Seabra,66,https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b
-161,Atlantis,sad,Seafret,87,https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE
-162,Glimpse of Us,sad,Joji,82,https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs
-163,TV,sad,Billie Eilish,87,https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw
-164,Forever,sad,Lewis Capaldi,78,https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3
-165,Lonely,sad,Noah Cyrus,70,https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf
-166,"All I Want - From ""High School Musical: The Musical: The Series""",sad,"Olivia Rodrigo,Disney",79,https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW
-167,Be Alright,sad,Dean Lewis,79,https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy
-168,Heather,sad,Conan Gray,88,https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA
-169,you broke me first,sad,Tate McRae,84,https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR
-170,Touch,sad,Sleeping At Last,69,https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN
-171,Broken,sad,Isak Danielson,74,https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6
-172,Train Wreck,sad,James Arthur,81,https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H
-173,If By Chance,sad,Ruth B.,71,https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw
-174,Six Feet Under,sad,Billie Eilish,75,https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc
-175,Someone You Loved,sad,Lewis Capaldi,90,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
-176,IDK You Yet,sad,Alexander 23,77,https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk
-177,"i hate u, i love u (feat. olivia o'brien)",sad,"gnash,Olivia O'Brien",78,https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe
-178,Out Of Love,sad,Alessia Cara,73,https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb
-179,Family Line,sad,Conan Gray,78,https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5
-180,Dancing With Your Ghost,sad,Sasha Alex Sloan,81,https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ
-181,Let Me Down Slowly,sad,Alec Benjamin,86,https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d
-182,Serana,sad,For Revenge,78,https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd
-183,Dancing On My Own,sad,Calum Scott,82,https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ
-184,Heal,sad,Tom Odell,74,https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci
-185,hope ur ok,sad,Olivia Rodrigo,74,https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3
-186,Birthday Cake,sad,Dylan Conrique,74,https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme
-187,Moral of the Story,sad,Ashe,77,https://open.spotify.com/track/69HzZ3ti9DLwb0GdWCGYSo
-188,Arcade,sad,Duncan Laurence,76,https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C
-189,How Do I Say Goodbye,sad,Dean Lewis,78,https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL
-190,Remember That Night?,sad,Sara Kays,75,https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7
-191,Sober,sad,Demi Lovato,67,https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5
-192,Lights Are On,sad,Tom Rosenthal,81,https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN
-193,Before You Go,sad,Lewis Capaldi,86,https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
-194,Je te laisserai des mots,sad,Patrick Watson,85,https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS
-195,Gilded Lily,sad,Cults,83,https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF
-196,ceilings,sad,Lizzy McAlpine,92,https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI
-197,All I Want,sad,Kodaline,82,https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs
-198,I Lost a Friend,sad,FINNEAS,67,https://open.spotify.com/track/5v1sPD1lu2wiPzi07tW8zm
-199,Feeling Whitney,sad,Post Malone,76,https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0
-200,Already Enough,fear,"Fearless Soul,Rachael Schroeder",41,https://open.spotify.com/track/0T1ZQ6mggTWuYwfjBtsQjB
-201,Breathe,fear,"Fearless Soul,Rachael Schroeder",17,https://open.spotify.com/track/4WUvwvOA7jxauWr1BIdkTg
-202,Believe,fear,Fearless Soul,37,https://open.spotify.com/track/2fSdDq0hDtkfEnEpJEhJGx
-203,Meant for You,fear,Fearless Soul,30,https://open.spotify.com/track/2PaBlttqimMVnsy4B6YaJF
-204,What's Coming Is Better Than What's Gone,fear,Fearless Soul,33,https://open.spotify.com/track/4unbtcpCVuvTgYrvrVtGE7
-205,Take That Chance,fear,"Fearless Soul,Rachael Schroeder",40,https://open.spotify.com/track/7GnWIcq8ndXa3aboUWxZDb
-206,Only Love,fear,"Fearless Soul,Rachael Schroeder",42,https://open.spotify.com/track/65XUijLKHruEYw1zMwKeI5
-207,One Day Things Will Go My Way,fear,Fearless Soul,28,https://open.spotify.com/track/1Q91bzrcO4Bkwa3n1piWnv
-208,Stronger,fear,Fearless Soul,32,https://open.spotify.com/track/2w6Uf3rwBdOJUo85Mu07x1
-209,Tears Will Dry,fear,Fearless Soul,30,https://open.spotify.com/track/1bs8JNAAHN2IgQlSkRuKKZ
-210,The Deepest Purpose,fear,Fearless Soul,25,https://open.spotify.com/track/1NjSpYBED0HPAgnGkgeU3X
-211,Brighter Days,fear,"Fearless Soul,Rachael Schroeder",40,https://open.spotify.com/track/2Jb5RTs4AQ76SqXJKoEg6Z
-212,Heaven,fear,"Savella,Rachael Schroeder",42,https://open.spotify.com/track/0Dc7TkzWAujsC0FcJlPYbP
-213,I Am Me (If I Have to I'll Walk Alone),fear,Fearless Soul,24,https://open.spotify.com/track/5Sk3Y079vxnO7no9LH2nMX
-214,Living Now,fear,"Fearless Soul,Rachael Schroeder",26,https://open.spotify.com/track/2kWouaUxM2HFaJom5nb3WZ
-215,I Am the Storm,fear,"Fearless Soul,Rachael Schroeder",23,https://open.spotify.com/track/18g8vGunTzIe9nN5beR7iR
-216,Fix You,fear,Fearless Soul,0,https://open.spotify.com/track/28adRiQeQlNMLStTG6mkgZ
-217,Good Things Take Time,fear,"Fearless Soul,Rachael Schroeder",34,https://open.spotify.com/track/6mxMGEyyd6uk5RyfrQkjeU
-218,My Own Hero,fear,"Fearless Soul,Rachael Schroeder",27,https://open.spotify.com/track/29E79Vq1u5mGR4qpNXz7jK
-219,Free My Soul,fear,Fearless Soul,28,https://open.spotify.com/track/2oQRNoNmHHEEPn4bqeV5ew
-220,Uncertainty (I Will Face),fear,"Fearless Soul,Rachael Schroeder",23,https://open.spotify.com/track/2YTiYm5JUA4ADqgUYLyHn3
-221,Begin Again,fear,"Fearless Soul,Rachael Schroeder",26,https://open.spotify.com/track/6gFj7CoNtduhSdd4Ny7nbx
-222,Changing My Narrative,fear,"Fearless Soul,Rachael Schroeder",37,https://open.spotify.com/track/3YbxgVpFoaHjhvscWFxH0J
-223,Day by Day,fear,"Fearless Soul,Rachael Schroeder",25,https://open.spotify.com/track/4jGhOt0mPHQ011JPvgV2uo
-224,Pick Myself up Again,fear,Fearless Soul,21,https://open.spotify.com/track/7hyGrrMT9kf1fmZ1EU0G1C
-225,You're Amazing (Sammi's Song),fear,Fearless Soul,25,https://open.spotify.com/track/690bjbS0kZSCW4QChUcrbt
-226,Dare to Be Me,fear,"Fearless Soul,Rachael Schroeder",23,https://open.spotify.com/track/5PqgXKb4LVKaUp8FIH05Bc
-227,Never Too Late to Start Again,fear,Fearless Soul,27,https://open.spotify.com/track/1erFtGzhH7fHsfoOL3xeJk
-228,True Colors,fear,"Fearless Soul,Rachael Schroeder",42,https://open.spotify.com/track/57CCT8lTMw0b5XuFSfTEZ7
-229,Rainbow,fear,"Fearless Soul,Rachael Schroeder",22,https://open.spotify.com/track/1TECRtEhNavnLIwJvNuNdj
-230,One Day It Will Be All Over,fear,Fearless Soul,16,https://open.spotify.com/track/5i5Ure7UDJ8HEwpIwI4UkT
-231,Light and Love,fear,"Fearless Soul,JiLLi",20,https://open.spotify.com/track/2KMFmewOMWmmjtlfzMVsvN
-232,Let It Go,fear,Fearless Soul,20,https://open.spotify.com/track/7fXbRw0HYty1dNP216Hr8n
-233,This Is Not the End (Hang in There Remix),fear,"Fearless Soul,The Julianno",26,https://open.spotify.com/track/5p3Cuxs8ihQxGiWW89g8M7
-234,Thank You,fear,Fearless Soul,21,https://open.spotify.com/track/62Av9YfCtryh4M7qXlF7wh
-235,The Real Me (Acoustic),fear,Fearless Soul,9,https://open.spotify.com/track/1WlKCroEBVaFy7ldG7E2qq
-236,Better Life,fear,Fearless Soul,19,https://open.spotify.com/track/1NFuGNCnwzf1scDVRS2NYC
-237,The Best Revenge Is Letting Go,fear,Fearless Soul,14,https://open.spotify.com/track/2IhR4Rf9mwb8fzfCKofupZ
-238,Your Words Matter,fear,Fearless Soul,16,https://open.spotify.com/track/4nM65Y4SEdFbbTQ3ClWjnq
-239,Be Kind,fear,Fearless Soul,18,https://open.spotify.com/track/783tROY6zUCOIusahtbdjc
-240,Find My Way,fear,Fearless Soul,27,https://open.spotify.com/track/22ihRHHAOEknFPO6LrD1uw
-241,Better Life,fear,Fearless Soul,19,https://open.spotify.com/track/1zvcGpQHrKv1xgyWJvjJfH
-242,It’s Within You,fear,Fearless Soul,18,https://open.spotify.com/track/5FaLABiC4Ze4T0ypNnEAHC
-243,Piece of Good,fear,Fearless Soul,35,https://open.spotify.com/track/665PMJKOZiOESJIejlS1Mt
-244,Follow Your Heart,fear,Fearless Soul,15,https://open.spotify.com/track/1W0sO9b5zhHxS5FYL1bOKM
-245,Let Love Lead the Way,fear,"Fearless Soul,Rachael Schroeder",27,https://open.spotify.com/track/69ao9kMt6LQf9cZw46rRCw
-246,Believe in Miracles,fear,Fearless Soul,21,https://open.spotify.com/track/4RM7g2vYwjtJqwKYjnjmjP
-247,Mind over Matter,fear,Fearless Soul,20,https://open.spotify.com/track/7gKSNiCEAxR6I8AGQ7k5i2
-248,You Can Do Impossible Things,fear,Fearless Soul,14,https://open.spotify.com/track/79g07YYWbq1r4yLth1BlEc
-249,Confident,fear,Fearless Soul,17,https://open.spotify.com/track/69Vjcm4hsHonrbJjenncBi
-250,Heroes (We Could Be),fear,Fearless Soul,0,https://open.spotify.com/track/2uahGH1c0ngxE5ForpRXBI
-251,Be the Change You Wish to See,fear,Fearless Soul,14,https://open.spotify.com/track/2L1GaU9KCq31vBRwLewCj0
-252,Different,fear,Fearless Soul,16,https://open.spotify.com/track/0yGu41HyFc5i7yxBwS8owd
-253,Thoughts Become Things,fear,Fearless Soul,20,https://open.spotify.com/track/4kpUZZNM9AJPc7ODoAO43e
-254,Free to Be,fear,Fearless Soul,14,https://open.spotify.com/track/1dsNcfEyxalBQvBRrD70ld
-255,The Real Me,fear,Fearless Soul,9,https://open.spotify.com/track/0Hi5TJZKfOZLpchOH1fhSH
-256,The Best Revenge (Love Version),fear,Fearless Soul,11,https://open.spotify.com/track/7p3QfCh9Vme6uvNDb4E8y0
-257,Grass Is Greener,fear,Fearless Soul,15,https://open.spotify.com/track/6fYrm6u5pKItH9feNMycgE
-258,We're All One,fear,Fearless Soul,15,https://open.spotify.com/track/7pDbHfhQ3p5Lzc0rN16MiZ
-259,Be Myself,fear,"Fearless Soul,Fearless Motivation",15,https://open.spotify.com/track/79jrXiTdh9WdRBrCaBx4JL
-260,Stronger (Piano Version),fear,Fearless Soul,36,https://open.spotify.com/track/7wYMMCKe9hcoEe5eNN5YLY
-261,Fix You - Live,fear,"Fearless Soul,Rachael Schroeder",0,https://open.spotify.com/track/2ngQ9wXgq6ZDhocYSWPAJp
-262,Take Chances,fear,Fearless Soul,11,https://open.spotify.com/track/6ppDe6Bdyg54Md8RZFKBA0
-263,Piece of Good,fear,Fearless Soul,13,https://open.spotify.com/track/7DxxKMS3xHTlBAajZ6JWD4
-264,5 Things,fear,"Fearless Soul,Lyrically Twisted",12,https://open.spotify.com/track/1qSBY477E2DlD1HV3rXLYz
-265,The Meaning of Life,fear,"Fearless Soul,Lyrically Twisted",10,https://open.spotify.com/track/4sdM9SbtlgCsSm4r1SmU7e
-266,Limitations,fear,"Fearless Soul,Jones 2.0",10,https://open.spotify.com/track/3a1oQuQlXu3hqdWozJ1mZL
-267,Kind to Yourself,fear,"Fearless Soul,Rachael Schroeder",33,https://open.spotify.com/track/4TRsP00ZJmMlUx3JGTkzsS
-268,Before It's Over,fear,"Fearless Soul,Rachael Schroeder",20,https://open.spotify.com/track/0A40YICcULTEx9yCFBE9k6
-269,Don't Dream It's Over,fear,"Fearless Soul,Rachael Schroeder",39,https://open.spotify.com/track/5g9ZE24cLRIRIYQYsKVe9T
-270,Always Changing,fear,"Fearless Soul,Rachael Schroeder",14,https://open.spotify.com/track/3PKB65sj5dYvo5WpPbcnXZ
-271,Hallelujah,fear,"Fearless Soul,The Julianno",26,https://open.spotify.com/track/7IooYkW0yGMSYlvTYZuitv
-272,human,fear,Fearless Soul,27,https://open.spotify.com/track/7nQBzRUUA0Uo3VlNqxi0Zs
-273,Elastic Heart,fear,Fearless Soul,31,https://open.spotify.com/track/4OoygSD9V5m2uvZYUwZOdB
-274,No More Negativity,fear,Fearless Soul,11,https://open.spotify.com/track/6H7pYRyx3I8q4J0EKB8sWm
-275,Kill Em With Kindness,fear,"Savella,Rachael Schroeder",25,https://open.spotify.com/track/2ytaxMQgFSVzi5OapR5vQb
-276,Not Your Savior,fear,"Savella,Rachael Schroeder",16,https://open.spotify.com/track/7IsheFuXJr9waH7HvBxrAy
-277,Kill Em With Kindness - Acoustic,fear,"Savella,Rachael Schroeder",43,https://open.spotify.com/track/7qcnmQQX95lU164B9IeVAz
-278,Shine Brave,fear,"Fearless Soul,Saul City",27,https://open.spotify.com/track/0R0SfchP5J4CFJjjpZMbvh
-279,My Immortal,fear,"Savella,Rachael Schroeder",40,https://open.spotify.com/track/6Wsm0tsNz4l80pciJNNqgp
-280,Love Is Contagious,fear,"Fearless Soul,JiLLi",15,https://open.spotify.com/track/0oSyMT9kQCVZTjWOYNgfsY
-281,Heart Song,fear,"Fearless Soul,Saul City",11,https://open.spotify.com/track/1ka4J4MgnVQtKMGgjc0GuW
-282,Look Within,fear,Fearless Soul,14,https://open.spotify.com/track/2e2ajiHyWAbwl50CAChqUa
-283,The Sun Will Come Out,fear,Fearless Soul,11,https://open.spotify.com/track/4MIINolTRaOHmbOok4Wm6S
-284,Hope,fear,Fearless Soul,10,https://open.spotify.com/track/43BlCAwiyEw9jqQB9GEOPu
-285,The Climb,fear,Fearless Soul,40,https://open.spotify.com/track/6E81vx9iKbpVb9vWDGqfPs
-286,My Power,fear,Fearless Soul,20,https://open.spotify.com/track/0378T0naGrLkPKSWLCwt7P
-287,Rainbow (Acoustic),fear,"Fearless Soul,Rachael Schroeder",40,https://open.spotify.com/track/2IasNNwKkhAyAADb5n1Srt
-288,Spirits,fear,Fearless Soul,19,https://open.spotify.com/track/3UaWvh3l7KSx96laGUly5o
-289,Million To One,fear,"Fearless Soul,Rachael Schroeder",39,https://open.spotify.com/track/5RiAouQC16ccOkHVPSkuQe
-290,Don't Worry (Good Things Will Come),fear,"Fearless Soul,Rachael Schroeder",40,https://open.spotify.com/track/0HSvPS7RyfaoovMkMoyVMu
-291,Can't Wait to Meet You,fear,Fearless Soul,13,https://open.spotify.com/track/1cLhrXze4hYpJONkKyoLmP
-292,Can't Wait to Meet You (Piano),fear,Fearless Soul,32,https://open.spotify.com/track/56exwfGU6vA8z5KsBQ7rg8
-293,Live Your Way,fear,"Fearless Soul,Rachael Schroeder",23,https://open.spotify.com/track/0QNKag3pQWAlNHbL08FMNJ
-294,Only a Season,fear,"Fearless Soul,Rachael Schroeder",20,https://open.spotify.com/track/0z11WKJbzzV66BUh0Qdqfa
-295,Grateful,fear,"Fearless Soul,Rachael Schroeder",26,https://open.spotify.com/track/3u9K5bbcuyX7IH9YcN5Cjj
-296,Waiting for Me,fear,"Fearless Soul,Tyler Burdic",22,https://open.spotify.com/track/4S60ZDZc8RFu1oi3oKPpQB
-297,We All Fall,fear,Fearless Soul,19,https://open.spotify.com/track/3TauE8xpL7cotp1iBTuA6N
-298,When the Time Is Right,fear,Fearless Soul,23,https://open.spotify.com/track/38KQPZ1O0ZjYbusGixCKNx
-299,Flames (Acoustic),fear,"Fearless Soul,Tyler Burdic",44,https://open.spotify.com/track/0YNxBhkZRWSTfar4AQRuw7
-300,I duckinf hatw you,angry,"Ghostemane,Parv0",71,https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1
-301,Break Shit,angry,Jasiah,65,https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq
-302,I'm Yer Dad,angry,GRLwood,61,https://open.spotify.com/track/0Bq0OZoSo05djGSp80EDoo
-303,GENOCIDE,angry,Lil Darkie,68,https://open.spotify.com/track/68Y3zzmt2XxzheQVGbbJt4
-304,TRRST,angry,"IC3PEAK,ZillaKami",66,https://open.spotify.com/track/0M56diRArdi0vRYmLBeltn
-305,10 Things I Hate About You,angry,Leah Kate,76,https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH
-306,i hope ur miserable until ur dead,angry,Nessa Barrett,69,https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac
-307,RIP Roach,angry,"XXXTENTACION,Ski Mask The Slump God",76,https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE
-308,Rebel Girl,angry,Bikini Kill,59,https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf
-309,Smack A Bitch,angry,Rico Nasty,61,https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ
-310,The Bard's Last Note,angry,"Ricky Desktop,Kim Dracula",59,https://open.spotify.com/track/3VSc3H3iFGzKp18A5wDDTj
-311,DAYWALKER! (feat. CORPSE),angry,"Machine Gun Kelly,CORPSE",67,https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h
-312,Break Stuff,angry,Limp Bizkit,82,https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX
-313,I Hate My Mom,angry,GRLwood,58,https://open.spotify.com/track/05tkwIiIjcYXquRoObDh94
-314,METHHEAD FREESTYLE,angry,"Lil Darkie,Eric North,JOHNNASCUS,Half Metal Kaiba,BLCKK,BRUHMANEGOD,LiL CUBENSiS,Royalty the Kidd,Afourteen,Wendigo",63,https://open.spotify.com/track/495T3rrTtGF4FRHHvldWjh
-315,Bodies,angry,Drowning Pool,77,https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y
-316,Alien Blues,angry,Vundabar,83,https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x
-317,BLOODMONEY,angry,Poppy,59,https://open.spotify.com/track/5SVnsTqXBHhHYLSwULC2nv
-318,Sarcasm,angry,Get Scared,70,https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC
-319,brutal,angry,Olivia Rodrigo,79,https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC
-320,Angry Too,angry,Lola Blanc,65,https://open.spotify.com/track/3DgxdsUHAvQgWPdPij6IVw
-321,Bitchboy,angry,The Oozes,59,https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS
-322,abcdefu (angrier),angry,GAYLE,71,https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2
-323,Drunk Walk Home,angry,Mitski,65,https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO
-324,Crazy Girls,angry,TOOPOOR,74,https://open.spotify.com/track/6cSDNYoWlMxzVfJLn6H301
-325,HOLOCAUST,angry,"Lil Darkie,Wendigo,LiL CUBENSiS",68,https://open.spotify.com/track/0HWjg2QtUEw6W6khLQ2rvc
-326,labour,angry,Paris Paloma,82,https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG
-327,Fuck You,angry,Lily Allen,61,https://open.spotify.com/track/4XE98WRGbBGRZ7jQ9wIwFt
-328,YOU CAN SMD,angry,"City Morgue,ZillaKami",60,https://open.spotify.com/track/4uUUPTF8566PHM1dZqH5Kb
-329,Rage,angry,Rico Nasty,55,https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT
-330,I Fucked Yr Mom,angry,Sorry Mom,58,https://open.spotify.com/track/70WFvp0yF9m1asIb60gKcj
-331,Faggot,angry,Mindless Self Indulgence,63,https://open.spotify.com/track/09RhTAi0nuzCs5KS2XWSs5
-332,EAT SPIT! (feat. Royal & the Serpent),angry,"Slush Puppy,Royal & the Serpent",65,https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1
-333,I Disagree,angry,Poppy,60,https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ
-334,My Axe,angry,Insane Clown Posse,62,https://open.spotify.com/track/4y8G3pyyBvBKd47iyvHBNj
-335,Take A Step Back,angry,"Ski Mask The Slump God,XXXTENTACION",74,https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5
-336,BATSHIT,angry,Lil Darkie,58,https://open.spotify.com/track/6YNh2sMxv2v09rfxiPjgcW
-337,Custer,angry,Slipknot,77,https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf
-338,Crisis,angry,Jasiah,61,https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR
-339,HOT DEMON B!TCHES NEAR U ! ! !,angry,"CORPSE,Night Lovell",74,https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3
-340,Vigilante Shit,angry,Taylor Swift,80,https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O
-341,Happier Than Ever - Edit,angry,Billie Eilish,82,https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo
-342,Floor 555,angry,XXXTENTACION,72,https://open.spotify.com/track/6r7ULK6c5CLVvImjTIztl1
-343,LIGHTS OUT,angry,Kxllswxtch,67,https://open.spotify.com/track/4lFp9RYuggXl9CNyaxBtgh
-344,A Match Into Water,angry,Pierce The Veil,75,https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k
-345,Hayloft,angry,Mother Mother,77,https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq
-346,Tantrum,angry,Ashnikko,65,https://open.spotify.com/track/3htJKHlAjUoRmNLheJ8uTV
-347,Riot,angry,Hollywood Undead,65,https://open.spotify.com/track/1igr912oduAmZQaoGhiADw
-348,Killing In The Name,angry,Rage Against The Machine,81,https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp
-349,FU (feat. French Montana),angry,"Miley Cyrus,French Montana",63,https://open.spotify.com/track/6dDIOU6AqgLkrjFNPgvKY6
-350,labour,angry,Paris Paloma,82,https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG
-351,Medusa,angry,Kaia Jette,60,https://open.spotify.com/track/0SNWjlBCdLZvOXga4M34Is
-352,RIP Roach,angry,"XXXTENTACION,Ski Mask The Slump God",76,https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE
-353,RAGE,angry,Samantha Margret,54,https://open.spotify.com/track/5PT996RGwH4wDp6Ui92yDz
-354,You Make Me Sick!,angry,Ashnikko,68,https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq
-355,Drunk Walk Home,angry,Mitski,65,https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO
-356,Off The Map,angry,SoFaygo,59,https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY
-357,LED,angry,OmenXIII,70,https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF
-358,Pink Rover,angry,Scene Queen,61,https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606
-359,EXORCIST,angry,Kxllswxtch,64,https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm
-360,DEATH OF A PREDATOR,angry,Banshee,55,https://open.spotify.com/track/3RSiw9T4sAT4Rfx24YeBRU
-361,Break Shit,angry,Jasiah,65,https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq
-362,Us and Pigs,angry,Sofia Isella,61,https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt
-363,YuNg BrAtZ,angry,XXXTENTACION,77,https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB
-364,VETERAN (feat. Ken Carson),angry,"Destroy Lonely,Ken Carson",67,https://open.spotify.com/track/7pdt56nlqNtHs5H8DRBZiO
-365,Bxmb Threat,angry,Chauncey666,57,https://open.spotify.com/track/22Zd0jHYLHX1We7fWxwYL2
-366,I duckinf hatw you,angry,"Ghostemane,Parv0",71,https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1
-367,METHHEAD FREESTYLE,angry,"Lil Darkie,Eric North,JOHNNASCUS,Half Metal Kaiba,BLCKK,BRUHMANEGOD,LiL CUBENSiS,Royalty the Kidd,Afourteen,Wendigo",63,https://open.spotify.com/track/495T3rrTtGF4FRHHvldWjh
-368,5unna,angry,"Homixide Gang,R5 Homixide",63,https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3
-369,18+,angry,Scene Queen,63,https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs
-370,the fruits,angry,Paris Paloma,66,https://open.spotify.com/track/58VTP6KnZs12PcAj5rMJ4W
-371,Miss The Rage (feat. Playboi Carti),angry,"Trippie Redd,Playboi Carti",76,https://open.spotify.com/track/5gZYpjakt37G3c58FKcQwJ
-372,Crisis,angry,Jasiah,61,https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR
-373,Run + Ran,angry,Ken Carson,60,https://open.spotify.com/track/3kB7daTMGpX2hPRXdZww6M
-374,New Tank,angry,Playboi Carti,75,https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0
-375,BANGARANG,angry,KILLEDDY,62,https://open.spotify.com/track/2UEXRIn2kKNQ89cLTGElhI
-376,brutal,angry,Olivia Rodrigo,79,https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC
-377,Fed Up,angry,Ghostemane,76,https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp
-378,FUCK YOU I AM VERY ANGRY AND SERIOUS,angry,Lil Darkie,52,https://open.spotify.com/track/14LCrkKYSplTLYlWK3BBZ5
-379,Rage,angry,Rico Nasty,55,https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT
-380,Holler!,angry,Homixide Gang,60,https://open.spotify.com/track/6KvF7iueP2GDA6AuQlt24w
-381,Not All Men,angry,Morgan St. Jean,58,https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM
-382,Heart Attack,angry,Scarlxrd,64,https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ
-383,Led,angry,"GOTOU寄生獣,OmenXIII",63,https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT
-384,Murda Musik (feat. Destroy Lonely),angry,"Ken Carson,Destroy Lonely",69,https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC
-385,Meh,angry,Playboi Carti,70,https://open.spotify.com/track/15JRvf02KKGHKgC31jrpuh
-386,Demon Time (feat. Ski Mask The Slump God),angry,"Trippie Redd,Ski Mask The Slump God",68,https://open.spotify.com/track/1hE8iI3YK9x1VUBDtSzg3x
-387,Crazy Girls,angry,TOOPOOR,74,https://open.spotify.com/track/6cSDNYoWlMxzVfJLn6H301
-388,Me and the Devil,angry,Soap&Skin,77,https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh
-389,BATSHIT,angry,Lil Darkie,58,https://open.spotify.com/track/6YNh2sMxv2v09rfxiPjgcW
-390,Limbo,angry,Freddie Dredd,85,https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp
-391,Grab Da Door!,angry,Homixide Gang,55,https://open.spotify.com/track/3CVy14A3kKJpS0VnrygIQr
-392,BULLETPROOF,angry,TOKYO’S REVENGE,57,https://open.spotify.com/track/6JNCvIx1FZ7mTbzFihBjDt
-393,Perky Dream,angry,SeptembersRich,54,https://open.spotify.com/track/1b0gC6s5XQNVcsmPCpBznZ
-394,Man's World,angry,MARINA,64,https://open.spotify.com/track/6qXM63MqfsATteIuCVMXvu
-395,i need u,angry,Ken Carson,71,https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn
-396,M3tamorphosis (feat. Kid Cudi),angry,"Playboi Carti,Kid Cudi",65,https://open.spotify.com/track/7zLMYtNJcabv4h4wBnjNQI
-397,JETLGGD,angry,Destroy Lonely,65,https://open.spotify.com/track/59U7bktlujuNRW7fBq1VDt
-398,Doublë,angry,Yeat,68,https://open.spotify.com/track/1cfhlm0L8NXdQW6h8iMjxN
-399,My Soldiers Rage,angry,Maul,66,https://open.spotify.com/track/2uO6LTp2vi4VlgEH9Gaj3R
-400,Astra,disgust,Zingara,40,https://open.spotify.com/track/6cDcN08jQphgeZ1nwv5aFj
-401,Trinity,disgust,Ganja White Night,40,https://open.spotify.com/track/0gre3MB3irVxLuYOrCODcn
-402,PEACE LOVE & WUBZ,disgust,"LSDREAM,Cojaxx",51,https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL
-403,Into Pieces (feat. Grabbitz),disgust,"Subtronics,Grabbitz",49,https://open.spotify.com/track/1gTa0kM9Xlfb2HS1KOzz4V
-404,Here With Me,disgust,PEEKABOO,55,https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0
-405,Spacetime (feat. NEVVE),disgust,"Subtronics,Nevve",57,https://open.spotify.com/track/0yotOi6EFaBal5Gy7YVcuI
-406,Escape - Subtronics Remix,disgust,"Kx5,deadmau5,Kaskade,Subtronics,Hayla",6,https://open.spotify.com/track/6Ep94gYKvkI4OqCOGV66Wx
-407,Gassed Up,disgust,"Zeds Dead,Subtronics,Flowdan",60,https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9
-408,Blood On Me,disgust,"SVDDEN DEATH,SLANDER",53,https://open.spotify.com/track/4dblKUfR2u2iQXCQ82awv6
-409,Dominate,disgust,Space Laces,51,https://open.spotify.com/track/6zBFQ5dWHEmEx2RDoZ1ZP2
-410,Bleed,disgust,SVDDEN DEATH,50,https://open.spotify.com/track/0xoP7caCgKlnT9JhnPbcXe
-411,Maniac,disgust,PEEKABOO,46,https://open.spotify.com/track/7dtL3EKSsBkRmwVoJlep5j
-412,Wook Worm,disgust,TVBOO,39,https://open.spotify.com/track/0N9pNJHVaFarSVeizaA0Il
-413,SUB ZERO,disgust,Just A Gent,53,https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm
-414,Hieroglyph,disgust,Subtronics,41,https://open.spotify.com/track/6yPqKo9Sr45978wcmwP0cL
-415,Kaleidoscope (Feat. Crystalline),disgust,"Champagne Drip,Crystalline",51,https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI
-416,Gemini (feat. George Maple),disgust,"What So Not,George Maple",56,https://open.spotify.com/track/6sjtHq6EueMR7otphregK5
-417,Color Of Your Soul,disgust,"GRiZ,CloZee",56,https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe
-418,Overthinker - CloZee Remix,disgust,"INZO,CloZee",0,https://open.spotify.com/track/09uLd12oTAf9UMbf0FKowo
-419,Griztronics II (Another Level),disgust,"GRiZ,Subtronics",58,https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r
-420,MOON LEGS,disgust,"LSDREAM,Z-Trip",35,https://open.spotify.com/track/2iBL8YUW4qazeHjz71HYxY
-421,DRUGS!,disgust,"TVBOO,CHOMPPA",34,https://open.spotify.com/track/2ezI579koVXQun1pmREg8O
-422,Shelter - OG Nixin Remix,disgust,"ATLiens,OG Nixin",23,https://open.spotify.com/track/6VPLb36WDoTgmd9iom0MqW
-423,Gummy Worm (feat. Boogie T),disgust,"Subtronics,Boogie T",48,https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq
-424,Bring It Back,disgust,"Blunts & Blondes,Badrapper",44,https://open.spotify.com/track/0buwgzsh8fD57lvbXxyROq
-425,Blood Moon - Original Mix,disgust,VAMPA,39,https://open.spotify.com/track/3VldS1NA8jHmGOZDTbYcTj
-426,Puzzle Box,disgust,"Rezz,Subtronics",62,https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW
-427,Get To You - Mersiv Remix,disgust,"Saint Sinner,Supertask,Mersiv",45,https://open.spotify.com/track/5g12zzpoeylAgBZ09ixD6o
-428,Menace,disgust,Rezz,55,https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI
-429,Beautiful & Filthy,disgust,"Mersiv,Chill Bobby",46,https://open.spotify.com/track/4Z5rGE8672Kz67ukEIRj2V
-430,Street - PEEKABOO Remix,disgust,"NGHTMRE,PEEKABOO",37,https://open.spotify.com/track/202xexTyHxpvi6aqaaGEYq
-431,Vortex,disgust,"Rezz,PEEKABOO",41,https://open.spotify.com/track/6N6Sagy5jvDDUh9lfWrgJ1
-432,Clockwork,disgust,Subtronics,0,https://open.spotify.com/track/2c5tS9k0AZEM2PfuiZwyL8
-433,Lights Out - Ghastly Remix,disgust,"Zomboy,GHASTLY",47,https://open.spotify.com/track/7lY0fJVuJMY790QoVaAxOT
-434,Reason For Fighting (feat. ERV ELLO),disgust,"Seven Lions,Blastoyz,ERV ELLO",47,https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY
-435,Sweet Dreams (Are Made Of This),disgust,"Rezz,fknsyd",58,https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W
-436,Fangs,disgust,"GHASTLY,ALRT",28,https://open.spotify.com/track/2yO3LKFF7BNrorjff5eFwO
-437,Known You Before (with Emilie Brandt),disgust,"Jason Ross,Emilie Brandt,Seven Lions",40,https://open.spotify.com/track/6jFQGfokxpLHtjYHJQosDB
-438,Galactic Federation,disgust,Zingara,30,https://open.spotify.com/track/2VHamq11R81guQ04YvjnuD
-439,Pleasure Seeker,disgust,Mr. Bill,45,https://open.spotify.com/track/0inAo4hdWILQX1EbvMSseA
-440,Spaceboss,disgust,"Liquid Stranger,Space Jesus",48,https://open.spotify.com/track/4HiuT2pdJzwdSKf72aSdhs
-441,Crazies feat. Nate Husser,disgust,"Black Tiger Sex Machine,Nate Husser",44,https://open.spotify.com/track/6wXkFa3k8WL7pdwkfnLrVk
-442,Won't Stop feat. Esseks,disgust,"Space Jesus,Esseks",46,https://open.spotify.com/track/2nd0K8u5m5rMInJTGUwI5C
-443,Cheatcode,disgust,"Black Tiger Sex Machine,Hairitage,Hyro The Hero",50,https://open.spotify.com/track/1XYCWk1IBt0qA8BaQPV0VM
-444,Lifeline,disgust,"Kayzo,Black Tiger Sex Machine,Point North",48,https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK
-445,Lions - Doctor P Remix,disgust,"Black Tiger Sex Machine,YOOKiE,Doctor P",49,https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP
-446,Religion - Far Too Loud Remix,disgust,"Black Tiger Sex Machine,Far Too Loud,LeKtriQue",44,https://open.spotify.com/track/3h3nlfgeLsjWW5otfkXUWo
-447,The Grave feat. Gabriella Hook - Original Mix,disgust,"Apashe,Black Tiger Sex Machine",45,https://open.spotify.com/track/6iEYUpmDCaKKBgzQkuzbBw
-448,Resistance,disgust,"Black Tiger Sex Machine,Hairitage,Hyro The Hero",44,https://open.spotify.com/track/46Eg3aa1RZttnZ3sd4u3fd
-449,Trailblazer,disgust,"Black Tiger Sex Machine,Macntaj",43,https://open.spotify.com/track/0GOvMicWHWuEESROLcNhXG
-450,I Don't Wanna Know,disgust,"Friendzone,Nikademis,Candace Sosa",39,https://open.spotify.com/track/7BNVTdnnoMPzj8URWmmGMU
-451,Shivering,disgust,"ILLENIUM,Spiritbox",62,https://open.spotify.com/track/10Q3ASy9okYt85040yV46c
-452,BREAK LAW,disgust,"Dog Blood,Skrillex,Boys Noize",53,https://open.spotify.com/track/223t7TwvWm5PuE1IuWpRZM
-453,20:25,disgust,"Flux Pavilion,What So Not,The Chain Gang Of 1974",49,https://open.spotify.com/track/7bg3UimnS4beLnE476hfEE
-454,Rising,disgust,Duskus,8,https://open.spotify.com/track/0NsJZhDg9p1FrxY15UCPAS
-455,Bad Things,disgust,Alison Wonderland,43,https://open.spotify.com/track/47ReVc3e4YlHxh0t0gBk6l
-456,Babylon (feat. Denzel Curry) - Skrillex & Ronny J Remix,disgust,"Ekali,Denzel Curry,Skrillex,RONNY J",49,https://open.spotify.com/track/0sW7xBDLtKuGvcPxmt75CT
-457,Phantom,disgust,"Allen Mock,Chow Chow",50,https://open.spotify.com/track/7hX7eKN0PglaprxYdmD6rn
-458,Gangsta Gangsta (feat. Baby Eazy-E),disgust,"Dr. Fresch,Baby Eazy E",58,https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC
-459,Thoughts,disgust,Loud,0,https://open.spotify.com/track/21WKsduZtayTEMVc55Q4mv
-460,Fuji Opener,disgust,"Skrillex,Alvin Risk",54,https://open.spotify.com/track/0tVv9FxhUjHrhF1DLsDUNH
-461,Death Rail,disgust,Hi I'm Ghost,0,https://open.spotify.com/track/0gtuo2bvKsqW8yiqQvvtcr
-462,Walls - Subtronics Remix,disgust,"Eliminate,Subtronics",27,https://open.spotify.com/track/5m8lvkQwpJjutCBipUI4jL
-463,BODY SH!T,disgust,"BLVK JVCK,A$AP TyY",45,https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F
-464,Feel No Pain,disgust,GRiZ,51,https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz
-465,Paradise,disgust,"Mersiv,Fryar",43,https://open.spotify.com/track/0X9ARLoGvzce3CMUs1xgJh
-466,Like Before,disgust,"Jauz,Habstrakt",52,https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR
-467,Skins,disgust,"Kai Wachi,YMIR",48,https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG
-468,Spicy Trap House Drums Vol. 1 [Sample Pack Demo],disgust,"Eliminate,Modestep,Disciple",22,https://open.spotify.com/track/2GvuLrzyDKKGpGvFvv0q2j
-469,Boss Mode,disgust,Knife Party,45,https://open.spotify.com/track/3ygMNzTlytWlHsynGAWvZ7
-470,Lions - Doctor P Remix,disgust,"Black Tiger Sex Machine,YOOKiE,Doctor P",49,https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP
-471,Time,disgust,"Chemical Surf,Dubdisko",47,https://open.spotify.com/track/7yd2juG2UAETeptVdtFAzs
-472,Ease Your Mind,disgust,"GRiZ,Ganja White Night",45,https://open.spotify.com/track/0uwXneXFLt47MlgvoQDouq
-473,Safe,disgust,Petit Biscuit,38,https://open.spotify.com/track/2Yw2IZdMHoREKVADi92Hka
-474,Illusion (feat. Born I),disgust,"Bassnectar,PEEKABOO,Born I",43,https://open.spotify.com/track/1coG30H5gED9tscKZookCC
-475,NOSEBLEED,disgust,"PEEKABOO,Eptic",43,https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os
-476,Low Dive,disgust,Esseks,53,https://open.spotify.com/track/5H0ZNJqdJOQlkuEZ7HFItU
-477,Evil Lair,disgust,PEEKABOO,33,https://open.spotify.com/track/0NGvb6FxuMezq7D104q6GI
-478,Mitosis,disgust,"Ganja White Night,PEEKABOO",47,https://open.spotify.com/track/0zOqoAh2thAbmju80p850h
-479,POWERMOVE,disgust,"PEEKABOO,ISOxo",36,https://open.spotify.com/track/1ndzPP1VWJvnF7CG5qX2Wx
-480,Nut Case,disgust,PEEKABOO,26,https://open.spotify.com/track/6m9bxuTDyinbqkCc747vbw
-481,Black Hole,disgust,PEEKABOO,25,https://open.spotify.com/track/4VQK9d4giauCdAN9C8W6nh
-482,Marine Iguana,disgust,12th Planet,44,https://open.spotify.com/track/5wVaPZM1qxJUp5pcaVNXII
-483,One Two,disgust,Virtual Riot,37,https://open.spotify.com/track/46M3KFt2Aahvebp6O7zTBw
-484,Lost It - VIP,disgust,"Virtual Riot,Pearl Andersson",47,https://open.spotify.com/track/1o0xAaXY4nEaPdBGiLZdNb
-485,Alive,disgust,"Virtual Riot,Lisa Rowe",27,https://open.spotify.com/track/0SALuANbNVmQzRGV5gNg3G
-486,Hooked,disgust,NOTION,66,https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM
-487,Show Me (VIP),disgust,"Hamdi,Sammy Virji",38,https://open.spotify.com/track/3w49BYdjw2Co5Y8pZf3hkV
-488,Sensei,disgust,Datsik,35,https://open.spotify.com/track/3A5y9pEKtVlRUbliLGg1VX
-489,Lifeline,disgust,"Kayzo,Black Tiger Sex Machine,Point North",48,https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK
-490,CHOKE (with grandson & Zero 9:36),disgust,"The Warning,grandson,Zero 9:36",57,https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl
-491,Terraria,disgust,Exyl,37,https://open.spotify.com/track/56TUesLuozM16kd2dvrkWW
-492,Invade,disgust,Papa Khan,4,https://open.spotify.com/track/7k8NSRH7CEf41VvZZAgg30
-493,Alpha,disgust,Papa Khan,5,https://open.spotify.com/track/4XZSkpnUWC43JPrzTDNO5h
-494,Papa Style,disgust,Papa Khan,7,https://open.spotify.com/track/597AyiWtGaMdyxr349DeKX
-495,Meninggal,disgust,Papa Khan,5,https://open.spotify.com/track/7lMDHzZfjbAXJPguzDjfWi
-496,FUNKONAUT,disgust,"GRiZ,LSDREAM",52,https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec
-497,Subliminal (Even the Ghosts are Laughing),disgust,"HVDES,CRaymak,AFTERMYFALL",37,https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm
-498,No Chill,disgust,Control Freak,36,https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2
-499,Birdz (with Smokepurpp),disgust,"Wuki,Smokepurpp",35,https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z
-500,Rich Flex,surprise,"Drake,21 Savage",92,https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N
-501,Just Wanna Rock,surprise,Lil Uzi Vert,91,https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d
-502,Superhero (Heroes & Villains) [with Future & Chris Brown],surprise,"Metro Boomin,Future,Chris Brown",91,https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j
-503,Till I Collapse,surprise,"Eminem,Nate Dogg",87,https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS
-504,Doja,surprise,Central Cee,87,https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i
-505,Jimmy Cooks (feat. 21 Savage),surprise,"Drake,21 Savage",89,https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe
-506,HUMBLE.,surprise,Kendrick Lamar,86,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
-507,Ni**as In Paris,surprise,"JAY-Z,Kanye West",86,https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007
-508,Drip Too Hard (Lil Baby & Gunna),surprise,"Lil Baby,Gunna",85,https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE
-509,Still D.R.E.,surprise,"Dr. Dre,Snoop Dogg",85,https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep
-510,Red Ruby Da Sleeze,surprise,Nicki Minaj,85,https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2
-511,Ric Flair Drip (with Metro Boomin),surprise,"Offset,Metro Boomin",84,https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR
-512,SICKO MODE,surprise,Travis Scott,84,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
-513,Godzilla (feat. Juice WRLD),surprise,"Eminem,Juice WRLD",84,https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ
-514,Vegas (From the Original Motion Picture Soundtrack ELVIS),surprise,Doja Cat,84,https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF
-515,INDUSTRY BABY (feat. Jack Harlow),surprise,"Lil Nas X,Jack Harlow",84,https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK
-516,Dior,surprise,Pop Smoke,83,https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep
-517,Yes Indeed,surprise,"Lil Baby,Drake",83,https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ
-518,Hit 'Em Up - Single Version,surprise,"2Pac,Outlawz",83,https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf
-519,Wow.,surprise,Post Malone,83,https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg
-520,Can't Hold Us (feat. Ray Dalton),surprise,"Macklemore & Ryan Lewis,Macklemore,Ryan Lewis,Ray Dalton",83,https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn
-521,Let You Down,surprise,NF,82,https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL
-522,Work Out,surprise,J. Cole,82,https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO
-523,The Next Episode,surprise,"Dr. Dre,Snoop Dogg",82,https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC
-524,Look At Me!,surprise,XXXTENTACION,82,https://open.spotify.com/track/7floNISpH8VF4z4459Qo18
-525,Ransom,surprise,Lil Tecca,82,https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO
-526,Going Bad (feat. Drake),surprise,"Meek Mill,Drake",82,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
-527,Alright,surprise,Kendrick Lamar,82,https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs
-528,California Love - Original Version,surprise,"2Pac,Roger,Dr. Dre",81,https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35
-529,Super Freaky Girl,surprise,Nicki Minaj,81,https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp
-530,Forgot About Dre,surprise,"Dr. Dre,Eminem",81,https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa
-531,Invincible,surprise,Pop Smoke,80,https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge
-532,Magnolia,surprise,Playboi Carti,80,https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl
-533,Nonstop,surprise,Drake,80,https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct
-534,DO IT AGAIN (feat. 2Rare),surprise,"NLE Choppa,2Rare",80,https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp
-535,ROCKSTAR (feat. Roddy Ricch),surprise,"DaBaby,Roddy Ricch",79,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
-536,Element,surprise,Pop Smoke,80,https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB
-537,DNA.,surprise,Kendrick Lamar,81,https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-538,"Nuthin' But A ""G"" Thang",surprise,"Dr. Dre,Snoop Dogg",79,https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD
-539,Die Young (feat. 347aidan),surprise,"Sleepy Hallow,347aidan",79,https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH
-540,Rap God,surprise,Eminem,79,https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k
-541,OUT WEST (feat. Young Thug),surprise,"JACKBOYS,Travis Scott,Young Thug",78,https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw
-542,Collard Greens,surprise,"ScHoolboy Q,Kendrick Lamar",78,https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ
-543,Sticky,surprise,Drake,78,https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa
-544,family ties (with Kendrick Lamar),surprise,"Baby Keem,Kendrick Lamar",78,https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH
-545,Black and Yellow,surprise,Wiz Khalifa,78,https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz
-546,"Lose Yourself - From ""8 Mile"" Soundtrack",surprise,Eminem,79,https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ
-547,How We Do,surprise,"The Game,50 Cent",77,https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p
-548,ZEZE (feat. Travis Scott & Offset),surprise,"Kodak Black,Offset,Travis Scott",77,https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z
-549,In Da Club,surprise,50 Cent,77,https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8
-550,No Hands (feat. Roscoe Dash & Wale),surprise,"Waka Flocka Flame,Roscoe Dash,Wale",77,https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H
-551,Broke Boys,surprise,"Drake,21 Savage",78,https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8
-552,Stir Fry,surprise,Migos,77,https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf
-553,Doo Wop (That Thing),surprise,Ms. Lauryn Hill,77,https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg
-554,1400 / 999 Freestyle,surprise,"Trippie Redd,Juice WRLD",77,https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R
-555,Live Your Life,surprise,"T.I.,Rihanna",77,https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN
-556,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",surprise,"A$AP Rocky,Drake,2 Chainz,Kendrick Lamar",77,https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5
-557,Got It On Me,surprise,Pop Smoke,77,https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1
-558,Pure Water (with Migos),surprise,"Mustard,Migos",77,https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8
-559,Broke In A Minute,surprise,Tory Lanez,77,https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF
-560,GATTI,surprise,"JACKBOYS,Pop Smoke,Travis Scott",77,https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g
-561,United In Grief,surprise,Kendrick Lamar,77,https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL
-562,When I Grow Up,surprise,NF,76,https://open.spotify.com/track/5rLyYxZNzca00ENADO9m54
-563,Trophies,surprise,"Young Money,Drake",76,https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk
-564,Blueberry Faygo,surprise,Lil Mosey,76,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
-565,Make No Sense,surprise,YoungBoy Never Broke Again,76,https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I
-566,Plain Jane,surprise,A$AP Ferg,76,https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9
-567,STARGAZING,surprise,Travis Scott,76,https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m
-568,King Kunta,surprise,Kendrick Lamar,76,https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O
-569,679 (feat. Remy Boyz),surprise,"Fetty Wap,Remy Boyz",76,https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ
-570,Headshot (feat. Polo G & Fivio Foreign),surprise,"Lil Tjay,Polo G,Fivio Foreign",76,https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv
-571,Faucet Failure,surprise,Ski Mask The Slump God,76,https://open.spotify.com/track/1ThmUihH9dF8EV08ku5AXN
-572,Dua Lipa,surprise,Jack Harlow,76,https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4
-573,Come Get Her,surprise,Rae Sremmurd,75,https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP
-574,Ramen & OJ,surprise,"Joyner Lucas,Lil Baby",75,https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J
-575,Whatever You Like,surprise,T.I.,75,https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R
-576,Transportin',surprise,Kodak Black,75,https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn
-577,POPSTAR (feat. Drake),surprise,"DJ Khaled,Drake",75,https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq
-578,Hate The Other Side (with Marshmello & The Kid Laroi),surprise,"Juice WRLD,Marshmello,The Kid LAROI,Polo G",75,https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49
-579,Trap Queen,surprise,Fetty Wap,75,https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ
-580,My Band,surprise,D12,75,https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL
-581,Swervin (feat. 6ix9ine),surprise,"A Boogie Wit da Hoodie,6ix9ine",75,https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6
-582,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",surprise,"Jack Harlow,Tory Lanez,DaBaby,Lil Wayne",75,https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC
-583,Bandit (with YoungBoy Never Broke Again),surprise,"Juice WRLD,YoungBoy Never Broke Again",75,https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd
-584,Homicide (feat. Eminem),surprise,"Logic,Eminem",75,https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg
-585,6 Foot 7 Foot,surprise,"Lil Wayne,Cory Gunz",75,https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH
-586,I Don't Like,surprise,"Chief Keef,Lil Reese",75,https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB
-587,Shotta Flow (feat. Blueface) [Remix],surprise,"NLE Choppa,Blueface",74,https://open.spotify.com/track/5BJMeoCXXgbRAWfp6fTulr
-588,Love & War,surprise,Kodak Black,74,https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt
-589,Gotta Have It,surprise,"JAY-Z,Kanye West",74,https://open.spotify.com/track/5Pt83OUaK3K9C2if4C5JOk
-590,Remember the Name (feat. Styles of Beyond),surprise,"Fort Minor,Styles Of Beyond",74,https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K
-591,Money,surprise,Cardi B,74,https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e
-592,Can't Be Touched (feat. Mr. Magic & Trouble),surprise,"Roy Jones Jr.,Mr Magic,Trouble",74,https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K
-593,Lord Pretty Flacko Jodye 2 (LPFJ2),surprise,A$AP Rocky,73,https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm
-594,Beware,surprise,"Big Sean,Lil Wayne,Jhené Aiko",73,https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps
-595,Hot N*gga,surprise,Bobby Shmurda,73,https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m
-596,Never Sleep (with Lil Baby feat. Travis Scott),surprise,"NAV,Lil Baby,Travis Scott",73,https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv
-597,Taste (feat. Offset),surprise,"Tyga,Offset",73,https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy
-598,Up,surprise,Cardi B,73,https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl
-599,Ball If I Want To,surprise,DaBaby,73,https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3
-600,Kill Bill (feat. Doja Cat),neutral,"SZA,Doja Cat",82,https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ
-601,Chemical,neutral,Post Malone,84,https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu
-602,Calm Down (with Selena Gomez),neutral,"Rema,Selena Gomez",96,https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8
-603,Search & Rescue,neutral,Drake,90,https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G
-604,Boy's a liar Pt. 2,neutral,"PinkPantheress,Ice Spice",98,https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv
-605,Flowers,neutral,Miley Cyrus,100,https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn
-606,Sure Thing,neutral,Miguel,92,https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV
-607,Players,neutral,Coi Leray,93,https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij
-608,Die For You - Remix,neutral,"The Weeknd,Ariana Grande",95,https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki
-609,Fast Car,neutral,Luke Combs,86,https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT
-610,Until I Found You (with Em Beihold) - Em Beihold Version,neutral,"Stephen Sanchez,Em Beihold",94,https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN
-611,Last Night,neutral,Morgan Wallen,90,https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8
-612,Anti-Hero,neutral,Taylor Swift,95,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu
-613,Nonsense,neutral,Sabrina Carpenter,90,https://open.spotify.com/track/6dgUya35uo964z7GZXM07g
-614,Bad Habit,neutral,Steve Lacy,87,https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK
-615,Waffle House,neutral,Jonas Brothers,79,https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU
-616,Escapism.,neutral,"RAYE,070 Shake",86,https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp
-617,Creepin' (with The Weeknd & 21 Savage),neutral,"Metro Boomin,The Weeknd,21 Savage",97,https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO
-618,Princess Diana (with Nicki Minaj),neutral,"Ice Spice,Nicki Minaj",81,https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV
-619,Never Felt So Alone,neutral,Labrinth,86,https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo
-620,I Ain't Worried,neutral,OneRepublic,94,https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB
-621,ceilings,neutral,Lizzy McAlpine,92,https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI
-622,un x100to,neutral,"Grupo Frontera,Bad Bunny",85,https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK
-623,Moonlight,neutral,Kali Uchis,83,https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3
-624,Favorite Song,neutral,Toosii,85,https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66
-625,All Of The Girls You Loved Before,neutral,Taylor Swift,91,https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy
-626,Eat Your Young,neutral,Hozier,82,https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK
-627,Something in the Orange,neutral,Zach Bryan,89,https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI
-628,VOID,neutral,Melanie Martinez,80,https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek
-629,Always,neutral,Daniel Caesar,77,https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus
-630,Heaven,neutral,Niall Horan,88,https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt
-631,Lavender Haze,neutral,Taylor Swift,89,https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC
-632,Eyes Closed,neutral,Ed Sheeran,89,https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p
-633,golden hour,neutral,JVKE,91,https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg
-634,Unholy (feat. Kim Petras),neutral,"Sam Smith,Kim Petras",93,https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG
-635,SLUT ME OUT,neutral,NLE Choppa,88,https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi
-636,Here With Me,neutral,d4vd,95,https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh
-637,Snooze,neutral,SZA,93,https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2
-638,HAPPY,neutral,NF,83,https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R
-639,Just Wanna Rock,neutral,Lil Uzi Vert,91,https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d
-640,As It Was,neutral,Harry Styles,93,https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7
-641,CUFF IT,neutral,Beyoncé,90,https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS
-642,Private Landing (feat. Justin Bieber & Future),neutral,"Don Toliver,Justin Bieber,Future",85,https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf
-643,BESO,neutral,"ROSALÍA,Rauw Alejandro",96,https://open.spotify.com/track/609E1JCInJncactoMmkDon
-644,Thinkin’ Bout Me,neutral,Morgan Wallen,87,https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK
-645,DOGTOOTH,neutral,"Tyler, The Creator",84,https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE
-646,"Shakira: Bzrp Music Sessions, Vol. 53",neutral,"Bizarrap,Shakira",97,https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe
-647,Rich Flex,neutral,"Drake,21 Savage",92,https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N
-648,Trance (with Travis Scott & Young Thug),neutral,"Metro Boomin,Travis Scott,Young Thug",90,https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J
-649,TQG,neutral,"KAROL G,Shakira",98,https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf
-650,Chemical,neutral,Post Malone,84,https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu
-651,Boy's a liar Pt. 2,neutral,"PinkPantheress,Ice Spice",98,https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv
-652,Calm Down (with Selena Gomez),neutral,"Rema,Selena Gomez",96,https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8
-653,Kill Bill (feat. Doja Cat),neutral,"SZA,Doja Cat",82,https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ
-654,Flowers,neutral,Miley Cyrus,100,https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn
-655,Players,neutral,Coi Leray,93,https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij
-656,Die For You - Remix,neutral,"The Weeknd,Ariana Grande",95,https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki
-657,Escapism.,neutral,"RAYE,070 Shake",86,https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp
-658,Never Felt So Alone,neutral,Labrinth,86,https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo
-659,BESO,neutral,"ROSALÍA,Rauw Alejandro",96,https://open.spotify.com/track/609E1JCInJncactoMmkDon
-660,As It Was,neutral,Harry Styles,93,https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7
-661,Anti-Hero,neutral,Taylor Swift,95,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu
-662,Creepin' (with The Weeknd & 21 Savage),neutral,"Metro Boomin,The Weeknd,21 Savage",97,https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO
-663,Eyes Closed,neutral,Ed Sheeran,89,https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p
-664,People,neutral,Libianca,92,https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz
-665,Search & Rescue,neutral,Drake,90,https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G
-666,golden hour,neutral,JVKE,91,https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg
-667,Miracle (with Ellie Goulding),neutral,"Calvin Harris,Ellie Goulding",90,https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ
-668,Until I Found You (with Em Beihold) - Em Beihold Version,neutral,"Stephen Sanchez,Em Beihold",94,https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN
-669,ceilings,neutral,Lizzy McAlpine,92,https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI
-670,Snooze,neutral,SZA,93,https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2
-671,CUFF IT,neutral,Beyoncé,90,https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS
-672,Here With Me,neutral,d4vd,95,https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh
-673,Unholy (feat. Kim Petras),neutral,"Sam Smith,Kim Petras",93,https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG
-674,Just Wanna Rock,neutral,Lil Uzi Vert,91,https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d
-675,I Ain't Worried,neutral,OneRepublic,94,https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB
-676,I'm Good (Blue),neutral,"David Guetta,Bebe Rexha",95,https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK
-677,OMG,neutral,NewJeans,94,https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE
-678,10:35,neutral,"Tiësto,Tate McRae",91,https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3
-679,LET GO,neutral,Central Cee,89,https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN
-680,DOGTOOTH,neutral,"Tyler, The Creator",84,https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE
-681,La Bebe - Remix,neutral,"Yng Lvcas,Peso Pluma",95,https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU
-682,Made You Look,neutral,Meghan Trainor,91,https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u
-683,Cupid - Twin Ver.,neutral,FIFTY FIFTY,92,https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7
-684,If We Ever Broke Up,neutral,Mae Stephens,88,https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP
-685,VOID,neutral,Melanie Martinez,81,https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx
-686,Bones,neutral,Imagine Dragons,88,https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G
-687,FLOWER,neutral,JISOO,87,https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s
-688,Eat Your Young,neutral,Hozier,82,https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK
-689,Moonlight,neutral,Kali Uchis,85,https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2
-690,Late Night Talking,neutral,Harry Styles,90,https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK
-691,TQG,neutral,"KAROL G,Shakira",98,https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf
-692,Bad Habit,neutral,Steve Lacy,87,https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK
-693,Lavender Haze,neutral,Taylor Swift,89,https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC
-694,Last Night,neutral,Morgan Wallen,90,https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8
-695,Nonsense,neutral,Sabrina Carpenter,90,https://open.spotify.com/track/6dgUya35uo964z7GZXM07g
-696,Like Crazy (English Version),neutral,Jimin,92,https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG
-697,I Like You (A Happier Song) (with Doja Cat),neutral,"Post Malone,Doja Cat",88,https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj
-698,Something in the Orange,neutral,Zach Bryan,89,https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI
-699,Heaven,neutral,Niall Horan,88,https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt
+,name,category,artist,popularity,urls,imgs
+0,As It Was,happy,Harry Styles,93,https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+1,Break it off - Bonus,happy,PinkPantheress,77,https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1,https://i.scdn.co/image/ab67616d0000b27312c2eefb1d28509c632d915d
+2,Maps,happy,Maroon 5,86,https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc,https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c
+3,Don't Worry Be Happy,happy,Bobby McFerrin,71,https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY,https://i.scdn.co/image/ab67616d0000b273a88b9eddbf3650ea0529f2cc
+4,Best Day Of My Life,happy,American Authors,81,https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP,https://i.scdn.co/image/ab67616d0000b273cc761ba55b0e7abad4539abe
+5,Walking On Sunshine,happy,Katrina & The Waves,81,https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0,https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d
+6,Toast,happy,Smith & Thell,66,https://open.spotify.com/track/5hlwCtGdtDBzXeMBJpD5IK,https://i.scdn.co/image/ab67616d0000b273e344b0eb1e920f17f3e952cc
+7,Keep Your Head Up,happy,Andy Grammer,71,https://open.spotify.com/track/4Jz4bjXeiF2SXVj9P4YfY5,https://i.scdn.co/image/ab67616d0000b2730c19b3bcdf3823ebe8d980fc
+8,Mr. Blue Sky,happy,Electric Light Orchestra,81,https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp,https://i.scdn.co/image/ab67616d0000b2738c4e95986c803791125e8991
+9,Smile,happy,Benjamin Ingrosso,65,https://open.spotify.com/track/2X97u85uhrMdjPLFZ8Upn8,https://i.scdn.co/image/ab67616d0000b27368ff37ed820f207e0e5a1f28
+10,It's a Beautiful Day,happy,Michael Bublé,69,https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv,https://i.scdn.co/image/ab67616d0000b273051ae642ad4a0c1329b41d99
+11,"Happy - From ""Despicable Me 2""",happy,Pharrell Williams,83,https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH,https://i.scdn.co/image/ab67616d0000b273e8107e6d9214baa81bb79bba
+12,Happy Kids,happy,John De Sohn,57,https://open.spotify.com/track/3Ct8NiRoh0OqFhTTsrwkEc,https://i.scdn.co/image/ab67616d0000b273d9b368ac8d8c15527c9318f0
+13,Can You Feel It,happy,Birgir,64,https://open.spotify.com/track/7jEN3nuX9eIIXu7Nz1wslG,https://i.scdn.co/image/ab67616d0000b2734333f6ee8c96d16c23529679
+14,Happy Birthday - Traditional,happy,Session Artists,46,https://open.spotify.com/track/2OSHgobA7CSxxLJ5Pr4Y4R,https://i.scdn.co/image/ab67616d0000b273d9de918a9b3bee36886f892f
+15,Honeypie,happy,JAWNY,76,https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0,https://i.scdn.co/image/ab67616d0000b273bf076bd9b8ad8facbb19f473
+16,Paper Rings,happy,Taylor Swift,85,https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+17,Life Is Good,happy,Justin Caruso,57,https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm,https://i.scdn.co/image/ab67616d0000b27311d1b2346c75effba79cc3fc
+18,Just A Cloud Away,happy,Pharrell Williams,68,https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4,https://i.scdn.co/image/ab67616d0000b2730f7d317ad6be5c5ed9eb986b
+19,Canyon Moon,happy,Harry Styles,73,https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq,https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a
+20,Shut Up and Dance,happy,WALK THE MOON,85,https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA,https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3
+21,The Happy Song,happy,Imogen Heap,67,https://open.spotify.com/track/6snoOAATGyud5oaIT9gwws,https://i.scdn.co/image/ab67616d0000b273ca7cad7b1dd4996d643433ef
+22,Somebody To You,happy,The Vamps,77,https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65,https://i.scdn.co/image/ab67616d0000b2739f89b8390933e9ccb3673c89
+23,I'm a Believer - 2006 Remaster,happy,The Monkees,77,https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2,https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e
+24,No Eyes On Me - Sondr Remix,happy,"Justin Caruso,Sondr",55,https://open.spotify.com/track/38i0XKHKLg72RTn3i6TmeP,https://i.scdn.co/image/ab67616d0000b27335f23644f3255a2844afb635
+25,Take Me To The Sunshine (feat. BullySongs),happy,"Matoma,SUPER-Hi,BullySongs",61,https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5,https://i.scdn.co/image/ab67616d0000b273ccb719e7852d6da534f43033
+26,Olivia,happy,One Direction,72,https://open.spotify.com/track/5dONhl6aXFuN86UBdayF6W,https://i.scdn.co/image/ab67616d0000b273241e4fe75732c9c4b49b94c3
+27,Lean On Me,happy,Sandro Cavazza,66,https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc,https://i.scdn.co/image/ab67616d0000b273e53b654d326569573f231928
+28,These Are The Days (feat. Liv Dawson),happy,"Anton Powers,ManyFew,Liv Dawson",58,https://open.spotify.com/track/39GX8fhLrxiPcNAMgZhWUa,https://i.scdn.co/image/ab67616d0000b273ea211565027fe4ef6d9e6c15
+29,this is what falling in love feels like,happy,JVKE,82,https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL,https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954
+30,In My Zone,happy,Tungevaag,61,https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0,https://i.scdn.co/image/ab67616d0000b27346a00de795551fd912ace8cd
+31,ME! (feat. Brendon Urie of Panic! At The Disco),happy,"Taylor Swift,Brendon Urie,Panic! At The Disco",79,https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
+32,"Hap, Hap, Hap, Happy Birthday",happy,Parry Gripp,50,https://open.spotify.com/track/5ZG02EkmEPswTNLes6bygO,https://i.scdn.co/image/ab67616d0000b273d5803f83b3d5466232f02d0c
+33,If The World Just Danced - MOTi Remix,happy,"Diana Ross,MOTi",63,https://open.spotify.com/track/7kEh6jNlJOAhC0lv6XV3iw,https://i.scdn.co/image/ab67616d0000b273cf7dd0dd5f2c7ea7b78a7d31
+34,Little Talks,happy,Of Monsters and Men,81,https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B,https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262
+35,Tongue Tied,happy,GROUPLOVE,80,https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N,https://i.scdn.co/image/ab67616d0000b273d84a9bbcba91cb6a4a212b1b
+36,Look For The Good - Single Version,happy,Jason Mraz,60,https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa,https://i.scdn.co/image/ab67616d0000b2731838fae6c49eebe9edb80495
+37,Dumb,happy,Jubël,65,https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu,https://i.scdn.co/image/ab67616d0000b273520fd981cda5197a4050761c
+38,Watermelon Sugar,happy,Harry Styles,90,https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY,https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a
+39,Safe And Sound,happy,Capital Cities,84,https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb,https://i.scdn.co/image/ab67616d0000b27313c6cb6a81c8db4dbc8b9924
+40,Uptown Funk (feat. Bruno Mars),happy,"Mark Ronson,Bruno Mars",84,https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS,https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2
+41,Heaven Falls / Fall on Me,happy,Surfaces,64,https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6,https://i.scdn.co/image/ab67616d0000b273d31c5ca0ba296c446a3fe725
+42,All Star,happy,"Mike Perry,Hot Shade,TEN TIMES,whoisFIYAH",57,https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0,https://i.scdn.co/image/ab67616d0000b273c21d5b4ae92248d0f7af3ed5
+43,Late Night Talking,happy,Harry Styles,90,https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
+44,Goliath,happy,Smith & Thell,55,https://open.spotify.com/track/0tS0QcV7V4vxoq2jUXMRI1,https://i.scdn.co/image/ab67616d0000b273c432566e3e4b91151d953068
+45,Dancing On A Sunny Day,happy,Benjamin Ingrosso,55,https://open.spotify.com/track/34CNINX3JO5RLVp20GbTwN,https://i.scdn.co/image/ab67616d0000b273681de3c35c66025f85342e47
+46,Lucky (feat. Noa Kirel),happy,"Jubël,Noa Kirel",59,https://open.spotify.com/track/1JMDsOUPflzsNN62KEBaH9,https://i.scdn.co/image/ab67616d0000b273bc111a77891e4e2e3a7a8509
+47,Dance on My Own (feat. Richard Judge),happy,"Frank Walker,Richard Judge",60,https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9,https://i.scdn.co/image/ab67616d0000b2732df592bf95facc920cc65911
+48,Good Vibes,happy,"HRVY,Matoma",69,https://open.spotify.com/track/53kWAAfx7IopXRa31MQHB8,https://i.scdn.co/image/ab67616d0000b273e89c808ecfc789a092396b53
+49,Believe,happy,"Wolfgang Gartner,NEVRMIND",51,https://open.spotify.com/track/3Hi7sLJG787lwrNG5Qs8Sj,https://i.scdn.co/image/ab67616d0000b273489014238fc958a681c3614a
+50,Here Comes The Sun - Remastered 2009,happy,The Beatles,85,https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2,https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25
+51,Walking On Sunshine,happy,Katrina & The Waves,81,https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0,https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d
+52,"Happy - From ""Despicable Me 2""",happy,Pharrell Williams,83,https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH,https://i.scdn.co/image/ab67616d0000b273e8107e6d9214baa81bb79bba
+53,Brighter Than The Sun,happy,Colbie Caillat,66,https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP,https://i.scdn.co/image/ab67616d0000b2733baae0836a5b6ee9d649ed14
+54,Smile,happy,Benjamin Ingrosso,65,https://open.spotify.com/track/2X97u85uhrMdjPLFZ8Upn8,https://i.scdn.co/image/ab67616d0000b27368ff37ed820f207e0e5a1f28
+55,"Hey, Soul Sister",happy,Train,84,https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv,https://i.scdn.co/image/ab67616d0000b2736ff8bc258e3ebc835ffe14ca
+56,Don't Worry Be Happy,happy,Bobby McFerrin,71,https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY,https://i.scdn.co/image/ab67616d0000b273a88b9eddbf3650ea0529f2cc
+57,Build Me Up Buttercup,happy,The Foundations,71,https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD,https://i.scdn.co/image/ab67616d0000b2735f57bff1e4ec555cc2560e0d
+58,It's a Beautiful Day,happy,Michael Bublé,69,https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv,https://i.scdn.co/image/ab67616d0000b273051ae642ad4a0c1329b41d99
+59,Lovely Day,happy,Bill Withers,80,https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh,https://i.scdn.co/image/ab67616d0000b2735ade9b4d547203c9061fc340
+60,Keep Your Head Up,happy,Andy Grammer,71,https://open.spotify.com/track/4Jz4bjXeiF2SXVj9P4YfY5,https://i.scdn.co/image/ab67616d0000b2730c19b3bcdf3823ebe8d980fc
+61,Put Your Records On,happy,Corinne Bailey Rae,80,https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx,https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879
+62,Better When I'm Dancin',happy,Meghan Trainor,77,https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L,https://i.scdn.co/image/ab67616d0000b273a348cd1b2496b47254acc74b
+63,Everybody Talks,happy,Neon Trees,81,https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq,https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2
+64,AOK,happy,Tai Verdes,76,https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP,https://i.scdn.co/image/ab67616d0000b273818630bbc67e834cb9a6bd31
+65,These Words,happy,Natasha Bedingfield,67,https://open.spotify.com/track/6MFQeWtk7kxWGydnJB2y36,https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4
+66,Good Life,happy,OneRepublic,75,https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4,https://i.scdn.co/image/ab67616d0000b27377a7bd558d81172446e525bb
+67,I Want You Back,happy,The Jackson 5,79,https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S,https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38
+68,Tongue Tied,happy,GROUPLOVE,80,https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N,https://i.scdn.co/image/ab67616d0000b273d84a9bbcba91cb6a4a212b1b
+69,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",happy,Justin Timberlake,80,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc,https://i.scdn.co/image/ab67616d0000b273ef37416970812293c08e8a78
+70,On Top Of The World,happy,Imagine Dragons,78,https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w,https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737
+71,I Feel Good,happy,Pink Sweat$,68,https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F,https://i.scdn.co/image/ab67616d0000b27320aeb4e7d30db34d04601209
+72,Sunday Smile,happy,Jake Troth,54,https://open.spotify.com/track/2lvqcF66qnWqH4TZcpxtOT,https://i.scdn.co/image/ab67616d0000b27391a0d8b98609c4673c00918b
+73,Shotgun,happy,George Ezra,79,https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC,https://i.scdn.co/image/ab67616d0000b273103045cd1c29dd16a469f808
+74,You Make My Dreams (Come True),happy,Daryl Hall & John Oates,80,https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk,https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a
+75,Ain't No Mountain High Enough,happy,"Marvin Gaye,Tammi Terrell",85,https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX,https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02
+76,Sunroof,happy,"Nicky Youre,dazy",89,https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8,https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874
+77,I Lived,happy,OneRepublic,72,https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo,https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb
+78,ABC,happy,The Jackson 5,72,https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5,https://i.scdn.co/image/ab67616d0000b2739df68560791d0b3dab491867
+79,Mr. Blue Sky,happy,Electric Light Orchestra,81,https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp,https://i.scdn.co/image/ab67616d0000b2738c4e95986c803791125e8991
+80,I'm a Believer - 2006 Remaster,happy,The Monkees,77,https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2,https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e
+81,Best Day Of My Life,happy,American Authors,81,https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP,https://i.scdn.co/image/ab67616d0000b273cc761ba55b0e7abad4539abe
+82,Sunday Best,happy,Surfaces,77,https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo,https://i.scdn.co/image/ab67616d0000b2733667dc27da7b24360d6050d0
+83,Never Gonna Not Dance Again,happy,P!nk,74,https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4,https://i.scdn.co/image/ab67616d0000b2735b8cf73dd4eebd286d9a2c78
+84,Talk Too Much,happy,COIN,73,https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq,https://i.scdn.co/image/ab67616d0000b273e086dd341bb0c30d235f9cac
+85,Dancing in the Moonlight,happy,Toploader,80,https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od,https://i.scdn.co/image/ab67616d0000b273e16a6534cd5a968a5b725d03
+86,SUPERBLOOM,happy,MisterWives,66,https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ,https://i.scdn.co/image/ab67616d0000b2733fb680ecc0b23b6883f255de
+87,I Got You (I Feel Good),happy,James Brown & The Famous Flames,73,https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC,https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719
+88,Electric Love,happy,BØRNS,82,https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ,https://i.scdn.co/image/ab67616d0000b273cc2cf912462d8ae4ef856434
+89,Good as Hell,happy,Lizzo,77,https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV,https://i.scdn.co/image/ab67616d0000b273bf7d271b8f3051af3cf0bf55
+90,Suddenly I See,happy,KT Tunstall,75,https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3,https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da
+91,Learning To Fly,happy,Sheppard,60,https://open.spotify.com/track/0WX97arXDCDGFE97iADJF1,https://i.scdn.co/image/ab67616d0000b273f6a751bd44b9f960c20d4ef2
+92,Green Green Grass,happy,George Ezra,84,https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB,https://i.scdn.co/image/ab67616d0000b273ca576b6bbd56385e1120640e
+93,Cloudy Day,happy,Tones And I,66,https://open.spotify.com/track/4E2rXUbcF1zhZVzNzeVPGV,https://i.scdn.co/image/ab67616d0000b2735d82973c30d736b1152a6e36
+94,What A Time To Be Alive,happy,George Pelham,50,https://open.spotify.com/track/6FraTuUtQxn03pafzfNW6V,https://i.scdn.co/image/ab67616d0000b273839b72831706dc689a9a79bd
+95,Can You Feel It,happy,Birgir,64,https://open.spotify.com/track/7jEN3nuX9eIIXu7Nz1wslG,https://i.scdn.co/image/ab67616d0000b2734333f6ee8c96d16c23529679
+96,Move Your Feet,happy,Junior Senior,62,https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW,https://i.scdn.co/image/ab67616d0000b2731385f5151617aa5e0e9977f0
+97,Somebody,happy,Dagny,63,https://open.spotify.com/track/6hCGVqheUBzymvfA7IB4Y9,https://i.scdn.co/image/ab67616d0000b273df44322bfb19d11f84000a9d
+98,Send Me On My Way,happy,Rusted Root,70,https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr,https://i.scdn.co/image/ab67616d0000b27379e5734d0c151415e3fa8d6f
+99,Toast,happy,Smith & Thell,66,https://open.spotify.com/track/5hlwCtGdtDBzXeMBJpD5IK,https://i.scdn.co/image/ab67616d0000b273e344b0eb1e920f17f3e952cc
+100,Before You Go,sad,Lewis Capaldi,86,https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP,https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4
+101,Falling,sad,Harry Styles,85,https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp,https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a
+102,listen before i go,sad,Billie Eilish,78,https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE,https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce
+103,Revenge,sad,XXXTENTACION,88,https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW,https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5
+104,Alone,sad,"SadBoyProlific,Ivri",68,https://open.spotify.com/track/50OPOdJbRx9iCJXGultmUf,https://i.scdn.co/image/ab67616d0000b27365e02705b8641e8a0fec21c0
+105,you broke me first,sad,Tate McRae,84,https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR,https://i.scdn.co/image/ab67616d0000b2730c2c97099fd6a637ed0aa4a4
+106,Hold On,sad,Chord Overstreet,82,https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K,https://i.scdn.co/image/ab67616d0000b273c60473419a4ce96822541181
+107,Complicated,sad,Olivia O'Brien,71,https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf,https://i.scdn.co/image/ab67616d0000b273041398c37513dc22753ac3dc
+108,Lonely (with benny blanco),sad,"Justin Bieber,benny blanco",74,https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ,https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431
+109,Half A Man,sad,Dean Lewis,78,https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv,https://i.scdn.co/image/ab67616d0000b273a787f718fb485b66d6219247
+110,Fourth of July,sad,Sufjan Stevens,81,https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz,https://i.scdn.co/image/ab67616d0000b273820e2ac14772ae3162c6d479
+111,Someone You Loved,sad,Lewis Capaldi,90,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
+112,traitor,sad,Olivia Rodrigo,87,https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+113,TV,sad,Billie Eilish,87,https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw,https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318
+114,Everybody Dies In Their Nightmares,sad,XXXTENTACION,85,https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7,https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5
+115,Sorry,sad,Halsey,74,https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK,https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210
+116,One Day,sad,Tate McRae,72,https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD,https://i.scdn.co/image/ab67616d0000b2734de739135ec975b47e65cddd
+117,Get You The Moon (feat. Snøw),sad,"Kina,Snøw",80,https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa,https://i.scdn.co/image/ab67616d0000b2730a64e2680bbc44107022e326
+118,Not About Angels,sad,Birdy,74,https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L,https://i.scdn.co/image/ab67616d0000b273a7a7f6236a9219ffc8e9054c
+119,"I miss you, I’m sorry",sad,Gracie Abrams,79,https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx,https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e
+120,Trying My Best,sad,Anson Seabra,67,https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b,https://i.scdn.co/image/ab67616d0000b273e471b0b396a4dc0c0066d4f1
+121,Dancing With Your Ghost,sad,Sasha Alex Sloan,81,https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ,https://i.scdn.co/image/ab67616d0000b273141cf717cd3993690358a60c
+122,Losing Interest,sad,Papithbk,69,https://open.spotify.com/track/2NYPx7YjNrHteC2RxzTzTZ,https://i.scdn.co/image/ab67616d0000b273ab68cb9a905107fb91256411
+123,happier,sad,Olivia Rodrigo,85,https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+124,Bored,sad,Billie Eilish,85,https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ,https://i.scdn.co/image/ab67616d0000b273e0f2af91be409aad81bba98c
+125,Jocelyn Flores,sad,XXXTENTACION,85,https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96,https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5
+126,you were good to me,sad,"Jeremy Zucker,Chelsea Cutler",76,https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P,https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758
+127,Love You From a Distance,sad,Ashley Kutcher,69,https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW,https://i.scdn.co/image/ab67616d0000b273a2bc453ca8bc851449e9e06a
+128,Dead and Cold,sad,SadBoyProlific,74,https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv,https://i.scdn.co/image/ab67616d0000b273a840d5ef4608635304846deb
+129,Never Be Alright,sad,Seon,66,https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ,https://i.scdn.co/image/ab67616d0000b2737e106f6ed9e1acdcc2e38400
+130,Let Me Down Slowly,sad,Alec Benjamin,86,https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d,https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370
+131,Never Felt So Alone,sad,Labrinth,88,https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo,https://i.scdn.co/image/ab67616d0000b2737dda6cb97a57f116f6fbf0be
+132,blame's on me,sad,Alexander Stewart,78,https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP,https://i.scdn.co/image/ab67616d0000b2734fd2d2a9e90bf7d20cc5a354
+133,Arcade,sad,Duncan Laurence,76,https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C,https://i.scdn.co/image/ab67616d0000b27359ce61a220822995a3ccd27f
+134,Glimpse of Us,sad,Joji,82,https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs,https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb
+135,Six Feet Under,sad,Billie Eilish,76,https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc,https://i.scdn.co/image/ab67616d0000b273fae80fc6c7f60e75cfc519c7
+136,I Don't Wanna Do This Anymore,sad,XXXTENTACION,78,https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD,https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f
+137,Out Of Love,sad,Alessia Cara,73,https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb,https://i.scdn.co/image/ab67616d0000b273b593a2e04c6b050838dca7e8
+138,It'll Be Okay,sad,Shawn Mendes,78,https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD,https://i.scdn.co/image/ab67616d0000b27372355b30dde4b6ded10ef48c
+139,I Can't Handle Change,sad,Roar,81,https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7,https://i.scdn.co/image/ab67616d0000b273d72f734a66c2b545facd7517
+140,Heather,sad,Conan Gray,88,https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA,https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43
+141,Changes,sad,Hayd,67,https://open.spotify.com/track/7KhzNtBj6hmB08fyJCIRb3,https://i.scdn.co/image/ab67616d0000b273aadad72b1e84839f27c42590
+142,Romantic Homicide,sad,d4vd,92,https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL,https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0
+143,Coping,sad,Rosie Darling,68,https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP,https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e
+144,Mr Loverman,sad,Ricky Montgomery,79,https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo,https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0
+145,Why Am I Waiting,sad,Papithbk,71,https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld,https://i.scdn.co/image/ab67616d0000b273ab68cb9a905107fb91256411
+146,when the party's over,sad,Billie Eilish,85,https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I,https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce
+147,Carry On,sad,XXXTENTACION,76,https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2,https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5
+148,I Found,sad,Amber Run,74,https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx,https://i.scdn.co/image/ab67616d0000b27307a1897752cd38db3e9e43f3
+149,You Broke My Heart Again,sad,"Teqkoi,Aiko",68,https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE,https://i.scdn.co/image/ab67616d0000b273cead661b84f308623190f7b4
+150,July,sad,Noah Cyrus,82,https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB,https://i.scdn.co/image/ab67616d0000b2737f66b73bd6e86f4c8d2a7692
+151,when the party's over,sad,Billie Eilish,85,https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I,https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce
+152,Half A Man,sad,Dean Lewis,78,https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv,https://i.scdn.co/image/ab67616d0000b273a787f718fb485b66d6219247
+153,Heather,sad,Conan Gray,88,https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA,https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43
+154,Lights Are On,sad,Tom Rosenthal,81,https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN,https://i.scdn.co/image/ab67616d0000b273963d93a7d49b6a45facb8f78
+155,Train Wreck,sad,James Arthur,82,https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H,https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab
+156,that way,sad,Tate McRae,79,https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC,https://i.scdn.co/image/ab67616d0000b273cdfe41cd475f8ad3a29b3537
+157,Someone You Loved,sad,Lewis Capaldi,90,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
+158,traitor,sad,Olivia Rodrigo,87,https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+159,Out Of Love,sad,Alessia Cara,73,https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb,https://i.scdn.co/image/ab67616d0000b273b593a2e04c6b050838dca7e8
+160,How To Never Stop Being Sad,sad,dandelion hands,71,https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ,https://i.scdn.co/image/ab67616d0000b2731936dfa81ba2eb3113fc489f
+161,If the World Was Ending (feat. Julia Michaels),sad,"JP Saxe,Julia Michaels",75,https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h,https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36
+162,lovely (with Khalid),sad,"Billie Eilish,Khalid",90,https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4,https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c
+163,Be Alright,sad,Dean Lewis,80,https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy,https://i.scdn.co/image/ab67616d0000b273a787f718fb485b66d6219247
+164,Heal,sad,Tom Odell,74,https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci,https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f
+165,If You Want Love,sad,NF,77,https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS,https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f
+166,you were good to me,sad,"Jeremy Zucker,Chelsea Cutler",76,https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P,https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758
+167,One Day,sad,Tate McRae,72,https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD,https://i.scdn.co/image/ab67616d0000b2734de739135ec975b47e65cddd
+168,Falling Apart,sad,Michael Schulte,76,https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op,https://i.scdn.co/image/ab67616d0000b273ab43ce4feed57aa8ada5e148
+169,happier,sad,Olivia Rodrigo,85,https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+170,changes,sad,XXXTENTACION,80,https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c
+171,Hold Me While You Wait,sad,Lewis Capaldi,80,https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
+172,Already Gone,sad,Sleeping At Last,68,https://open.spotify.com/track/5zCunX8URvLoBHlg1Fnjv6,https://i.scdn.co/image/ab67616d0000b2734e1aa82170ba0076076b9606
+173,i love you,sad,Billie Eilish,81,https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc,https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce
+174,Happiest Year,sad,Jaymes Young,77,https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE,https://i.scdn.co/image/ab67616d0000b2734fa99b79cb393270c88adfdf
+175,Hold On,sad,Chord Overstreet,82,https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K,https://i.scdn.co/image/ab67616d0000b273c60473419a4ce96822541181
+176,Break My Heart Again,sad,FINNEAS,74,https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe,https://i.scdn.co/image/ab67616d0000b273e64e1b406b2f65efc0d9fcad
+177,All I Want,sad,Kodaline,82,https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs,https://i.scdn.co/image/ab67616d0000b2733e42854096da9a3b1ca901c9
+178,Vas,sad,jagger finn,78,https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l,https://i.scdn.co/image/ab67616d0000b273ee2d3d1345c66a43c57f31c3
+179,Falling,sad,Harry Styles,85,https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp,https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a
+180,enough for you,sad,Olivia Rodrigo,77,https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+181,Rosyln,sad,"Bon Iver,St. Vincent",78,https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop,https://i.scdn.co/image/ab67616d0000b2738cdc3315bbb5331eddf6a21d
+182,feel like shit,sad,Tate McRae,69,https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE,https://i.scdn.co/image/ab67616d0000b273f7108342ef45a402af8206b2
+183,Destroy Myself Just For You,sad,Montell Fish,74,https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB,https://i.scdn.co/image/ab67616d0000b27338900c29071fe12d7a0a13cc
+184,listen before i go,sad,Billie Eilish,78,https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE,https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce
+185,Deep End,sad,Birdy,66,https://open.spotify.com/track/555CH6CnGJRqO37pqA30vW,https://i.scdn.co/image/ab67616d0000b27355ff8d164c51a7b3d71d9248
+186,hate u love u,sad,Olivia O'Brien,74,https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt,https://i.scdn.co/image/ab67616d0000b273f9a776c0d4ec78052c92882b
+187,Glimpse of Us,sad,Joji,82,https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs,https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb
+188,Everybody Dies In Their Nightmares,sad,XXXTENTACION,85,https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7,https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5
+189,Dancing With Your Ghost,sad,Sasha Alex Sloan,81,https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ,https://i.scdn.co/image/ab67616d0000b273141cf717cd3993690358a60c
+190,All I Ask,sad,Adele,76,https://open.spotify.com/track/6DEMMeWXfmFAXgDUMMzeg6,https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14
+191,"1 step forward, 3 steps back",sad,Olivia Rodrigo,78,https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+192,Lonely (with benny blanco),sad,"Justin Bieber,benny blanco",74,https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ,https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431
+193,One,sad,Lewis Capaldi,70,https://open.spotify.com/track/5C1TucCRf4Vjjree1OItyv,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
+194,In The Stars,sad,Benson Boone,84,https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn,https://i.scdn.co/image/ab67616d0000b273786e4e2c43c2897fafabbfb6
+195,Bored,sad,Billie Eilish,85,https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ,https://i.scdn.co/image/ab67616d0000b273e0f2af91be409aad81bba98c
+196,Not About Angels,sad,Birdy,74,https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L,https://i.scdn.co/image/ab67616d0000b273a7a7f6236a9219ffc8e9054c
+197,Happier,sad,Ed Sheeran,81,https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB,https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96
+198,worldstar money (interlude),sad,Joji,79,https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD,https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767
+199,Pray,sad,Jessie Murph,76,https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ,https://i.scdn.co/image/ab67616d0000b2739375bce83fc4fd70a683813e
+200,Already Enough,fear,"Fearless Soul,Rachael Schroeder",41,https://open.spotify.com/track/0T1ZQ6mggTWuYwfjBtsQjB,https://i.scdn.co/image/ab67616d0000b2733a825c8a5d5bb572fd458ad5
+201,Breathe,fear,"Fearless Soul,Rachael Schroeder",23,https://open.spotify.com/track/4WUvwvOA7jxauWr1BIdkTg,https://i.scdn.co/image/ab67616d0000b273523f07e851d2e7d04cc00559
+202,Believe,fear,Fearless Soul,37,https://open.spotify.com/track/2fSdDq0hDtkfEnEpJEhJGx,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+203,Meant for You,fear,Fearless Soul,30,https://open.spotify.com/track/2PaBlttqimMVnsy4B6YaJF,https://i.scdn.co/image/ab67616d0000b273a075a7fd3f2e42ac9f7d731d
+204,What's Coming Is Better Than What's Gone,fear,Fearless Soul,34,https://open.spotify.com/track/4unbtcpCVuvTgYrvrVtGE7,https://i.scdn.co/image/ab67616d0000b27317f271d3a20bf5477e56ea23
+205,Take That Chance,fear,"Fearless Soul,Rachael Schroeder",39,https://open.spotify.com/track/7GnWIcq8ndXa3aboUWxZDb,https://i.scdn.co/image/ab67616d0000b2733ab92616753a7ee22e3ad93b
+206,Only Love,fear,"Fearless Soul,Rachael Schroeder",42,https://open.spotify.com/track/65XUijLKHruEYw1zMwKeI5,https://i.scdn.co/image/ab67616d0000b2732dc91c2361cf6005501ad9d4
+207,One Day Things Will Go My Way,fear,Fearless Soul,28,https://open.spotify.com/track/1Q91bzrcO4Bkwa3n1piWnv,https://i.scdn.co/image/ab67616d0000b273080fe1e14c894b4a42da5c30
+208,Stronger,fear,Fearless Soul,32,https://open.spotify.com/track/2w6Uf3rwBdOJUo85Mu07x1,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+209,Tears Will Dry,fear,Fearless Soul,31,https://open.spotify.com/track/1bs8JNAAHN2IgQlSkRuKKZ,https://i.scdn.co/image/ab67616d0000b2737e3972bfaa9c80a3bc46f9eb
+210,The Deepest Purpose,fear,Fearless Soul,25,https://open.spotify.com/track/1NjSpYBED0HPAgnGkgeU3X,https://i.scdn.co/image/ab67616d0000b27307c6523a823a22dbbe05f617
+211,Brighter Days,fear,"Fearless Soul,Rachael Schroeder",40,https://open.spotify.com/track/2Jb5RTs4AQ76SqXJKoEg6Z,https://i.scdn.co/image/ab67616d0000b273373cae06ee545754a8716f92
+212,Heaven,fear,"Savella,Rachael Schroeder",43,https://open.spotify.com/track/0Dc7TkzWAujsC0FcJlPYbP,https://i.scdn.co/image/ab67616d0000b27307b55c8be66aee7e343393b5
+213,I Am Me (If I Have to I'll Walk Alone),fear,Fearless Soul,25,https://open.spotify.com/track/5Sk3Y079vxnO7no9LH2nMX,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+214,Living Now,fear,"Fearless Soul,Rachael Schroeder",26,https://open.spotify.com/track/2kWouaUxM2HFaJom5nb3WZ,https://i.scdn.co/image/ab67616d0000b273c891bc792042af8684f418b1
+215,I Am the Storm,fear,"Fearless Soul,Rachael Schroeder",24,https://open.spotify.com/track/18g8vGunTzIe9nN5beR7iR,https://i.scdn.co/image/ab67616d0000b273cf55b59cadca8a8da6bdde75
+216,Fix You,fear,Fearless Soul,0,https://open.spotify.com/track/28adRiQeQlNMLStTG6mkgZ,https://i.scdn.co/image/ab67616d0000b273dadfe1e66b0be1d4badecd63
+217,Good Things Take Time,fear,"Fearless Soul,Rachael Schroeder",35,https://open.spotify.com/track/6mxMGEyyd6uk5RyfrQkjeU,https://i.scdn.co/image/ab67616d0000b2737f84bb7bce75ee520f17befc
+218,My Own Hero,fear,"Fearless Soul,Rachael Schroeder",27,https://open.spotify.com/track/29E79Vq1u5mGR4qpNXz7jK,https://i.scdn.co/image/ab67616d0000b273032debc73deb71e4e194b60b
+219,Free My Soul,fear,Fearless Soul,28,https://open.spotify.com/track/2oQRNoNmHHEEPn4bqeV5ew,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+220,Uncertainty (I Will Face),fear,"Fearless Soul,Rachael Schroeder",23,https://open.spotify.com/track/2YTiYm5JUA4ADqgUYLyHn3,https://i.scdn.co/image/ab67616d0000b2736384260d7c6ab96d82067057
+221,Begin Again,fear,"Fearless Soul,Rachael Schroeder",26,https://open.spotify.com/track/6gFj7CoNtduhSdd4Ny7nbx,https://i.scdn.co/image/ab67616d0000b2738217aa1716fe2df6b7452873
+222,Changing My Narrative,fear,"Fearless Soul,Rachael Schroeder",37,https://open.spotify.com/track/3YbxgVpFoaHjhvscWFxH0J,https://i.scdn.co/image/ab67616d0000b27331345ae904752585acdf1ba6
+223,Day by Day,fear,"Fearless Soul,Rachael Schroeder",25,https://open.spotify.com/track/4jGhOt0mPHQ011JPvgV2uo,https://i.scdn.co/image/ab67616d0000b273d5270f9da0a9a689ad75f655
+224,Pick Myself up Again,fear,Fearless Soul,21,https://open.spotify.com/track/7hyGrrMT9kf1fmZ1EU0G1C,https://i.scdn.co/image/ab67616d0000b273cd1f38bef70f03b1add223af
+225,You're Amazing (Sammi's Song),fear,Fearless Soul,25,https://open.spotify.com/track/690bjbS0kZSCW4QChUcrbt,https://i.scdn.co/image/ab67616d0000b2733bd1a679e2fd18de79ebc972
+226,Dare to Be Me,fear,"Fearless Soul,Rachael Schroeder",23,https://open.spotify.com/track/5PqgXKb4LVKaUp8FIH05Bc,https://i.scdn.co/image/ab67616d0000b27352a6f5fd4e36a9dab55907ae
+227,Never Too Late to Start Again,fear,Fearless Soul,27,https://open.spotify.com/track/1erFtGzhH7fHsfoOL3xeJk,https://i.scdn.co/image/ab67616d0000b273df12dedc3bc509ce07450b41
+228,True Colors,fear,"Fearless Soul,Rachael Schroeder",42,https://open.spotify.com/track/57CCT8lTMw0b5XuFSfTEZ7,https://i.scdn.co/image/ab67616d0000b27326298af629d86c42b53e4c88
+229,Rainbow,fear,"Fearless Soul,Rachael Schroeder",22,https://open.spotify.com/track/1TECRtEhNavnLIwJvNuNdj,https://i.scdn.co/image/ab67616d0000b273ccc9636d34751220f6af36e8
+230,One Day It Will Be All Over,fear,Fearless Soul,16,https://open.spotify.com/track/5i5Ure7UDJ8HEwpIwI4UkT,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+231,Light and Love,fear,"Fearless Soul,JiLLi",21,https://open.spotify.com/track/2KMFmewOMWmmjtlfzMVsvN,https://i.scdn.co/image/ab67616d0000b273aee6978d3f1d03c1d97c9443
+232,Let It Go,fear,Fearless Soul,20,https://open.spotify.com/track/7fXbRw0HYty1dNP216Hr8n,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+233,This Is Not the End (Hang in There Remix),fear,"Fearless Soul,The Julianno",26,https://open.spotify.com/track/5p3Cuxs8ihQxGiWW89g8M7,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+234,Thank You,fear,Fearless Soul,21,https://open.spotify.com/track/62Av9YfCtryh4M7qXlF7wh,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+235,The Real Me (Acoustic),fear,Fearless Soul,10,https://open.spotify.com/track/1WlKCroEBVaFy7ldG7E2qq,https://i.scdn.co/image/ab67616d0000b273fa411be6e7766f42d1d083d7
+236,Better Life,fear,Fearless Soul,19,https://open.spotify.com/track/1NFuGNCnwzf1scDVRS2NYC,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+237,The Best Revenge Is Letting Go,fear,Fearless Soul,15,https://open.spotify.com/track/2IhR4Rf9mwb8fzfCKofupZ,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+238,Your Words Matter,fear,Fearless Soul,16,https://open.spotify.com/track/4nM65Y4SEdFbbTQ3ClWjnq,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+239,Be Kind,fear,Fearless Soul,18,https://open.spotify.com/track/783tROY6zUCOIusahtbdjc,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+240,Find My Way,fear,Fearless Soul,28,https://open.spotify.com/track/22ihRHHAOEknFPO6LrD1uw,https://i.scdn.co/image/ab67616d0000b2736c7e26a557e5a720144e4857
+241,Better Life,fear,Fearless Soul,20,https://open.spotify.com/track/1zvcGpQHrKv1xgyWJvjJfH,https://i.scdn.co/image/ab67616d0000b273c8c2547797ab11a7f32cf11a
+242,It’s Within You,fear,Fearless Soul,19,https://open.spotify.com/track/5FaLABiC4Ze4T0ypNnEAHC,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+243,Piece of Good,fear,Fearless Soul,36,https://open.spotify.com/track/665PMJKOZiOESJIejlS1Mt,https://i.scdn.co/image/ab67616d0000b273aa7cabad047e09444c09508b
+244,Follow Your Heart,fear,Fearless Soul,16,https://open.spotify.com/track/1W0sO9b5zhHxS5FYL1bOKM,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+245,Let Love Lead the Way,fear,"Fearless Soul,Rachael Schroeder",27,https://open.spotify.com/track/69ao9kMt6LQf9cZw46rRCw,https://i.scdn.co/image/ab67616d0000b27356607880f6cba43e4c3c1e13
+246,Believe in Miracles,fear,Fearless Soul,22,https://open.spotify.com/track/4RM7g2vYwjtJqwKYjnjmjP,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+247,Mind over Matter,fear,Fearless Soul,21,https://open.spotify.com/track/7gKSNiCEAxR6I8AGQ7k5i2,https://i.scdn.co/image/ab67616d0000b273f46ba1956426a85370ae9cd9
+248,You Can Do Impossible Things,fear,Fearless Soul,14,https://open.spotify.com/track/79g07YYWbq1r4yLth1BlEc,https://i.scdn.co/image/ab67616d0000b273169e25505cce86c3566403ff
+249,Confident,fear,Fearless Soul,17,https://open.spotify.com/track/69Vjcm4hsHonrbJjenncBi,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+250,Heroes (We Could Be),fear,Fearless Soul,0,https://open.spotify.com/track/2uahGH1c0ngxE5ForpRXBI,https://i.scdn.co/image/ab67616d0000b2739f671e32b90b35a6b0e4b677
+251,Be the Change You Wish to See,fear,Fearless Soul,14,https://open.spotify.com/track/2L1GaU9KCq31vBRwLewCj0,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+252,Different,fear,Fearless Soul,16,https://open.spotify.com/track/0yGu41HyFc5i7yxBwS8owd,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+253,Thoughts Become Things,fear,Fearless Soul,20,https://open.spotify.com/track/4kpUZZNM9AJPc7ODoAO43e,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+254,Free to Be,fear,Fearless Soul,15,https://open.spotify.com/track/1dsNcfEyxalBQvBRrD70ld,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+255,The Real Me,fear,Fearless Soul,10,https://open.spotify.com/track/0Hi5TJZKfOZLpchOH1fhSH,https://i.scdn.co/image/ab67616d0000b273c2762eabee5887b15af08b9a
+256,The Best Revenge (Love Version),fear,Fearless Soul,11,https://open.spotify.com/track/7p3QfCh9Vme6uvNDb4E8y0,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+257,Grass Is Greener,fear,Fearless Soul,16,https://open.spotify.com/track/6fYrm6u5pKItH9feNMycgE,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+258,We're All One,fear,Fearless Soul,15,https://open.spotify.com/track/7pDbHfhQ3p5Lzc0rN16MiZ,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+259,Be Myself,fear,"Fearless Soul,Fearless Motivation",15,https://open.spotify.com/track/79jrXiTdh9WdRBrCaBx4JL,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+260,Stronger (Piano Version),fear,Fearless Soul,36,https://open.spotify.com/track/7wYMMCKe9hcoEe5eNN5YLY,https://i.scdn.co/image/ab67616d0000b2739c3a7228c473434034e8e9f5
+261,Fix You - Live,fear,"Fearless Soul,Rachael Schroeder",0,https://open.spotify.com/track/2ngQ9wXgq6ZDhocYSWPAJp,https://i.scdn.co/image/ab67616d0000b2732fd79c448375034585c622d5
+262,Take Chances,fear,Fearless Soul,11,https://open.spotify.com/track/6ppDe6Bdyg54Md8RZFKBA0,https://i.scdn.co/image/ab67616d0000b2732782091e7452c9ec8e813a12
+263,Piece of Good,fear,Fearless Soul,14,https://open.spotify.com/track/7DxxKMS3xHTlBAajZ6JWD4,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+264,5 Things,fear,"Fearless Soul,Lyrically Twisted",12,https://open.spotify.com/track/1qSBY477E2DlD1HV3rXLYz,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+265,The Meaning of Life,fear,"Fearless Soul,Lyrically Twisted",10,https://open.spotify.com/track/4sdM9SbtlgCsSm4r1SmU7e,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+266,Limitations,fear,"Fearless Soul,Jones 2.0",11,https://open.spotify.com/track/3a1oQuQlXu3hqdWozJ1mZL,https://i.scdn.co/image/ab67616d0000b2737bb094b6ed81e0c1cc1496b2
+267,Kind to Yourself,fear,"Fearless Soul,Rachael Schroeder",33,https://open.spotify.com/track/4TRsP00ZJmMlUx3JGTkzsS,https://i.scdn.co/image/ab67616d0000b2737f62613c4c693009010d49cb
+268,Before It's Over,fear,"Fearless Soul,Rachael Schroeder",20,https://open.spotify.com/track/0A40YICcULTEx9yCFBE9k6,https://i.scdn.co/image/ab67616d0000b273aaba240e647966d9c57234e5
+269,Don't Dream It's Over,fear,"Fearless Soul,Rachael Schroeder",40,https://open.spotify.com/track/5g9ZE24cLRIRIYQYsKVe9T,https://i.scdn.co/image/ab67616d0000b273a26d0ca5f4e650cec1accf82
+270,Always Changing,fear,"Fearless Soul,Rachael Schroeder",14,https://open.spotify.com/track/3PKB65sj5dYvo5WpPbcnXZ,https://i.scdn.co/image/ab67616d0000b2734cfdcdfd301a511f62006557
+271,Hallelujah,fear,"Fearless Soul,The Julianno",26,https://open.spotify.com/track/7IooYkW0yGMSYlvTYZuitv,https://i.scdn.co/image/ab67616d0000b2734e258e4cd3ea8fee64290c2b
+272,human,fear,Fearless Soul,27,https://open.spotify.com/track/7nQBzRUUA0Uo3VlNqxi0Zs,https://i.scdn.co/image/ab67616d0000b2734e258e4cd3ea8fee64290c2b
+273,Elastic Heart,fear,Fearless Soul,31,https://open.spotify.com/track/4OoygSD9V5m2uvZYUwZOdB,https://i.scdn.co/image/ab67616d0000b2734e258e4cd3ea8fee64290c2b
+274,No More Negativity,fear,Fearless Soul,11,https://open.spotify.com/track/6H7pYRyx3I8q4J0EKB8sWm,https://i.scdn.co/image/ab67616d0000b273f14fa4fa0c67fac813313a96
+275,Kill Em With Kindness,fear,"Savella,Rachael Schroeder",25,https://open.spotify.com/track/2ytaxMQgFSVzi5OapR5vQb,https://i.scdn.co/image/ab67616d0000b2734f35ebe0825d6fb529cd071c
+276,Not Your Savior,fear,"Savella,Rachael Schroeder",16,https://open.spotify.com/track/7IsheFuXJr9waH7HvBxrAy,https://i.scdn.co/image/ab67616d0000b27315583214a8269967e44b09cd
+277,Kill Em With Kindness - Acoustic,fear,"Savella,Rachael Schroeder",44,https://open.spotify.com/track/7qcnmQQX95lU164B9IeVAz,https://i.scdn.co/image/ab67616d0000b2734f35ebe0825d6fb529cd071c
+278,Shine Brave,fear,"Fearless Soul,Saul City",27,https://open.spotify.com/track/0R0SfchP5J4CFJjjpZMbvh,https://i.scdn.co/image/ab67616d0000b27336fde54f1055e748815c7222
+279,My Immortal,fear,"Savella,Rachael Schroeder",40,https://open.spotify.com/track/6Wsm0tsNz4l80pciJNNqgp,https://i.scdn.co/image/ab67616d0000b27380d2b20acb3bbc38136df55f
+280,Love Is Contagious,fear,"Fearless Soul,JiLLi",15,https://open.spotify.com/track/0oSyMT9kQCVZTjWOYNgfsY,https://i.scdn.co/image/ab67616d0000b273032debc73deb71e4e194b60b
+281,Heart Song,fear,"Fearless Soul,Saul City",11,https://open.spotify.com/track/1ka4J4MgnVQtKMGgjc0GuW,https://i.scdn.co/image/ab67616d0000b273eae5df56c0889cd04b4592d3
+282,Look Within,fear,Fearless Soul,14,https://open.spotify.com/track/2e2ajiHyWAbwl50CAChqUa,https://i.scdn.co/image/ab67616d0000b273caf34b5fe29f69dfab97d667
+283,The Sun Will Come Out,fear,Fearless Soul,11,https://open.spotify.com/track/4MIINolTRaOHmbOok4Wm6S,https://i.scdn.co/image/ab67616d0000b27324c8549ae895f8dd72d87645
+284,Hope,fear,Fearless Soul,10,https://open.spotify.com/track/43BlCAwiyEw9jqQB9GEOPu,https://i.scdn.co/image/ab67616d0000b2736d17703ce6907a0d4cb2c2a1
+285,The Climb,fear,Fearless Soul,40,https://open.spotify.com/track/6E81vx9iKbpVb9vWDGqfPs,https://i.scdn.co/image/ab67616d0000b273bf8c1d4f82fda9462bb95d77
+286,My Power,fear,Fearless Soul,20,https://open.spotify.com/track/0378T0naGrLkPKSWLCwt7P,https://i.scdn.co/image/ab67616d0000b273ac00ceb1dce97281e2f1e759
+287,Rainbow (Acoustic),fear,"Fearless Soul,Rachael Schroeder",41,https://open.spotify.com/track/2IasNNwKkhAyAADb5n1Srt,https://i.scdn.co/image/ab67616d0000b27330e4f067a821872e8911a446
+288,Spirits,fear,Fearless Soul,19,https://open.spotify.com/track/3UaWvh3l7KSx96laGUly5o,https://i.scdn.co/image/ab67616d0000b27322639827ba1eb9cfe8463be6
+289,Million To One,fear,"Fearless Soul,Rachael Schroeder",39,https://open.spotify.com/track/5RiAouQC16ccOkHVPSkuQe,https://i.scdn.co/image/ab67616d0000b27377898877bf47da3b7ad4b3af
+290,Don't Worry (Good Things Will Come),fear,"Fearless Soul,Rachael Schroeder",41,https://open.spotify.com/track/0HSvPS7RyfaoovMkMoyVMu,https://i.scdn.co/image/ab67616d0000b273a176039bf1a0d072b41f6905
+291,Can't Wait to Meet You,fear,Fearless Soul,13,https://open.spotify.com/track/1cLhrXze4hYpJONkKyoLmP,https://i.scdn.co/image/ab67616d0000b2739a8435dceaf45a6e7e5310e6
+292,Can't Wait to Meet You (Piano),fear,Fearless Soul,33,https://open.spotify.com/track/56exwfGU6vA8z5KsBQ7rg8,https://i.scdn.co/image/ab67616d0000b2739a8435dceaf45a6e7e5310e6
+293,Live Your Way,fear,"Fearless Soul,Rachael Schroeder",23,https://open.spotify.com/track/0QNKag3pQWAlNHbL08FMNJ,https://i.scdn.co/image/ab67616d0000b273f44e97d4e3cfff45fd6cf832
+294,Only a Season,fear,"Fearless Soul,Rachael Schroeder",20,https://open.spotify.com/track/0z11WKJbzzV66BUh0Qdqfa,https://i.scdn.co/image/ab67616d0000b273345e6a6fe7fc86f4aa8a7da9
+295,Grateful,fear,"Fearless Soul,Rachael Schroeder",27,https://open.spotify.com/track/3u9K5bbcuyX7IH9YcN5Cjj,https://i.scdn.co/image/ab67616d0000b2731ee5520bfd6b3c449adfe2d7
+296,Waiting for Me,fear,"Fearless Soul,Tyler Burdic",22,https://open.spotify.com/track/4S60ZDZc8RFu1oi3oKPpQB,https://i.scdn.co/image/ab67616d0000b27376a8b9d3efea9af327456795
+297,We All Fall,fear,Fearless Soul,20,https://open.spotify.com/track/3TauE8xpL7cotp1iBTuA6N,https://i.scdn.co/image/ab67616d0000b27312ac0dbabd11838dd7dda55d
+298,When the Time Is Right,fear,Fearless Soul,24,https://open.spotify.com/track/38KQPZ1O0ZjYbusGixCKNx,https://i.scdn.co/image/ab67616d0000b27317dedb09efeeded55bf32166
+299,Flames (Acoustic),fear,"Fearless Soul,Tyler Burdic",44,https://open.spotify.com/track/0YNxBhkZRWSTfar4AQRuw7,https://i.scdn.co/image/ab67616d0000b273d9653ca2b158b33956b94fd1
+300,METHHEAD FREESTYLE,angry,"Lil Darkie,Eric North,JOHNNASCUS,Half Metal Kaiba,BLCKK,BRUHMANEGOD,LiL CUBENSiS,Royalty the Kidd,Afourteen,Wendigo",63,https://open.spotify.com/track/495T3rrTtGF4FRHHvldWjh,https://i.scdn.co/image/ab67616d0000b27304e5edad2fa4929e73d1fdf5
+301,TRRST,angry,"IC3PEAK,ZillaKami",66,https://open.spotify.com/track/0M56diRArdi0vRYmLBeltn,https://i.scdn.co/image/ab67616d0000b273c920d3f99417e0e14ac7a512
+302,Break Shit,angry,Jasiah,65,https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq,https://i.scdn.co/image/ab67616d0000b27314e64ee8d67e847491855f69
+303,abcdefu (angrier),angry,GAYLE,71,https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2,https://i.scdn.co/image/ab67616d0000b2733acbe79d4a2013021b607a84
+304,Riot,angry,Hollywood Undead,66,https://open.spotify.com/track/1igr912oduAmZQaoGhiADw,https://i.scdn.co/image/ab67616d0000b2739d9ad06a0afeb368cdab1067
+305,Angry Too,angry,Lola Blanc,65,https://open.spotify.com/track/3DgxdsUHAvQgWPdPij6IVw,https://i.scdn.co/image/ab67616d0000b27391f215ee35cf0a71f3c73157
+306,I duckinf hatw you,angry,"Ghostemane,Parv0",72,https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1,https://i.scdn.co/image/ab67616d0000b2735abcea911bfb4b25200f770f
+307,Hayloft II,angry,Mother Mother,77,https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI,https://i.scdn.co/image/ab67616d0000b273ac91ecc149d3fb876f117a84
+308,labour,angry,Paris Paloma,82,https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG,https://i.scdn.co/image/ab67616d0000b273afcb0b97ababb33ca367917e
+309,Bxmb Threat,angry,Chauncey666,57,https://open.spotify.com/track/22Zd0jHYLHX1We7fWxwYL2,https://i.scdn.co/image/ab67616d0000b273be8764f7b84d1138d1ebee4d
+310,I Hate Everything About You,angry,Three Days Grace,76,https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi,https://i.scdn.co/image/ab67616d0000b27377922eaa071fb388270f203f
+311,HAHA,angry,Lil Darkie,63,https://open.spotify.com/track/18Gcl5bxdd8bpBhWOj1rCR,https://i.scdn.co/image/ab67616d0000b273d4638523848beff19bff7226
+312,Rage,angry,Rico Nasty,55,https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT,https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e
+313,Drunk Walk Home,angry,Mitski,65,https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO,https://i.scdn.co/image/ab67616d0000b273e90db8983ebd43b776694179
+314,DAYWALKER! (feat. CORPSE),angry,"Machine Gun Kelly,CORPSE",67,https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h,https://i.scdn.co/image/ab67616d0000b273d61bd7979bfead643d7100b8
+315,I Wanna Bitch Like Dillion Harper,angry,KAMAARA,58,https://open.spotify.com/track/1RPXpk7oHjhEVvNSDtHruZ,https://i.scdn.co/image/ab67616d0000b273eab353328a9552831299e93b
+316,I've Had Enough,angry,Melina KB,63,https://open.spotify.com/track/534P1wgOzlgSogu8At0B6b,https://i.scdn.co/image/ab67616d0000b273f5d77ed0bc17c6217d910e3b
+317,I Hate My Mom,angry,GRLwood,59,https://open.spotify.com/track/05tkwIiIjcYXquRoObDh94,https://i.scdn.co/image/ab67616d0000b2732d79736c62f1e6d966357dcd
+318,Can You Feel My Heart,angry,Bring Me The Horizon,81,https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj,https://i.scdn.co/image/ab67616d0000b27360cf7c8dd93815ccd6cb4830
+319,i hope ur miserable until ur dead,angry,Nessa Barrett,70,https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac,https://i.scdn.co/image/ab67616d0000b27343fd9d2da3b26df82b9e0fe7
+320,Custer,angry,Slipknot,77,https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf,https://i.scdn.co/image/ab67616d0000b273eed722040c6810f7a7da93ea
+321,YOU CAN SMD,angry,"City Morgue,ZillaKami",61,https://open.spotify.com/track/4uUUPTF8566PHM1dZqH5Kb,https://i.scdn.co/image/ab67616d0000b273d127ecd89d2f82594dee83d5
+322,BATSHIT,angry,Lil Darkie,58,https://open.spotify.com/track/6YNh2sMxv2v09rfxiPjgcW,https://i.scdn.co/image/ab67616d0000b273056090ee900f03e8ba9092a0
+323,Faggot,angry,Mindless Self Indulgence,63,https://open.spotify.com/track/09RhTAi0nuzCs5KS2XWSs5,https://i.scdn.co/image/ab67616d0000b2739b7d74bb24a0d44a46ce893b
+324,Picture To Burn,angry,Taylor Swift,72,https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG,https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c
+325,good 4 u,angry,Olivia Rodrigo,87,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a
+326,Tantrum,angry,Ashnikko,65,https://open.spotify.com/track/3htJKHlAjUoRmNLheJ8uTV,https://i.scdn.co/image/ab67616d0000b2739ee25a36c6fe0c2841fff542
+327,Fences,angry,Destroy Boys,56,https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79,https://i.scdn.co/image/ab67616d0000b273f2b7749f89b45e0871b80527
+328,Boy Division,angry,My Chemical Romance,57,https://open.spotify.com/track/7wzNovIu5urOjulGX4VzFo,https://i.scdn.co/image/ab67616d0000b27312c603c167a40a23f45f2e33
+329,Alien Blues,angry,Vundabar,83,https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x,https://i.scdn.co/image/ab67616d0000b273578b0e6109b76bad0821ca71
+330,10 Things I Hate About You,angry,Leah Kate,76,https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH,https://i.scdn.co/image/ab67616d0000b273596a9d381ffda7d97da5d702
+331,Flesh,angry,Ghostemane,68,https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF,https://i.scdn.co/image/ab67616d0000b273b5ea1cb4ed9ef489db89597f
+332,THE ELECTRIC EXPERIENCE,angry,"City Morgue,ZillaKami,SosMula",60,https://open.spotify.com/track/4ZAy1Vh6u97dJRnEg1qexN,https://i.scdn.co/image/ab67616d0000b273d127ecd89d2f82594dee83d5
+333,FUCK YOU I AM VERY ANGRY AND SERIOUS,angry,Lil Darkie,53,https://open.spotify.com/track/14LCrkKYSplTLYlWK3BBZ5,https://i.scdn.co/image/ab67616d0000b273026183dd364a0d894d69a9c6
+334,Molly,angry,Mindless Self Indulgence,68,https://open.spotify.com/track/1kTZ1aERsOBTrihsDdGFNn,https://i.scdn.co/image/ab67616d0000b273d35b1b5785bad9b1f8520b93
+335,18+,angry,Scene Queen,62,https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs,https://i.scdn.co/image/ab67616d0000b2732d0c13188b2c971c2a9b478c
+336,RIP Roach,angry,"XXXTENTACION,Ski Mask The Slump God",76,https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE,https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f
+337,I'm Yer Dad,angry,GRLwood,62,https://open.spotify.com/track/0Bq0OZoSo05djGSp80EDoo,https://i.scdn.co/image/ab67616d0000b2737b42371ee0855db5ecebee55
+338,abcdefu,angry,GAYLE,85,https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL,https://i.scdn.co/image/ab67616d0000b2732842f743ebd32235bceb43d3
+339,Jennifer's Body,angry,Hole,58,https://open.spotify.com/track/6wAdJF85cna96BwQn2Pg8c,https://i.scdn.co/image/ab67616d0000b273be245e5b673371e6f95b19e2
+340,Teenagers,angry,My Chemical Romance,82,https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0,https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1
+341,fuK u lol,angry,CORPSE,67,https://open.spotify.com/track/7uSekeuXG3G2wH6D1q3ACK,https://i.scdn.co/image/ab67616d0000b273373abc05d1c100dff35bdcbf
+342,Bonesaw,angry,Ghostemane,61,https://open.spotify.com/track/6I90hMc9paVMjNPxMOXoot,https://i.scdn.co/image/ab67616d0000b273b5ea1cb4ed9ef489db89597f
+343,DAWG,angry,"City Morgue,ZillaKami,SosMula",56,https://open.spotify.com/track/23sFDCjLKbzMu0SWqGZsFf,https://i.scdn.co/image/ab67616d0000b27393ba2fddfc734b275c06a662
+344,GENOCIDE,angry,Lil Darkie,68,https://open.spotify.com/track/68Y3zzmt2XxzheQVGbbJt4,https://i.scdn.co/image/ab67616d0000b27300b9665cba5db36da9675b2b
+345,Heart Attack,angry,Scarlxrd,64,https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ,https://i.scdn.co/image/ab67616d0000b27387a9495fd25dfa23e68a9e66
+346,Lotta True Crime,angry,Penelope Scott,69,https://open.spotify.com/track/18jbMG8etanCMt6C5wFRDa,https://i.scdn.co/image/ab67616d0000b27334702dd79ebdfb24ffbefb53
+347,YASOPP,angry,Kxllswxtch,65,https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe,https://i.scdn.co/image/ab67616d0000b273933ae980d2d8a06b53226231
+348,Vigilante Shit,angry,Taylor Swift,81,https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+349,Killing In The Name,angry,Rage Against The Machine,81,https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp,https://i.scdn.co/image/ab67616d0000b2737676c7bf4e667590e496c2a3
+350,labour,angry,Paris Paloma,82,https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG,https://i.scdn.co/image/ab67616d0000b273afcb0b97ababb33ca367917e
+351,Us and Pigs,angry,SOFIA ISELLA,62,https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt,https://i.scdn.co/image/ab67616d0000b273c627df8fd11f4d9ae4e4f6ee
+352,YuNg BrAtZ,angry,XXXTENTACION,77,https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB,https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f
+353,AMV,angry,Lil Darkie,64,https://open.spotify.com/track/2tCzoavZgN8Hnoy31NNGNi,https://i.scdn.co/image/ab67616d0000b2738a7684c5a5ec371aff734a75
+354,Ptolemaea,angry,Ethel Cain,63,https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs,https://i.scdn.co/image/ab67616d0000b273ccd1887cc78b0bd55f54bbe1
+355,I duckinf hatw you,angry,"Ghostemane,Parv0",72,https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1,https://i.scdn.co/image/ab67616d0000b2735abcea911bfb4b25200f770f
+356,Drunk Walk Home,angry,Mitski,65,https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO,https://i.scdn.co/image/ab67616d0000b273e90db8983ebd43b776694179
+357,Witch Hunt,angry,"Chandler Leighton,DEZI",60,https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb,https://i.scdn.co/image/ab67616d0000b27343a4d75f72527a0f42642b4a
+358,18+,angry,Scene Queen,62,https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs,https://i.scdn.co/image/ab67616d0000b2732d0c13188b2c971c2a9b478c
+359,LED,angry,OmenXIII,71,https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF,https://i.scdn.co/image/ab67616d0000b273839837732307e5556ebafe45
+360,Rage,angry,Rico Nasty,55,https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT,https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e
+361,Breakfast,angry,Dove Cameron,76,https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0,https://i.scdn.co/image/ab67616d0000b273b5a28daad91ab7e092b0bf81
+362,Take A Step Back,angry,"Ski Mask The Slump God,XXXTENTACION",74,https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5,https://i.scdn.co/image/ab67616d0000b27313831fd1727486857a80f2be
+363,RIP Roach,angry,"XXXTENTACION,Ski Mask The Slump God",76,https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE,https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f
+364,Just A Girl - From The Original Series “Yellowjackets”,angry,Florence + The Machine,66,https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i,https://i.scdn.co/image/ab67616d0000b273cf0b0985f881c5c035e726e2
+365,Same Old Energy,angry,Kiki Rockwell,53,https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU,https://i.scdn.co/image/ab67616d0000b273aa67e9ad438f7c877ab5a536
+366,Flesh,angry,Ghostemane,68,https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF,https://i.scdn.co/image/ab67616d0000b273b5ea1cb4ed9ef489db89597f
+367,55 Lifestyle,angry,Homixide Gang,63,https://open.spotify.com/track/7eUvg5UEG8AVyWKGWm7Lj1,https://i.scdn.co/image/ab67616d0000b273e57962f75f6165382e40ac51
+368,DEATH OF A PREDATOR,angry,Banshee,55,https://open.spotify.com/track/3RSiw9T4sAT4Rfx24YeBRU,https://i.scdn.co/image/ab67616d0000b273795b593f6107bb94fe0b93c9
+369,Rockstar Made,angry,Playboi Carti,73,https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h,https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb
+370,Off The Map,angry,SoFaygo,59,https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY,https://i.scdn.co/image/ab67616d0000b273338d845a67c815d9843f39d1
+371,FUCK YOU I AM VERY ANGRY AND SERIOUS,angry,Lil Darkie,53,https://open.spotify.com/track/14LCrkKYSplTLYlWK3BBZ5,https://i.scdn.co/image/ab67616d0000b273026183dd364a0d894d69a9c6
+372,Fuck Off,angry,"Lil Lucifer,DeadBeatVillain",54,https://open.spotify.com/track/1uwQsyvo5QFD4zVb2PAqk5,https://i.scdn.co/image/ab67616d0000b273c3b0f215c8f5ffd3c26a6f2e
+373,Crisis,angry,Jasiah,61,https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR,https://i.scdn.co/image/ab67616d0000b27314e64ee8d67e847491855f69
+374,THAT BITCH,angry,Bea Miller,68,https://open.spotify.com/track/77o1HdXHm1hLd7Ebe9ygd0,https://i.scdn.co/image/ab67616d0000b273862f00f2c621ea0c926f9e7c
+375,Never Met!,angry,ENCASSATOR,60,https://open.spotify.com/track/2VOfLVDbL5ZAxJhFaFNolo,https://i.scdn.co/image/ab67616d0000b273252accba732348e1c68e01b4
+376,Off Tha Lot,angry,Yeat,73,https://open.spotify.com/track/5RdiPZzjXTmp9N51wBEzCv,https://i.scdn.co/image/ab67616d0000b27387b1f578fa40d6ac504b57d7
+377,Astral Plane (High As Me),angry,UnoTheActivist,53,https://open.spotify.com/track/6OtJ8Jjjqv6rI2sEbJWD02,https://i.scdn.co/image/ab67616d0000b27304f4ca62c362603b26c30757
+378,ADHD,angry,Homixide Gang,59,https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc,https://i.scdn.co/image/ab67616d0000b2732c7325d1293a67c42b03d621
+379,Medusa,angry,Kaia Jette,61,https://open.spotify.com/track/0SNWjlBCdLZvOXga4M34Is,https://i.scdn.co/image/ab67616d0000b27396851ef6a3a73a9020985e28
+380,Floor 555,angry,XXXTENTACION,72,https://open.spotify.com/track/6r7ULK6c5CLVvImjTIztl1,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c
+381,Miss The Rage (feat. Playboi Carti),angry,"Trippie Redd,Playboi Carti",76,https://open.spotify.com/track/5gZYpjakt37G3c58FKcQwJ,https://i.scdn.co/image/ab67616d0000b273d01b8867ca76ba7a4c15a9a4
+382,TOXIC,angry,YOUNGX777,76,https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS,https://i.scdn.co/image/ab67616d0000b2737e818b5578134106465739c5
+383,You Make Me Sick!,angry,Ashnikko,68,https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq,https://i.scdn.co/image/ab67616d0000b273414cc2a7ceb94c9c1d5624f5
+384,NEVEREVER,angry,Destroy Lonely,70,https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ,https://i.scdn.co/image/ab67616d0000b2734f210060708ed55d2d5e79b4
+385,Not All Men,angry,Morgan St. Jean,58,https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM,https://i.scdn.co/image/ab67616d0000b27369d708ad321e12831e53ceb5
+386,RAGE,angry,Samantha Margret,56,https://open.spotify.com/track/5PT996RGwH4wDp6Ui92yDz,https://i.scdn.co/image/ab67616d0000b273519cfa018bd0ca88c60b6026
+387,Fuk Tha Clout (feat. Yeat),angry,"KANKAN,Yeat",62,https://open.spotify.com/track/2u8p7hcPih3EhieDLnsnUH,https://i.scdn.co/image/ab67616d0000b27317664112a4cc801695ca0f5e
+388,Girls Against God,angry,Florence + The Machine,60,https://open.spotify.com/track/6kQlUiaTUyRW8fYQ2xDhpx,https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186
+389,V-Friends,angry,Homixide Gang,58,https://open.spotify.com/track/7FUx1SDHG4Im52aKu3iCXC,https://i.scdn.co/image/ab67616d0000b2737ab60a4c49f7938f1d435a5f
+390,Rock N Roll,angry,Ken Carson,71,https://open.spotify.com/track/1V0jEAE4UreyX8KYxGLnLP,https://i.scdn.co/image/ab67616d0000b273e59caa125e860f0b49034665
+391,#ImSippinTeaInYoHood,angry,XXXTENTACION,67,https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w,https://i.scdn.co/image/ab67616d0000b27352cc5e3765a135c52e1bbbbc
+392,Molly Hearts,angry,Trippie Redd,56,https://open.spotify.com/track/3KXPXlXd8rmeFEU7qFCKoT,https://i.scdn.co/image/ab67616d0000b273d01b8867ca76ba7a4c15a9a4
+393,abcdefu (angrier),angry,GAYLE,71,https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2,https://i.scdn.co/image/ab67616d0000b2733acbe79d4a2013021b607a84
+394,Still countin,angry,Yeat,60,https://open.spotify.com/track/2Jgk7jr68B6EGc2mHOr3Gg,https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db
+395,Break Shit,angry,Jasiah,65,https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq,https://i.scdn.co/image/ab67616d0000b27314e64ee8d67e847491855f69
+396,BITE BACK!,angry,"SXMPRA,Teddy Slugz",56,https://open.spotify.com/track/1lXofGJvQoTFSMTq616jwR,https://i.scdn.co/image/ab67616d0000b273f4c9c7af17d6312465f78ea4
+397,mad woman,angry,Taylor Swift,70,https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi,https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc
+398,Take Me Away,angry,"Somber,Warlord Colossus",66,https://open.spotify.com/track/4YBR9F76hT40fVDfzrcOth,https://i.scdn.co/image/ab67616d0000b273b43077433dca1753c4cfdf9c
+399,All Alone,angry,Freddie Dredd,74,https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4,https://i.scdn.co/image/ab67616d0000b273eac125ae834b76b7d15b3014
+400,Astra,disgust,Zingara,41,https://open.spotify.com/track/6cDcN08jQphgeZ1nwv5aFj,https://i.scdn.co/image/ab67616d0000b2739dcdd01acc90623759a1860a
+401,Trinity,disgust,Ganja White Night,40,https://open.spotify.com/track/0gre3MB3irVxLuYOrCODcn,https://i.scdn.co/image/ab67616d0000b27316e92bcb7542f827246d3eb3
+402,PEACE LOVE & WUBZ,disgust,"LSDREAM,Cojaxx",51,https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL,https://i.scdn.co/image/ab67616d0000b273ee2c1d5fb7b992218b17f69a
+403,Into Pieces (feat. Grabbitz),disgust,"Subtronics,Grabbitz",49,https://open.spotify.com/track/1gTa0kM9Xlfb2HS1KOzz4V,https://i.scdn.co/image/ab67616d0000b2731d3c06f26fdacb59741828e5
+404,Here With Me,disgust,PEEKABOO,55,https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0,https://i.scdn.co/image/ab67616d0000b27387a33b530269a5414cdc0d97
+405,Spacetime (feat. NEVVE),disgust,"Subtronics,Nevve",57,https://open.spotify.com/track/0yotOi6EFaBal5Gy7YVcuI,https://i.scdn.co/image/ab67616d0000b2731d3c06f26fdacb59741828e5
+406,Escape - Subtronics Remix,disgust,"Kx5,deadmau5,Kaskade,Subtronics,Hayla",6,https://open.spotify.com/track/6Ep94gYKvkI4OqCOGV66Wx,https://i.scdn.co/image/ab67616d0000b273da6657be4bfee1614b1fb02b
+407,Gassed Up,disgust,"Zeds Dead,Subtronics,Flowdan",60,https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9,https://i.scdn.co/image/ab67616d0000b273729edadd8d15058d273116b0
+408,Blood On Me,disgust,"SVDDEN DEATH,SLANDER",53,https://open.spotify.com/track/4dblKUfR2u2iQXCQ82awv6,https://i.scdn.co/image/ab67616d0000b27397b8873e7715f5ccd7e0b964
+409,Dominate,disgust,Space Laces,51,https://open.spotify.com/track/6zBFQ5dWHEmEx2RDoZ1ZP2,https://i.scdn.co/image/ab67616d0000b273abe929288484cb506b1591c9
+410,Bleed,disgust,SVDDEN DEATH,51,https://open.spotify.com/track/0xoP7caCgKlnT9JhnPbcXe,https://i.scdn.co/image/ab67616d0000b273d42695845adfa17e34ae0cee
+411,Maniac,disgust,PEEKABOO,46,https://open.spotify.com/track/7dtL3EKSsBkRmwVoJlep5j,https://i.scdn.co/image/ab67616d0000b27335f4569da068054ca5973fe9
+412,Wook Worm,disgust,TVBOO,40,https://open.spotify.com/track/0N9pNJHVaFarSVeizaA0Il,https://i.scdn.co/image/ab67616d0000b273d6468654c62727443014e164
+413,SUB ZERO,disgust,Just A Gent,53,https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm,https://i.scdn.co/image/ab67616d0000b27372a648947195104b090ed0fe
+414,Hieroglyph,disgust,Subtronics,41,https://open.spotify.com/track/6yPqKo9Sr45978wcmwP0cL,https://i.scdn.co/image/ab67616d0000b2731d3c06f26fdacb59741828e5
+415,Kaleidoscope (Feat. Crystalline),disgust,"Champagne Drip,Crystalline",52,https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI,https://i.scdn.co/image/ab67616d0000b273f1100c564b1376741d793433
+416,Gemini (feat. George Maple),disgust,"What So Not,George Maple",57,https://open.spotify.com/track/6sjtHq6EueMR7otphregK5,https://i.scdn.co/image/ab67616d0000b27361594af80362e94fb934af7a
+417,Color Of Your Soul,disgust,"GRiZ,CloZee",56,https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe,https://i.scdn.co/image/ab67616d0000b273312f1629090da311503eb1ea
+418,Overthinker - CloZee Remix,disgust,"INZO,CloZee",0,https://open.spotify.com/track/09uLd12oTAf9UMbf0FKowo,https://i.scdn.co/image/ab67616d0000b273833620a6bfa835349f939253
+419,Griztronics II (Another Level),disgust,"GRiZ,Subtronics",58,https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r,https://i.scdn.co/image/ab67616d0000b273bb233a7662608bb22e24a07f
+420,MOON LEGS,disgust,"LSDREAM,Z-Trip",35,https://open.spotify.com/track/2iBL8YUW4qazeHjz71HYxY,https://i.scdn.co/image/ab67616d0000b273ee2c1d5fb7b992218b17f69a
+421,DRUGS!,disgust,"TVBOO,CHOMPPA",34,https://open.spotify.com/track/2ezI579koVXQun1pmREg8O,https://i.scdn.co/image/ab67616d0000b27392a71de0426b9c920f42e61e
+422,Shelter - OG Nixin Remix,disgust,"ATLiens,OG Nixin",22,https://open.spotify.com/track/6VPLb36WDoTgmd9iom0MqW,https://i.scdn.co/image/ab67616d0000b273df51c8004982c523fb182ea1
+423,Gummy Worm (feat. Boogie T),disgust,"Subtronics,Boogie T",48,https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq,https://i.scdn.co/image/ab67616d0000b2731d3c06f26fdacb59741828e5
+424,Bring It Back,disgust,"Blunts & Blondes,Badrapper",44,https://open.spotify.com/track/0buwgzsh8fD57lvbXxyROq,https://i.scdn.co/image/ab67616d0000b2739c79d485864a18d9c7c20512
+425,Blood Moon - Original Mix,disgust,VAMPA,40,https://open.spotify.com/track/3VldS1NA8jHmGOZDTbYcTj,https://i.scdn.co/image/ab67616d0000b27305f173675c4e1fb8339c100c
+426,Puzzle Box,disgust,"Rezz,Subtronics",63,https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW,https://i.scdn.co/image/ab67616d0000b273743479ac66260626a234fe8c
+427,Get To You - Mersiv Remix,disgust,"Saint Sinner,Supertask,Mersiv",45,https://open.spotify.com/track/5g12zzpoeylAgBZ09ixD6o,https://i.scdn.co/image/ab67616d0000b27399f750ae13a06819da08c03b
+428,Menace,disgust,Rezz,55,https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI,https://i.scdn.co/image/ab67616d0000b273e7879474496711f094ae2d34
+429,Beautiful & Filthy,disgust,"Mersiv,Chill Bobby",46,https://open.spotify.com/track/4Z5rGE8672Kz67ukEIRj2V,https://i.scdn.co/image/ab67616d0000b273af9a37220f8c198dd40ab553
+430,Street - PEEKABOO Remix,disgust,"NGHTMRE,PEEKABOO",37,https://open.spotify.com/track/202xexTyHxpvi6aqaaGEYq,https://i.scdn.co/image/ab67616d0000b2735e2879b15fa04c97813392fd
+431,Vortex,disgust,"Rezz,PEEKABOO",42,https://open.spotify.com/track/6N6Sagy5jvDDUh9lfWrgJ1,https://i.scdn.co/image/ab67616d0000b273e7879474496711f094ae2d34
+432,Clockwork,disgust,Subtronics,0,https://open.spotify.com/track/2c5tS9k0AZEM2PfuiZwyL8,https://i.scdn.co/image/ab67616d0000b273599489fb9b61613f308d1523
+433,Lights Out - Ghastly Remix,disgust,"Zomboy,GHASTLY",47,https://open.spotify.com/track/7lY0fJVuJMY790QoVaAxOT,https://i.scdn.co/image/ab67616d0000b27326672c6f772ea6aff0ec2950
+434,Reason For Fighting (feat. ERV ELLO),disgust,"Seven Lions,Blastoyz,ERV ELLO",48,https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY,https://i.scdn.co/image/ab67616d0000b273141b186af5f404b06679b674
+435,Sweet Dreams (Are Made Of This),disgust,"Rezz,fknsyd",58,https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W,https://i.scdn.co/image/ab67616d0000b273df5999f547c3e9bd70ad5ba9
+436,Fangs,disgust,"GHASTLY,ALRT",28,https://open.spotify.com/track/2yO3LKFF7BNrorjff5eFwO,https://i.scdn.co/image/ab67616d0000b273a4ada9e43fc3594ae44f842b
+437,Known You Before (with Emilie Brandt),disgust,"Jason Ross,Emilie Brandt,Seven Lions",40,https://open.spotify.com/track/6jFQGfokxpLHtjYHJQosDB,https://i.scdn.co/image/ab67616d0000b2738fba9451ea9d0a04071c3936
+438,Galactic Federation,disgust,Zingara,30,https://open.spotify.com/track/2VHamq11R81guQ04YvjnuD,https://i.scdn.co/image/ab67616d0000b273ada22075d229dd6295ce3068
+439,Pleasure Seeker,disgust,Mr. Bill,45,https://open.spotify.com/track/0inAo4hdWILQX1EbvMSseA,https://i.scdn.co/image/ab67616d0000b27372eb00b594cce16db57cbb17
+440,Spaceboss,disgust,"Liquid Stranger,Space Jesus",48,https://open.spotify.com/track/4HiuT2pdJzwdSKf72aSdhs,https://i.scdn.co/image/ab67616d0000b2734c9e097cba4de9e85d7ea005
+441,Crazies feat. Nate Husser,disgust,"Black Tiger Sex Machine,Nate Husser",44,https://open.spotify.com/track/6wXkFa3k8WL7pdwkfnLrVk,https://i.scdn.co/image/ab67616d0000b2732145757dd3ef16126ff9a398
+442,Won't Stop feat. Esseks,disgust,"Space Jesus,Esseks",46,https://open.spotify.com/track/2nd0K8u5m5rMInJTGUwI5C,https://i.scdn.co/image/ab67616d0000b2735ec99d3f5f43be66e8079d04
+443,Cheatcode,disgust,"Black Tiger Sex Machine,Hairitage,Hyro The Hero",50,https://open.spotify.com/track/1XYCWk1IBt0qA8BaQPV0VM,https://i.scdn.co/image/ab67616d0000b27327965f579b357c7371aafec2
+444,Lifeline,disgust,"Kayzo,Black Tiger Sex Machine,Point North",48,https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK,https://i.scdn.co/image/ab67616d0000b2733bac7fd865fc4b86220f0d36
+445,Lions - Doctor P Remix,disgust,"Black Tiger Sex Machine,YOOKiE,Doctor P",49,https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP,https://i.scdn.co/image/ab67616d0000b27382a8518ea33baeabcea96c11
+446,Religion - Far Too Loud Remix,disgust,"Black Tiger Sex Machine,Far Too Loud,LeKtriQue",44,https://open.spotify.com/track/3h3nlfgeLsjWW5otfkXUWo,https://i.scdn.co/image/ab67616d0000b273606cea5ad6cb0f0caf70f4b9
+447,The Grave feat. Gabriella Hook - Original Mix,disgust,"Apashe,Black Tiger Sex Machine",45,https://open.spotify.com/track/6iEYUpmDCaKKBgzQkuzbBw,https://i.scdn.co/image/ab67616d0000b2731387d44975fb88f583a4d781
+448,Resistance,disgust,"Black Tiger Sex Machine,Hairitage,Hyro The Hero",44,https://open.spotify.com/track/46Eg3aa1RZttnZ3sd4u3fd,https://i.scdn.co/image/ab67616d0000b273e136d3f234fee2233f85cbce
+449,Trailblazer,disgust,"Black Tiger Sex Machine,Macntaj",43,https://open.spotify.com/track/0GOvMicWHWuEESROLcNhXG,https://i.scdn.co/image/ab67616d0000b27327965f579b357c7371aafec2
+450,I Don't Wanna Know,disgust,"Friendzone,Nikademis,Candace Sosa",39,https://open.spotify.com/track/7BNVTdnnoMPzj8URWmmGMU,https://i.scdn.co/image/ab67616d0000b2732bc260898e3c5a19bcf16d20
+451,Shivering,disgust,"ILLENIUM,Spiritbox",62,https://open.spotify.com/track/10Q3ASy9okYt85040yV46c,https://i.scdn.co/image/ab67616d0000b273d742064453d78b572c05ccac
+452,BREAK LAW,disgust,"Dog Blood,Skrillex,Boys Noize",53,https://open.spotify.com/track/223t7TwvWm5PuE1IuWpRZM,https://i.scdn.co/image/ab67616d0000b2737e31da0860657880efdd428f
+453,20:25,disgust,"Flux Pavilion,What So Not,The Chain Gang Of 1974",49,https://open.spotify.com/track/7bg3UimnS4beLnE476hfEE,https://i.scdn.co/image/ab67616d0000b2739b2e13ab17383d436c76d67f
+454,Rising,disgust,Duskus,7,https://open.spotify.com/track/0NsJZhDg9p1FrxY15UCPAS,https://i.scdn.co/image/ab67616d0000b2731a17fd988d49125ea1920137
+455,Bad Things,disgust,Alison Wonderland,43,https://open.spotify.com/track/47ReVc3e4YlHxh0t0gBk6l,https://i.scdn.co/image/ab67616d0000b273f46b840e7d171d78473e7838
+456,Babylon (feat. Denzel Curry) - Skrillex & Ronny J Remix,disgust,"Ekali,Denzel Curry,Skrillex,RONNY J",49,https://open.spotify.com/track/0sW7xBDLtKuGvcPxmt75CT,https://i.scdn.co/image/ab67616d0000b27341b3a4dee3e5712c2c798a28
+457,Phantom,disgust,"Allen Mock,Chow Chow",51,https://open.spotify.com/track/7hX7eKN0PglaprxYdmD6rn,https://i.scdn.co/image/ab67616d0000b273d667201b08a7beacb9f9bc05
+458,Gangsta Gangsta (feat. Baby Eazy-E),disgust,"Dr. Fresch,Baby Eazy E",59,https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC,https://i.scdn.co/image/ab67616d0000b273574e728366d6bf23a21d841a
+459,Thoughts,disgust,Loud,0,https://open.spotify.com/track/21WKsduZtayTEMVc55Q4mv,https://i.scdn.co/image/ab67616d0000b2731f5b1eae0bb699ebab5216a2
+460,Fuji Opener,disgust,"Skrillex,Alvin Risk",54,https://open.spotify.com/track/0tVv9FxhUjHrhF1DLsDUNH,https://i.scdn.co/image/ab67616d0000b273c7660aeeaaac0fe1ea95341a
+461,Death Rail,disgust,Hi I'm Ghost,0,https://open.spotify.com/track/0gtuo2bvKsqW8yiqQvvtcr,https://i.scdn.co/image/ab67616d0000b2735483995665aeaff2d34125b5
+462,Walls - Subtronics Remix,disgust,"Eliminate,Subtronics",27,https://open.spotify.com/track/5m8lvkQwpJjutCBipUI4jL,https://i.scdn.co/image/ab67616d0000b27363e6387edbf7e0289ea3d537
+463,BODY SH!T,disgust,"BLVK JVCK,A$AP TyY",45,https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F,https://i.scdn.co/image/ab67616d0000b27326c2a38357210bc8a46c525f
+464,Feel No Pain,disgust,GRiZ,51,https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz,https://i.scdn.co/image/ab67616d0000b2732e1b1a40c2eadea7b014fb54
+465,Paradise,disgust,"Mersiv,Fryar",43,https://open.spotify.com/track/0X9ARLoGvzce3CMUs1xgJh,https://i.scdn.co/image/ab67616d0000b273ac22c1cdbc4e55d7180deebd
+466,Like Before,disgust,"Jauz,Habstrakt",52,https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR,https://i.scdn.co/image/ab67616d0000b2736f02b460d9886e117eb64143
+467,Skins,disgust,"Kai Wachi,YMIR",48,https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG,https://i.scdn.co/image/ab67616d0000b2732046e3fb027a6b7f9b358092
+468,Spicy Trap House Drums Vol. 1 [Sample Pack Demo],disgust,"Eliminate,Modestep,Disciple",22,https://open.spotify.com/track/2GvuLrzyDKKGpGvFvv0q2j,https://i.scdn.co/image/ab67616d0000b2737aa93c1022a18eb1518d0820
+469,Boss Mode,disgust,Knife Party,45,https://open.spotify.com/track/3ygMNzTlytWlHsynGAWvZ7,https://i.scdn.co/image/ab67616d0000b273a43f836bf07d73744d652d7f
+470,Lions - Doctor P Remix,disgust,"Black Tiger Sex Machine,YOOKiE,Doctor P",49,https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP,https://i.scdn.co/image/ab67616d0000b27382a8518ea33baeabcea96c11
+471,Time,disgust,"Chemical Surf,Dubdisko",47,https://open.spotify.com/track/7yd2juG2UAETeptVdtFAzs,https://i.scdn.co/image/ab67616d0000b273ee00a262d67ca1fb657d2a8c
+472,Ease Your Mind,disgust,"GRiZ,Ganja White Night",45,https://open.spotify.com/track/0uwXneXFLt47MlgvoQDouq,https://i.scdn.co/image/ab67616d0000b2733ebe38f95ca71bed3db888f4
+473,Safe,disgust,Petit Biscuit,38,https://open.spotify.com/track/2Yw2IZdMHoREKVADi92Hka,https://i.scdn.co/image/ab67616d0000b273057ad87ded312ce2c5005ddd
+474,Illusion (feat. Born I),disgust,"Bassnectar,PEEKABOO,Born I",43,https://open.spotify.com/track/1coG30H5gED9tscKZookCC,https://i.scdn.co/image/ab67616d0000b273e0c90291c2700ad566dd8d6c
+475,NOSEBLEED,disgust,"PEEKABOO,Eptic",43,https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os,https://i.scdn.co/image/ab67616d0000b273e1855712e8cc19728c2f6bb1
+476,Low Dive,disgust,Esseks,54,https://open.spotify.com/track/5H0ZNJqdJOQlkuEZ7HFItU,https://i.scdn.co/image/ab67616d0000b2736dde2fbab93c3c16700697e0
+477,Evil Lair,disgust,PEEKABOO,34,https://open.spotify.com/track/0NGvb6FxuMezq7D104q6GI,https://i.scdn.co/image/ab67616d0000b273db747756da589af0c5db7bb1
+478,Mitosis,disgust,"Ganja White Night,PEEKABOO",48,https://open.spotify.com/track/0zOqoAh2thAbmju80p850h,https://i.scdn.co/image/ab67616d0000b27381e84904807be544ed74edac
+479,POWERMOVE,disgust,"PEEKABOO,ISOxo",37,https://open.spotify.com/track/1ndzPP1VWJvnF7CG5qX2Wx,https://i.scdn.co/image/ab67616d0000b273adcc3ff3e974e7b0dcca2919
+480,Nut Case,disgust,PEEKABOO,27,https://open.spotify.com/track/6m9bxuTDyinbqkCc747vbw,https://i.scdn.co/image/ab67616d0000b273d7064a9a7fe73e070301f493
+481,Black Hole,disgust,PEEKABOO,25,https://open.spotify.com/track/4VQK9d4giauCdAN9C8W6nh,https://i.scdn.co/image/ab67616d0000b273d6464acc6281676f40d456bf
+482,Marine Iguana,disgust,12th Planet,46,https://open.spotify.com/track/5wVaPZM1qxJUp5pcaVNXII,https://i.scdn.co/image/ab67616d0000b27350c26c7ea32ae7b0e5390924
+483,One Two,disgust,Virtual Riot,37,https://open.spotify.com/track/46M3KFt2Aahvebp6O7zTBw,https://i.scdn.co/image/ab67616d0000b273e746f127fed85c9aaebe0aac
+484,Lost It - VIP,disgust,"Virtual Riot,Pearl Andersson",47,https://open.spotify.com/track/1o0xAaXY4nEaPdBGiLZdNb,https://i.scdn.co/image/ab67616d0000b273857177150b4d2a88e0188a8c
+485,Alive,disgust,"Virtual Riot,Lisa Rowe",28,https://open.spotify.com/track/0SALuANbNVmQzRGV5gNg3G,https://i.scdn.co/image/ab67616d0000b273a58dd271b6fb81bda6b24191
+486,Hooked,disgust,NOTION,66,https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM,https://i.scdn.co/image/ab67616d0000b273669e196874273595fb78bb1b
+487,Show Me (VIP),disgust,"Hamdi,Sammy Virji",39,https://open.spotify.com/track/3w49BYdjw2Co5Y8pZf3hkV,https://i.scdn.co/image/ab67616d0000b27348fd965a9e3d29b7b7d4d9c7
+488,Sensei,disgust,Datsik,35,https://open.spotify.com/track/3A5y9pEKtVlRUbliLGg1VX,https://i.scdn.co/image/ab67616d0000b273ca197cd5f765441c09bb0d96
+489,Lifeline,disgust,"Kayzo,Black Tiger Sex Machine,Point North",48,https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK,https://i.scdn.co/image/ab67616d0000b2733bac7fd865fc4b86220f0d36
+490,CHOKE (with grandson & Zero 9:36),disgust,"The Warning,grandson,Zero 9:36",57,https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl,https://i.scdn.co/image/ab67616d0000b273b053bf74647fa22cb7e3a3fe
+491,Terraria,disgust,Exyl,37,https://open.spotify.com/track/56TUesLuozM16kd2dvrkWW,https://i.scdn.co/image/ab67616d0000b27398f4fed452c9b0fb32acb61a
+492,Invade,disgust,Papa Khan,4,https://open.spotify.com/track/7k8NSRH7CEf41VvZZAgg30,https://i.scdn.co/image/ab67616d0000b273d024bd66d17abd04bb35198a
+493,Alpha,disgust,Papa Khan,5,https://open.spotify.com/track/4XZSkpnUWC43JPrzTDNO5h,https://i.scdn.co/image/ab67616d0000b2738f062536af78c23cdf01febb
+494,Papa Style,disgust,Papa Khan,7,https://open.spotify.com/track/597AyiWtGaMdyxr349DeKX,https://i.scdn.co/image/ab67616d0000b2738f062536af78c23cdf01febb
+495,Meninggal,disgust,Papa Khan,5,https://open.spotify.com/track/7lMDHzZfjbAXJPguzDjfWi,https://i.scdn.co/image/ab67616d0000b273d024bd66d17abd04bb35198a
+496,FUNKONAUT,disgust,"GRiZ,LSDREAM",52,https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec,https://i.scdn.co/image/ab67616d0000b2730a0f173da2787bae152c73b7
+497,Subliminal (Even the Ghosts are Laughing),disgust,"HVDES,CRaymak,AFTERMYFALL",37,https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm,https://i.scdn.co/image/ab67616d0000b2734c32a05968a4253f0745251b
+498,No Chill,disgust,Control Freak,36,https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2,https://i.scdn.co/image/ab67616d0000b2737cc34f629849b131655f8fb7
+499,Birdz (with Smokepurpp),disgust,"Wuki,Smokepurpp",33,https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z,https://i.scdn.co/image/ab67616d0000b273550593caf0afc0025a81d9a1
+500,Rich Flex,surprise,"Drake,21 Savage",92,https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N,https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad
+501,Just Wanna Rock,surprise,Lil Uzi Vert,92,https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d,https://i.scdn.co/image/ab67616d0000b2730e34fd68e8ff04e4515eb72a
+502,Superhero (Heroes & Villains) [with Future & Chris Brown],surprise,"Metro Boomin,Future,Chris Brown",91,https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+503,Till I Collapse,surprise,"Eminem,Nate Dogg",87,https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS,https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4
+504,Doja,surprise,Central Cee,87,https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i,https://i.scdn.co/image/ab67616d0000b2733c7d945b6baf935e8a0ebdaa
+505,HUMBLE.,surprise,Kendrick Lamar,86,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS,https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699
+506,Jimmy Cooks (feat. 21 Savage),surprise,"Drake,21 Savage",89,https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe,https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37
+507,Ni**as In Paris,surprise,"JAY-Z,Kanye West",86,https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007,https://i.scdn.co/image/ab67616d0000b273699bfca9512ee8d1fbf126a7
+508,Drip Too Hard (Lil Baby & Gunna),surprise,"Lil Baby,Gunna",86,https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE,https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c
+509,Still D.R.E.,surprise,"Dr. Dre,Snoop Dogg",85,https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep,https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5
+510,Ric Flair Drip (with Metro Boomin),surprise,"Offset,Metro Boomin",85,https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR,https://i.scdn.co/image/ab67616d0000b2730db43130a9aaa7bae56967ed
+511,SICKO MODE,surprise,Travis Scott,85,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h,https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3
+512,Red Ruby Da Sleeze,surprise,Nicki Minaj,85,https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2,https://i.scdn.co/image/ab67616d0000b273064c51559ea4a86bd557a86f
+513,Godzilla (feat. Juice WRLD),surprise,"Eminem,Juice WRLD",84,https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ,https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c
+514,Princess Diana (with Nicki Minaj),surprise,"Ice Spice,Nicki Minaj",84,https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV,https://i.scdn.co/image/ab67616d0000b2735dd17b2860b2a79d9dda8ec3
+515,Vegas (From the Original Motion Picture Soundtrack ELVIS),surprise,Doja Cat,84,https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF,https://i.scdn.co/image/ab67616d0000b27329e2914af6e83df7e963d365
+516,INDUSTRY BABY (feat. Jack Harlow),surprise,"Lil Nas X,Jack Harlow",84,https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK,https://i.scdn.co/image/ab67616d0000b273ba26678947112dff3c3158bf
+517,Dior,surprise,Pop Smoke,84,https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep,https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5
+518,Wow.,surprise,Post Malone,83,https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg,https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02
+519,Hit 'Em Up - Single Version,surprise,"2Pac,Outlawz",83,https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf,https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec
+520,Yes Indeed,surprise,"Lil Baby,Drake",83,https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ,https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4
+521,Can't Hold Us (feat. Ray Dalton),surprise,"Macklemore & Ryan Lewis,Macklemore,Ryan Lewis,Ray Dalton",83,https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn,https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec
+522,Work Out,surprise,J. Cole,83,https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO,https://i.scdn.co/image/ab67616d0000b27399da48a530f6ca2ef86da3cc
+523,Let You Down,surprise,NF,83,https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL,https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f
+524,Going Bad (feat. Drake),surprise,"Meek Mill,Drake",83,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc,https://i.scdn.co/image/ab67616d0000b273cd63c5962050729d260077d6
+525,The Next Episode,surprise,"Dr. Dre,Snoop Dogg",83,https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC,https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5
+526,Look At Me!,surprise,XXXTENTACION,83,https://open.spotify.com/track/7floNISpH8VF4z4459Qo18,https://i.scdn.co/image/ab67616d0000b27371af28545729f60b3eca66f7
+527,Ransom,surprise,Lil Tecca,82,https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO,https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058
+528,Alright,surprise,Kendrick Lamar,82,https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs,https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1
+529,California Love - Original Version,surprise,"2Pac,Roger,Dr. Dre",82,https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35,https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec
+530,Forgot About Dre,surprise,"Dr. Dre,Eminem",82,https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa,https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5
+531,Super Freaky Girl,surprise,Nicki Minaj,81,https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp,https://i.scdn.co/image/ab67616d0000b273c2b3ab9829aefad24fa2c1bc
+532,Magnolia,surprise,Playboi Carti,81,https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl,https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1
+533,Invincible,surprise,Pop Smoke,81,https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge,https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1
+534,DNA.,surprise,Kendrick Lamar,82,https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj,https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699
+535,Nonstop,surprise,Drake,80,https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct,https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5
+536,ROCKSTAR (feat. Roddy Ricch),surprise,"DaBaby,Roddy Ricch",80,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4,https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647
+537,DO IT AGAIN (feat. 2Rare),surprise,"NLE Choppa,2Rare",79,https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp,https://i.scdn.co/image/ab67616d0000b2738890951cf936e22fd3c59d71
+538,Die Young (feat. 347aidan),surprise,"Sleepy Hallow,347aidan",79,https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH,https://i.scdn.co/image/ab67616d0000b273e44e304f52a82a3463ce5761
+539,"Nuthin' But A ""G"" Thang",surprise,"Dr. Dre,Snoop Dogg",80,https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD,https://i.scdn.co/image/ab67616d0000b2739710731c9d7baec635f1bab1
+540,Lose Yourself,surprise,Eminem,79,https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ,https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578
+541,OUT WEST (feat. Young Thug),surprise,"JACKBOYS,Travis Scott,Young Thug",79,https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw,https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f
+542,Black and Yellow,surprise,Wiz Khalifa,78,https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz,https://i.scdn.co/image/ab67616d0000b273fe3cf32b1320e8ded39d8c74
+543,Element,surprise,Pop Smoke,81,https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB,https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1
+544,Collard Greens,surprise,"ScHoolboy Q,Kendrick Lamar",78,https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ,https://i.scdn.co/image/ab67616d0000b27336977e237a8f70ec6c990636
+545,Sticky,surprise,Drake,79,https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa,https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37
+546,family ties (with Kendrick Lamar),surprise,"Baby Keem,Kendrick Lamar",78,https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH,https://i.scdn.co/image/ab67616d0000b273163028c67a1f4a7c0e83a715
+547,How We Do,surprise,"The Game,50 Cent",78,https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p,https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d
+548,ZEZE (feat. Travis Scott & Offset),surprise,"Kodak Black,Offset,Travis Scott",78,https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z,https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b
+549,No Hands (feat. Roscoe Dash & Wale),surprise,"Waka Flocka Flame,Roscoe Dash,Wale",78,https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H,https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db
+550,Rap God,surprise,Eminem,79,https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k,https://i.scdn.co/image/ab67616d0000b273cb66bcc14c6f857c127d5969
+551,Doo Wop (That Thing),surprise,Ms. Lauryn Hill,78,https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg,https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9
+552,In Da Club,surprise,50 Cent,78,https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8,https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf
+553,Stir Fry,surprise,Migos,78,https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf,https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890
+554,Broke In A Minute,surprise,Tory Lanez,77,https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF,https://i.scdn.co/image/ab67616d0000b27353af8d1a7654351c6a03b5fe
+555,Broke Boys,surprise,"Drake,21 Savage",78,https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8,https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad
+556,1400 / 999 Freestyle,surprise,"Trippie Redd,Juice WRLD",78,https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R,https://i.scdn.co/image/ab67616d0000b27392bb8047753d97ff274b2f5f
+557,Live Your Life,surprise,"T.I.,Rihanna",78,https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN,https://i.scdn.co/image/ab67616d0000b273b6d4478c6f91f1cb2d326c78
+558,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",surprise,"A$AP Rocky,Drake,2 Chainz,Kendrick Lamar",77,https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5,https://i.scdn.co/image/ab67616d0000b2732ae92030b51fb8135d694af9
+559,Got It On Me,surprise,Pop Smoke,77,https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1,https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369
+560,Pure Water (with Migos),surprise,"Mustard,Migos",77,https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8,https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162
+561,United In Grief,surprise,Kendrick Lamar,77,https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL,https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f
+562,GATTI,surprise,"JACKBOYS,Pop Smoke,Travis Scott",77,https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g,https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f
+563,Trophies,surprise,"Young Money,Drake",77,https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk,https://i.scdn.co/image/ab67616d0000b273842e732b778998eef17b405f
+564,Blueberry Faygo,surprise,Lil Mosey,77,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW,https://i.scdn.co/image/ab67616d0000b2730824105a6282782aaabb0584
+565,When I Grow Up,surprise,NF,77,https://open.spotify.com/track/5rLyYxZNzca00ENADO9m54,https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044
+566,Make No Sense,surprise,YoungBoy Never Broke Again,77,https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I,https://i.scdn.co/image/ab67616d0000b273a4cba447b322609cd47fb9d3
+567,Plain Jane,surprise,A$AP Ferg,77,https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9,https://i.scdn.co/image/ab67616d0000b273d79cfa3155b50beb5dbeeb9a
+568,STARGAZING,surprise,Travis Scott,76,https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m,https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3
+569,Headshot (feat. Polo G & Fivio Foreign),surprise,"Lil Tjay,Polo G,Fivio Foreign",76,https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv,https://i.scdn.co/image/ab67616d0000b2735af0305457ff290e06dcc4c2
+570,King Kunta,surprise,Kendrick Lamar,76,https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O,https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1
+571,Faucet Failure,surprise,Ski Mask The Slump God,76,https://open.spotify.com/track/1ThmUihH9dF8EV08ku5AXN,https://i.scdn.co/image/ab67616d0000b273e62c8561e3b1bd9ad952ce01
+572,679 (feat. Remy Boyz),surprise,"Fetty Wap,Remy Boyz",76,https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ,https://i.scdn.co/image/ab67616d0000b2731769fa68b9643ca67c4d44ce
+573,Come Get Her,surprise,Rae Sremmurd,76,https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP,https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460
+574,Ramen & OJ,surprise,"Joyner Lucas,Lil Baby",76,https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J,https://i.scdn.co/image/ab67616d0000b2734fd8e64469ff9dd01faf50fe
+575,Whatever You Like,surprise,T.I.,76,https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R,https://i.scdn.co/image/ab67616d0000b273b6d4478c6f91f1cb2d326c78
+576,Transportin',surprise,Kodak Black,76,https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn,https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7
+577,Dua Lipa,surprise,Jack Harlow,76,https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4,https://i.scdn.co/image/ab67616d0000b2738e55edb69ca44a25b52b17bb
+578,POPSTAR (feat. Drake),surprise,"DJ Khaled,Drake",75,https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq,https://i.scdn.co/image/ab67616d0000b273efaecb4b9cbae7c120d14617
+579,My Band,surprise,D12,75,https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL,https://i.scdn.co/image/ab67616d0000b27360b9bcd1d55f68a39f1ea8b7
+580,Bandit (with YoungBoy Never Broke Again),surprise,"Juice WRLD,YoungBoy Never Broke Again",75,https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd,https://i.scdn.co/image/ab67616d0000b2735b4bee4c0dfe7f1ec4b2cc6d
+581,Trap Queen,surprise,Fetty Wap,76,https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ,https://i.scdn.co/image/ab67616d0000b273de6bd09b07e2b4af4e409f6c
+582,I Don't Like,surprise,"Chief Keef,Lil Reese",75,https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB,https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891
+583,Swervin (feat. 6ix9ine),surprise,"A Boogie Wit da Hoodie,6ix9ine",75,https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6,https://i.scdn.co/image/ab67616d0000b273dcfadea246002a5c0fd7b1b8
+584,Homicide (feat. Eminem),surprise,"Logic,Eminem",75,https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg,https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023
+585,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",surprise,"Jack Harlow,Tory Lanez,DaBaby,Lil Wayne",75,https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC,https://i.scdn.co/image/ab67616d0000b273b5f0a8d46cef9647548c64dc
+586,Gotta Have It,surprise,"JAY-Z,Kanye West",75,https://open.spotify.com/track/5Pt83OUaK3K9C2if4C5JOk,https://i.scdn.co/image/ab67616d0000b273699bfca9512ee8d1fbf126a7
+587,Hate The Other Side (with Marshmello & The Kid Laroi),surprise,"Juice WRLD,Marshmello,The Kid LAROI,Polo G",75,https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49,https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb
+588,6 Foot 7 Foot,surprise,"Lil Wayne,Cory Gunz",75,https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH,https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953
+589,Shotta Flow (feat. Blueface) [Remix],surprise,"NLE Choppa,Blueface",75,https://open.spotify.com/track/5BJMeoCXXgbRAWfp6fTulr,https://i.scdn.co/image/ab67616d0000b2731e386c4c1a5e8ae2f9bbb3c0
+590,Love & War,surprise,Kodak Black,75,https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt,https://i.scdn.co/image/ab67616d0000b273565821887210741234f504e4
+591,Remember the Name (feat. Styles of Beyond),surprise,"Fort Minor,Styles Of Beyond",74,https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K,https://i.scdn.co/image/ab67616d0000b273063fc4921a6d7fbac76e9bba
+592,Money,surprise,Cardi B,74,https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e,https://i.scdn.co/image/ab67616d0000b2738d5816c9f31f1187eb30913f
+593,Can't Be Touched (feat. Mr. Magic & Trouble),surprise,"Roy Jones Jr.,Mr Magic,Trouble",74,https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K,https://i.scdn.co/image/ab67616d0000b273582f703c73240fe327aa05d6
+594,Lord Pretty Flacko Jodye 2 (LPFJ2),surprise,A$AP Rocky,74,https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm,https://i.scdn.co/image/ab67616d0000b27381a6a2cafab2e7a4066b5eec
+595,Hot N*gga,surprise,Bobby Shmurda,74,https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m,https://i.scdn.co/image/ab67616d0000b273d52e14e0595216ca453572ab
+596,Beware,surprise,"Big Sean,Lil Wayne,Jhené Aiko",74,https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps,https://i.scdn.co/image/ab67616d0000b273d126daad8e8479dbad94610e
+597,Never Sleep (with Lil Baby feat. Travis Scott),surprise,"NAV,Lil Baby,Travis Scott",73,https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv,https://i.scdn.co/image/ab67616d0000b273d3c60e0b42ec8f32309f9b61
+598,Taste (feat. Offset),surprise,"Tyga,Offset",73,https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy,https://i.scdn.co/image/ab67616d0000b273a4d73b32e40487605c73cffe
+599,Up,surprise,Cardi B,73,https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl,https://i.scdn.co/image/ab67616d0000b273d619b8baab0619516bb53804
+600,Chemical,neutral,Post Malone,88,https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu,https://i.scdn.co/image/ab67616d0000b273f76f8deeba5370c98ad38f1c
+601,Calm Down (with Selena Gomez),neutral,"Rema,Selena Gomez",97,https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8,https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf
+602,Double Fantasy (with Future),neutral,"The Weeknd,Future",84,https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi,https://i.scdn.co/image/ab67616d0000b273c7d6fe09dfe4af1580e59705
+603,Boy's a liar Pt. 2,neutral,"PinkPantheress,Ice Spice",98,https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv,https://i.scdn.co/image/ab67616d0000b27342c5ba689b2e7cbc208a8fa7
+604,Kill Bill (feat. Doja Cat),neutral,"SZA,Doja Cat",86,https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ,https://i.scdn.co/image/ab67616d0000b273c3b70a0848d577bf5ae67b49
+605,Flowers,neutral,Miley Cyrus,99,https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn,https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d
+606,Daylight,neutral,David Kushner,92,https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+607,Fast Car,neutral,Luke Combs,87,https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT,https://i.scdn.co/image/ab67616d0000b273ca650d3a95022e0490434ba1
+608,Sure Thing,neutral,Miguel,93,https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV,https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c
+609,Players,neutral,Coi Leray,93,https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij,https://i.scdn.co/image/ab67616d0000b2731cf7cf4446b496525e423465
+610,Search & Rescue,neutral,Drake,91,https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G,https://i.scdn.co/image/ab67616d0000b273cace8a4b2ff924c9e12e3a96
+611,Anti-Hero,neutral,Taylor Swift,95,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+612,Last Night,neutral,Morgan Wallen,91,https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8,https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2
+613,Moonlight,neutral,Kali Uchis,84,https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3,https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17
+614,Ella Baila Sola,neutral,"Eslabon Armado,Peso Pluma",100,https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb,https://i.scdn.co/image/ab67616d0000b2732071a0c79802d9375a53bfef
+615,Until I Found You (with Em Beihold) - Em Beihold Version,neutral,"Stephen Sanchez,Em Beihold",94,https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN,https://i.scdn.co/image/ab67616d0000b2732bf0876d42b90a8852ad6244
+616,Never Felt So Alone,neutral,Labrinth,88,https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo,https://i.scdn.co/image/ab67616d0000b2737dda6cb97a57f116f6fbf0be
+617,Princess Diana (with Nicki Minaj),neutral,"Ice Spice,Nicki Minaj",84,https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV,https://i.scdn.co/image/ab67616d0000b2735dd17b2860b2a79d9dda8ec3
+618,Nonsense,neutral,Sabrina Carpenter,90,https://open.spotify.com/track/6dgUya35uo964z7GZXM07g,https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf
+619,Waffle House,neutral,Jonas Brothers,81,https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU,https://i.scdn.co/image/ab67616d0000b273fd375ba0daa6b88d6fd671f4
+620,Cupid - Twin Ver.,neutral,FIFTY FIFTY,94,https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
+621,Die For You - Remix,neutral,"The Weeknd,Ariana Grande",95,https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki,https://i.scdn.co/image/ab67616d0000b2738de12a274f6e1df6634f57ec
+622,Bad Habit,neutral,Steve Lacy,87,https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK,https://i.scdn.co/image/ab67616d0000b2739904ecb0b1148a128bdd5e36
+623,Escapism.,neutral,"RAYE,070 Shake",89,https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp,https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f
+624,I Ain't Worried,neutral,OneRepublic,94,https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB,https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13
+625,SLUT ME OUT,neutral,NLE Choppa,88,https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi,https://i.scdn.co/image/ab67616d0000b27349a4f6c9a637e02252a0076d
+626,Creepin' (with The Weeknd & 21 Savage),neutral,"Metro Boomin,The Weeknd,21 Savage",97,https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+627,Snooze,neutral,SZA,93,https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+628,Karma,neutral,Taylor Swift,85,https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+629,As It Was,neutral,Harry Styles,93,https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7,https://i.scdn.co/image/ab67616d0000b273b46f74097655d7f353caab14
+630,HAPPY,neutral,NF,84,https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R,https://i.scdn.co/image/ab67616d0000b273ff8a4276b3be31c839557439
+631,ceilings,neutral,Lizzy McAlpine,92,https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI,https://i.scdn.co/image/ab67616d0000b273d370fdc4dbc47778b9b667c3
+632,un x100to,neutral,"Grupo Frontera,Bad Bunny",95,https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+633,Favorite Song,neutral,Toosii,86,https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66,https://i.scdn.co/image/ab67616d0000b273083c41df2fbc4cf8c54c7858
+634,Something in the Orange,neutral,Zach Bryan,89,https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+635,Here With Me,neutral,d4vd,95,https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh,https://i.scdn.co/image/ab67616d0000b273efbe96040319db682b438f11
+636,Unholy (feat. Kim Petras),neutral,"Sam Smith,Kim Petras",93,https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG,https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4
+637,VOID,neutral,Melanie Martinez,79,https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek,https://i.scdn.co/image/ab67616d0000b273d4447244559233bc659dc7bc
+638,golden hour,neutral,JVKE,91,https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg,https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954
+639,Heaven,neutral,Niall Horan,89,https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt,https://i.scdn.co/image/ab67616d0000b273723c6c01155c023a9a9f8cf0
+640,CUFF IT,neutral,Beyoncé,90,https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS,https://i.scdn.co/image/ab67616d0000b2730e58a0f8308c1ad403d105e7
+641,Always,neutral,Daniel Caesar,80,https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus,https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc
+642,Just Wanna Rock,neutral,Lil Uzi Vert,92,https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d,https://i.scdn.co/image/ab67616d0000b2730e34fd68e8ff04e4515eb72a
+643,Private Landing (feat. Justin Bieber & Future),neutral,"Don Toliver,Justin Bieber,Future",85,https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf,https://i.scdn.co/image/ab67616d0000b273feeff698e6090e6b02f21ec0
+644,BESO,neutral,"ROSALÍA,Rauw Alejandro",97,https://open.spotify.com/track/609E1JCInJncactoMmkDon,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+645,Thinkin’ Bout Me,neutral,Morgan Wallen,87,https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK,https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9
+646,Eyes Closed,neutral,Ed Sheeran,90,https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p,https://i.scdn.co/image/ab67616d0000b273340478dfce149f58e2327334
+647,DOGTOOTH,neutral,"Tyler, The Creator",84,https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE,https://i.scdn.co/image/ab67616d0000b2732ee031f2335d35b2e6c7bc40
+648,Rich Flex,neutral,"Drake,21 Savage",92,https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N,https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad
+649,TQG,neutral,"KAROL G,Shakira",98,https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+650,Double Fantasy (with Future),neutral,"The Weeknd,Future",84,https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi,https://i.scdn.co/image/ab67616d0000b273c7d6fe09dfe4af1580e59705
+651,Chemical,neutral,Post Malone,88,https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu,https://i.scdn.co/image/ab67616d0000b273f76f8deeba5370c98ad38f1c
+652,Flowers,neutral,Miley Cyrus,99,https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn,https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d
+653,Calm Down (with Selena Gomez),neutral,"Rema,Selena Gomez",97,https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8,https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf
+654,Boy's a liar Pt. 2,neutral,"PinkPantheress,Ice Spice",98,https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv,https://i.scdn.co/image/ab67616d0000b27342c5ba689b2e7cbc208a8fa7
+655,Kill Bill (feat. Doja Cat),neutral,"SZA,Doja Cat",86,https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ,https://i.scdn.co/image/ab67616d0000b273c3b70a0848d577bf5ae67b49
+656,Players,neutral,Coi Leray,93,https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij,https://i.scdn.co/image/ab67616d0000b2731cf7cf4446b496525e423465
+657,Escapism.,neutral,"RAYE,070 Shake",89,https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp,https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f
+658,Daylight,neutral,David Kushner,92,https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj,https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae
+659,Never Felt So Alone,neutral,Labrinth,88,https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo,https://i.scdn.co/image/ab67616d0000b2737dda6cb97a57f116f6fbf0be
+660,Die For You - Remix,neutral,"The Weeknd,Ariana Grande",95,https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki,https://i.scdn.co/image/ab67616d0000b2738de12a274f6e1df6634f57ec
+661,Anti-Hero,neutral,Taylor Swift,95,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+662,As It Was,neutral,Harry Styles,93,https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7,https://i.scdn.co/image/ab67616d0000b273b46f74097655d7f353caab14
+663,People,neutral,Libianca,92,https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz,https://i.scdn.co/image/ab67616d0000b273fc342f95f117d48dbdde9735
+664,BESO,neutral,"ROSALÍA,Rauw Alejandro",97,https://open.spotify.com/track/609E1JCInJncactoMmkDon,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+665,Creepin' (with The Weeknd & 21 Savage),neutral,"Metro Boomin,The Weeknd,21 Savage",97,https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+666,Search & Rescue,neutral,Drake,91,https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G,https://i.scdn.co/image/ab67616d0000b273cace8a4b2ff924c9e12e3a96
+667,Eyes Closed,neutral,Ed Sheeran,90,https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p,https://i.scdn.co/image/ab67616d0000b273340478dfce149f58e2327334
+668,golden hour,neutral,JVKE,91,https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg,https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954
+669,Miracle (with Ellie Goulding),neutral,"Calvin Harris,Ellie Goulding",91,https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ,https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0
+670,Until I Found You (with Em Beihold) - Em Beihold Version,neutral,"Stephen Sanchez,Em Beihold",94,https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN,https://i.scdn.co/image/ab67616d0000b2732bf0876d42b90a8852ad6244
+671,ceilings,neutral,Lizzy McAlpine,92,https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI,https://i.scdn.co/image/ab67616d0000b273d370fdc4dbc47778b9b667c3
+672,Snooze,neutral,SZA,93,https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1
+673,I Ain't Worried,neutral,OneRepublic,94,https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB,https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13
+674,Here With Me,neutral,d4vd,95,https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh,https://i.scdn.co/image/ab67616d0000b273efbe96040319db682b438f11
+675,CUFF IT,neutral,Beyoncé,90,https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS,https://i.scdn.co/image/ab67616d0000b2730e58a0f8308c1ad403d105e7
+676,OMG,neutral,NewJeans,94,https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
+677,Cupid - Twin Ver.,neutral,FIFTY FIFTY,94,https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
+678,Unholy (feat. Kim Petras),neutral,"Sam Smith,Kim Petras",93,https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG,https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4
+679,I'm Good (Blue),neutral,"David Guetta,Bebe Rexha",95,https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK,https://i.scdn.co/image/ab67616d0000b273933c036cd61cd40d3f17a9c4
+680,Just Wanna Rock,neutral,Lil Uzi Vert,92,https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d,https://i.scdn.co/image/ab67616d0000b2730e34fd68e8ff04e4515eb72a
+681,Moonlight,neutral,Kali Uchis,86,https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2,https://i.scdn.co/image/ab67616d0000b273b13b4a434585f484548e42c9
+682,Made You Look,neutral,Meghan Trainor,91,https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u,https://i.scdn.co/image/ab67616d0000b2731a4f1ada93881da4ca8060ff
+683,10:35,neutral,"Tiësto,Tate McRae",90,https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3,https://i.scdn.co/image/ab67616d0000b273999565cd8bea3f8f0985bb31
+684,Bones,neutral,Imagine Dragons,88,https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G,https://i.scdn.co/image/ab67616d0000b273813713582dcc508e7d5073c4
+685,un x100to,neutral,"Grupo Frontera,Bad Bunny",95,https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+686,If We Ever Broke Up,neutral,Mae Stephens,89,https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP,https://i.scdn.co/image/ab67616d0000b273918207ec2316cec13a0e036f
+687,Nonsense,neutral,Sabrina Carpenter,90,https://open.spotify.com/track/6dgUya35uo964z7GZXM07g,https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf
+688,Last Night,neutral,Morgan Wallen,91,https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8,https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2
+689,Bad Habit,neutral,Steve Lacy,87,https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK,https://i.scdn.co/image/ab67616d0000b2739904ecb0b1148a128bdd5e36
+690,LET GO,neutral,Central Cee,89,https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN,https://i.scdn.co/image/ab67616d0000b273cbb3701743a568e7f1c4e967
+691,Princess Diana (with Nicki Minaj),neutral,"Ice Spice,Nicki Minaj",84,https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV,https://i.scdn.co/image/ab67616d0000b2735dd17b2860b2a79d9dda8ec3
+692,I Like You (A Happier Song) (with Doja Cat),neutral,"Post Malone,Doja Cat",88,https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj,https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97
+693,La Bebe - Remix,neutral,"Yng Lvcas,Peso Pluma",97,https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+694,VOID,neutral,Melanie Martinez,81,https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx,https://i.scdn.co/image/ab67616d0000b273c8198f7160d64bb9e8eae7c1
+695,Lavender Haze,neutral,Taylor Swift,90,https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC,https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5
+696,Something in the Orange,neutral,Zach Bryan,89,https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI,https://i.scdn.co/image/ab67616d0000b273b2b6670e3aca9bcd55fbabbb
+697,Ella Baila Sola,neutral,"Eslabon Armado,Peso Pluma",100,https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb,https://i.scdn.co/image/ab67616d0000b2732071a0c79802d9375a53bfef
+698,Heaven,neutral,Niall Horan,89,https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt,https://i.scdn.co/image/ab67616d0000b273723c6c01155c023a9a9f8cf0
+699,FLOWER,neutral,JISOO,87,https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s,https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac
