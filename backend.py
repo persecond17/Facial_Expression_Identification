@@ -33,7 +33,9 @@ def get_recommendations():
         song_url_dict = target[['name', 'urls']].set_index('name').to_dict()['urls']
         song_artist_dict = target[['name', 'artist']].set_index('name').to_dict()['artist']
         song_img_dict = target[['name', 'imgs']].set_index('name').to_dict()['imgs']
-        song_list = random.sample(song_pool, 10)
+        song_pool = list(set(song_pool))
+        random.shuffle(song_pool)
+        song_list = random.sample(song_pool, 10) # sampling without duplicate
         url_list = [song_url_dict[song] for song in song_list]
         artist_list = [song_artist_dict[song] for song in song_list]
         img_list = [song_img_dict[song] for song in song_list]

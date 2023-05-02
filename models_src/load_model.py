@@ -5,7 +5,7 @@ import torch.nn as nn
 from torch.nn import functional as F
 from torch.utils.data import DataLoader
 from skimage.io import imread
-from skimage.io import imread
+from PIL import Image, ImageOps
 from skimage.transform import resize
 
 
@@ -13,13 +13,16 @@ def read_img_url(url):
     """
     Reads the image url and convert to a gray-scale matrix representation of the image.
     """
-    img_mat = imread(url, as_gray=True)
-    img_mat_resized = resize(img_mat, (48, 48), anti_aliasing=False)
-    img_mat_tensor = torch.from_numpy(img_mat_resized).type(torch.float32)
+    image = Image.open(url)
+    image = ImageOps.grayscale(image)
 
-    assert img_mat_tensor.shape == (48, 48)
+    # Resize the image to 50% of its original size
+    resized_image = image.resize((48, 48))
+    resized_image_mat = torch.from_numpy(np.array(resized_image.getdata()).reshape((48, 48))).type(torch.float32)
 
-    return img_mat_tensor
+    assert resized_image_mat.shape == (48, 48)
+
+    return resized_image_mat
 
 
 def predict_core(imgs, model_path, ModelClass, idx_to_label):
@@ -42,35 +45,35 @@ class FER_CNN(nn.Module):
         super(FER_CNN, self).__init__()
 
         # Conv block 1
-        self.conv1 = nn.Conv2d(in_channels=1,
-                               out_channels=64,
-                               kernel_size=(3, 3),
+        self.conv1 = nn.Conv2d(in_channels=1, 
+                               out_channels=64, 
+                               kernel_size=(3,3), 
                                padding='same')
         self.bn1 = nn.BatchNorm2d(num_features=64)
-
+        
         # Conv block 2
-        self.conv2 = nn.Conv2d(in_channels=64,
-                               out_channels=128,
-                               kernel_size=(5, 5),
+        self.conv2 = nn.Conv2d(in_channels=64, 
+                               out_channels=128, 
+                               kernel_size=(5,5), 
                                padding='same')
         self.bn2 = nn.BatchNorm2d(num_features=128)
-
+        
         # Conv block 3
-        self.conv3 = nn.Conv2d(in_channels=128,
-                               out_channels=512,
-                               kernel_size=(3, 3),
+        self.conv3 = nn.Conv2d(in_channels=128, 
+                               out_channels=512, 
+                               kernel_size=(3,3), 
                                padding='same')
         self.bn3 = nn.BatchNorm2d(num_features=512)
-
+        
         # Conv block 4
-        self.conv4 = nn.Conv2d(in_channels=512,
-                               out_channels=512,
-                               kernel_size=(3, 3),
+        self.conv4 = nn.Conv2d(in_channels=512, 
+                               out_channels=512, 
+                               kernel_size=(3,3), 
                                padding='same')
         self.bn4 = nn.BatchNorm2d(num_features=512)
-
+        
         # fully connected layer 1
-        self.fc1 = nn.Linear(in_features=512 * 3 * 3, out_features=256)
+        self.fc1 = nn.Linear(in_features=512*3*3, out_features=256)
         self.bn_fc1 = nn.BatchNorm1d(num_features=256)
 
         # fully connected layer 2
@@ -81,7 +84,7 @@ class FER_CNN(nn.Module):
         self.fc3 = nn.Linear(in_features=512, out_features=7)
 
         # max pooling layer
-        self.max_pool = nn.MaxPool2d(kernel_size=(2, 2))
+        self.max_pool = nn.MaxPool2d(kernel_size=(2,2))
 
         # activation
         self.relu = nn.ReLU()
@@ -119,7 +122,7 @@ class FER_CNN(nn.Module):
         x = self.dropout(x)
 
         # flatten x
-        x = x.view(-1, 512 * 3 * 3)
+        x = x.view(-1, 512*3*3)
 
         # fc1
         x = self.fc1(x)
