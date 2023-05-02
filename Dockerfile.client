@@ -4,6 +4,8 @@ WORKDIR /Facial_Expression_Identification
 COPY package*.json ./
 RUN npm install 
 RUN npm install react-scripts@3.4.1 -g --silent
+RUN npm install @mui/material@5.0.0
+RUN npm install @mui/icons-material@5.0.0
 COPY . .
 
 CMD ["npm", "start"]

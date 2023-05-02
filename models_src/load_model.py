@@ -42,35 +42,35 @@ class FER_CNN(nn.Module):
         super(FER_CNN, self).__init__()
 
         # Conv block 1
-        self.conv1 = nn.Conv2d(in_channels=1, 
-                               out_channels=64, 
-                               kernel_size=(3,3), 
+        self.conv1 = nn.Conv2d(in_channels=1,
+                               out_channels=64,
+                               kernel_size=(3, 3),
                                padding='same')
         self.bn1 = nn.BatchNorm2d(num_features=64)
-        
+
         # Conv block 2
-        self.conv2 = nn.Conv2d(in_channels=64, 
-                               out_channels=128, 
-                               kernel_size=(5,5), 
+        self.conv2 = nn.Conv2d(in_channels=64,
+                               out_channels=128,
+                               kernel_size=(5, 5),
                                padding='same')
         self.bn2 = nn.BatchNorm2d(num_features=128)
-        
+
         # Conv block 3
-        self.conv3 = nn.Conv2d(in_channels=128, 
-                               out_channels=512, 
-                               kernel_size=(3,3), 
+        self.conv3 = nn.Conv2d(in_channels=128,
+                               out_channels=512,
+                               kernel_size=(3, 3),
                                padding='same')
         self.bn3 = nn.BatchNorm2d(num_features=512)
-        
+
         # Conv block 4
-        self.conv4 = nn.Conv2d(in_channels=512, 
-                               out_channels=512, 
-                               kernel_size=(3,3), 
+        self.conv4 = nn.Conv2d(in_channels=512,
+                               out_channels=512,
+                               kernel_size=(3, 3),
                                padding='same')
         self.bn4 = nn.BatchNorm2d(num_features=512)
-        
+
         # fully connected layer 1
-        self.fc1 = nn.Linear(in_features=512*3*3, out_features=256)
+        self.fc1 = nn.Linear(in_features=512 * 3 * 3, out_features=256)
         self.bn_fc1 = nn.BatchNorm1d(num_features=256)
 
         # fully connected layer 2
@@ -81,7 +81,7 @@ class FER_CNN(nn.Module):
         self.fc3 = nn.Linear(in_features=512, out_features=7)
 
         # max pooling layer
-        self.max_pool = nn.MaxPool2d(kernel_size=(2,2))
+        self.max_pool = nn.MaxPool2d(kernel_size=(2, 2))
 
         # activation
         self.relu = nn.ReLU()
@@ -119,7 +119,7 @@ class FER_CNN(nn.Module):
         x = self.dropout(x)
 
         # flatten x
-        x = x.view(-1, 512*3*3)
+        x = x.view(-1, 512 * 3 * 3)
 
         # fc1
         x = self.fc1(x)
