@@ -9,7 +9,7 @@ The aim of InMood is to provide users with a truly personalized and unique exper
 To showcase the power of InMood, we created a demo that generates customized music playlists based on users' uploaded images, accurately analyzing their facial expressions to determine their emotions.
 InMood's unparalleled level of personalization, emotional resonance, and adaptability makes it a superior choice over traditional music recommendation strategies. Our technology delivers an exceptional music listening experience that truly connects with users on a deep emotional level.
 
-### **Demo Link: [InMood](http://3.145.159.88:3000/)**
+### **Demo Link: [InMood](http://52.15.96.49:3000/)**
 
 ![Alt text](./img/step_1.jpg)
 
@@ -39,7 +39,7 @@ We are open to collaboration with other content platforms. The InMood Emotion-Ba
 
 
 ## Team
-- [Yichen Zhao](mailto:alexyczhao@gmail.com) is responsible for CNN model development, training, and deployment.
-- [Xin Ai](mailto:xinnnnn.ai@gmail.com) is in charge of full-stack  development and implementing cloud-based launch (AWS).
-- [Xinyi (Jessica) Wang](mailto:wangxinyi1986@gmail.com) oversees questionnaires, environment configuration, and presentation.
-- [Chuyi (Joy) Huang](mailto:chuang86@usfca.edu) handles marketing research and strategy for the final product.
+- [Yichen Zhao](mailto:alexyczhao@gmail.com) is responsible for developing, training, and deploying the CNN model.
+- [Xin Ai](mailto:xinnnnn.ai@gmail.com) is in charge of full-stack development and implementing the cloud-based launch on AWS.
+- [Xinyi (Jessica) Wang](mailto:wangxinyi1986@gmail.com) is responsible for overseeing the questionnaire design, environment configuration, and presentation.
+- [Chuyi (Joy) Huang](mailto:chuang86@usfca.edu) handles marketing research and strategy to drive the success of the final product.
