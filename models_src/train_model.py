@@ -154,7 +154,7 @@ optimizer = torch.optim.SGD(model.parameters(), lr=lr)
 
 idx_to_label = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
 num_batches = len(train_loader)
-num_epochs = 50
+num_epochs = 80
 
 model.train()
 
