@@ -16,10 +16,10 @@ InMood's unparalleled level of personalization, emotional resonance, and adaptab
 ### Steps
 Using the InMood Emotion-Based Music Playlist Generator is remarkably simple and user-friendly.
 
-- Users can effortlessly upload their facial images with a click of a button.
+- Users can easily upload their facial images with just one click of a button, **ensuring that the image contains only from the jaw to the top of their head**.
 - The InMood engine then performs real-time analysis of their facial expressions when the "Create Playlist" button is clicked.
-- Based on the emotions detected, the InMood engine generates a customized music playlist that aligns perfectly with the user's current mood and emotional state.
-- Users can embark on their emotional music journey, carefully curated to evoke specific emotions and enhance their overall music listening experience.
+- Based on the emotions detected, the InMood engine generates a customized playlist that aligns perfectly with the user's current mood and emotional state.
+- With just one click, users can easily jump to Spotify and start listening to their personalized playlist created by InMood, embarking on an emotional music journey tailored to their individual mood.
 
 ### Examples
 ![Alt text](./img/step_2.jpg)
@@ -35,11 +35,11 @@ The InMood Emotion-Based Music Playlist Generator boasts numerous advantages ove
 
 
 ## Cooperation
-We are open to collaboration with other content platforms. The InMood Emotion-Based Music Playlist Generator can be easily integrated into existing music streaming platforms or apps, augmenting their recommendation capabilities and providing a unique competitive advantage.
+We're open to collaborating with other platforms and applications. The InMood facial expression identification engine can seamlessly integrate into existing content, product, or ad streaming, enhancing their recommendation capabilities and providing a distinct competitive edge.
 
 
 ## Team
 - [Yichen Zhao](mailto:alexyczhao@gmail.com) is responsible for developing, training, and deploying the CNN model.
 - [Xin Ai](mailto:xinnnnn.ai@gmail.com) is in charge of full-stack development and implementing the cloud-based launch on AWS.
-- [Xinyi (Jessica) Wang](mailto:wangxinyi1986@gmail.com) is responsible for overseeing the questionnaire design, environment configuration, and presentation.
+- [Xinyi (Jessica) Wang](mailto:wangxinyi1986@gmail.com) is responsible for overseeing the questionnaire design and environment configuration.
 - [Chuyi (Joy) Huang](mailto:chuang86@usfca.edu) handles marketing research and strategy to drive the success of the final product.
