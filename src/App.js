@@ -37,7 +37,7 @@ const App = () => {
       formData.append('image', image); // Append the image file to FormData
       console.log('image', image)
       // https://inmood-backend.netlify.app/
-      const response = await fetch('http://127.0.0.1:5000', {
+      const response = await fetch('http://0.0.0.0:5000', {
         method: 'POST',
         body: formData, // Set the FormData as the request body
       });

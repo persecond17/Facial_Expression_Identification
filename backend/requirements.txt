@@ -4,3 +4,4 @@ numpy==1.23.5
 pandas==1.5.3
 torch==2.0.0
 scikit-image==0.20.0
+Gunicorn==20.1.0
