@@ -4,6 +4,8 @@ At the heart of InMood is a cutting-edge facial expression identification engine
  
 The aim of InMood is to provide users with a truly personalized and unique experience that goes beyond traditional recommendation strategies. By harnessing the power of facial expressions as potent indicators of emotions, InMood taps into this rich source of information to curate music playlists, video recommendations, potential loved goods, and more that deeply resonate with users on an emotional level.
 
+## Model Architecture (CNN)
+![Alt text](./img/model.png)
 
 ## Application: InMood Emotion-Based Music Playlist Generator
 To showcase the power of InMood, we created a demo that generates customized music playlists based on users' uploaded images, accurately analyzing their facial expressions to determine their emotions.
