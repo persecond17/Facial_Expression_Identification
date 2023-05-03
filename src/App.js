@@ -36,8 +36,8 @@ const App = () => {
       const formData = new FormData();
       formData.append('image', image); // Append the image file to FormData
       console.log('image', image)
-      // https://inmood-backend.netlify.app/
-      const response = await fetch('https://jq069cu6zg.execute-api.us-east-2.amazonaws.com/default/InMood_backend', {
+
+      const response = await fetch('http://13.59.133.47:5000', {
         method: 'POST',
         body: formData, // Set the FormData as the request body
       });
