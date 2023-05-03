@@ -8,4 +8,4 @@ COPY . .
 ENV FLASK_ENV production
 EXPOSE 5000
 ENTRYPOINT [ "python" ]
-CMD ["backend.py" ]
+CMD ["backend/backend.py" ]
