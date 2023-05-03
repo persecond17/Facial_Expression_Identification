@@ -9,8 +9,8 @@ from models_src.load_model import *
 app = Flask(__name__)
 CORS(app, origins='*')
 
-model_path = 'models/fer_cnn_v03.pth'
-df = pd.read_csv('song_list.csv')
+model_path = '../models/fer_cnn_v03.pth'
+df = pd.read_csv('../song_list.csv')
 output_path = 'image.jpg'
 
 def convert_binary_to_image(data, output_path):
@@ -19,7 +19,7 @@ def convert_binary_to_image(data, output_path):
         f.write(response.file.read())
     return output_path
 
-@app.route("/get_recommendations/", methods=['POST'])
+@app.route("/", methods=['POST'])
 def get_recommendations():
     try:
         if 'image' not in request.form:
