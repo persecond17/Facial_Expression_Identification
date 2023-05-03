@@ -36,7 +36,7 @@ const App = () => {
       const formData = new FormData();
       formData.append('image', image); // Append the image file to FormData
       console.log('image', image)
-
+      
       const response = await fetch('https://inmood-backend.netlify.app/', {
         method: 'POST',
         body: formData, // Set the FormData as the request body
@@ -80,7 +80,7 @@ const App = () => {
           position: 'relative',
           maxWidth: '1000px',
           margin: '0 auto',
-          height: '200vh',
+          height: '210vh',
         }}>
         <div style={{
           position: 'absolute',
