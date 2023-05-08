@@ -11,7 +11,7 @@ The aim of InMood is to provide users with a truly personalized and unique exper
 To showcase the power of InMood, we created a demo that generates customized music playlists based on users' uploaded images, accurately analyzing their facial expressions to determine their emotions.
 InMood's unparalleled level of personalization, emotional resonance, and adaptability makes it a superior choice over traditional music recommendation strategies. Our technology delivers an exceptional music listening experience that truly connects with users on a deep emotional level.
 
-### **Demo Link: [InMood](https://inmood.netlify.app)**
+### **Demo Link: [InMood](http://18.216.112.163:3000/)**
 
 ![Alt text](./img/step_1.jpg)
 
