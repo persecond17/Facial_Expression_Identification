@@ -7,6 +7,14 @@ The aim of InMood is to provide users with a truly personalized and unique exper
 ## Model Architecture (CNN)
 <img src="https://raw.githubusercontent.com/NJNischal/Facial-Expression-Recognition-with-CNNs/9999cbdaa55542e86e11a9e129bafcfb96bd0e60//model.png">
 
+This model architecture starts with four 2-dimensional convolutional layers followed by 2 fully connected layers with a Softmax layer at the end to align with the purpose of multi-class classification. Such a model structure resembles AlexNet because of its outstanding performance in image classification for most of the image datasets. Especially, this model uses nonlinear activation functions, regularization and data augmentation techniques after each convolutional layer that allow the model to capture more discriminative features from the image input:
+
+- Nonlinear activation functions: this model uses Rectified Linear Units (ReLU), which allows the network to learn more complex decision boundaries.
+
+- Data augmentation: this model applies various data augmentation techniques to the input images, such as cropping, flipping, and color jittering. These techniques help the network to learn invariant features that are robust to changes in the input image.
+
+- Regularization: this model uses regularization techniques such as dropout and weight decay to prevent overfitting and improve generalization.
+
 ## Application: InMood Emotion-Based Music Playlist Generator
 To showcase the power of InMood, we created a demo that generates customized music playlists based on users' uploaded images, accurately analyzing their facial expressions to determine their emotions.
 InMood's unparalleled level of personalization, emotional resonance, and adaptability makes it a superior choice over traditional music recommendation strategies. Our technology delivers an exceptional music listening experience that truly connects with users on a deep emotional level.
@@ -45,3 +53,7 @@ We're open to collaborating with other platforms and applications. The InMood fa
 - [Xin Ai](mailto:xinnnnn.ai@gmail.com) is in charge of full-stack development and implementing the cloud-based launch on AWS.
 - [Xinyi (Jessica) Wang](mailto:wangxinyi1986@gmail.com) is responsible for overseeing the questionnaire design and environment configuration.
 - [Chuyi (Joy) Huang](mailto:chuang86@usfca.edu) handles marketing research and strategy to drive the success of the final product.
+
+## Source
+
+- [https://github.com/NJNischal/Facial-Expression-Recognition-with-CNNs](https://github.com/NJNischal/Facial-Expression-Recognition-with-CNNs)
