@@ -19,7 +19,8 @@ This model architecture starts with four 2-dimensional convolutional layers foll
 To showcase the power of InMood, we created a demo that generates customized music playlists based on users' uploaded images, accurately analyzing their facial expressions to determine their emotions.
 InMood's unparalleled level of personalization, emotional resonance, and adaptability makes it a superior choice over traditional music recommendation strategies. Our technology delivers an exceptional music listening experience that truly connects with users on a deep emotional level.
 
-### **Demo Link: [InMood](http://18.222.136.94:3000/)**
+### **Demo Link: [InMood - Streamlit](https://persecond17-facial-expression-identificati-streamlit-app-zz75dx.streamlit.app/)**
+### **Demo Link: [InMood - React](https://inmood.netlify.app/)**
 
 ![Alt text](./img/step_1.jpg)
 
